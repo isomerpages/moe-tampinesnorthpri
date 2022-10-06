@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - School Publication.md
       - Contact Us.md
