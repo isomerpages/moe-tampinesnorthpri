@@ -14,26 +14,22 @@ description: ""
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 540px">
-<colgroup>
-<col style="width: 259px">
-<col style="width: 281px">
-</colgroup>
+<table class="tg">
 <tbody>
   <tr>
-    <td class="tg-dgl5">Days</td>
-    <td class="tg-dgl5">Time</td>
+    <td class="tg-dgl5">Days<br></td>
+    <td class="tg-dgl5">Time<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mon - Thurs</td>
-    <td class="tg-zr06">7.30 am to 1.30 pm</td>
+    <td class="tg-zr06">Mon - Thurs<br></td>
+    <td class="tg-zr06">7.30 am to 1.30 pm<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Fri</td>
-    <td class="tg-zr06">7.30 am to 12.45 pm</td>
+    <td class="tg-zr06">Fri<br></td>
+    <td class="tg-zr06">7.30 am to 12.45 pm<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">CCA days (Mon and/or Thurs)</td>
+    <td class="tg-zr06">CCA days (Mon and/or Thurs)<br></td>
     <td class="tg-zr06">2.00 pm to 4.30 pm</td>
   </tr>
 </tbody>
