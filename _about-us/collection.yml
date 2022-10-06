@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff/P3 & P4 Teachers.md
       - Staff/P5 & P6 Teachers.md
       - Staff/Support Staff.md
       - Staff/.keep
