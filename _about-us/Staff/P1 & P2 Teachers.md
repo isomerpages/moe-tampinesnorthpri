@@ -14,15 +14,16 @@ third_nav_title: Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-f4yw">Class<br></td>
-    <td class="tg-f4yw">Form Teachers<br></td>
-    <td class="tg-f4yw">Class<br></td>
-    <td class="tg-f4yw">Form Teachers<br></td>
+    <td class="tg-2g1l">Class<br></td>
+    <td class="tg-2g1l">Form Teachers<br></td>
+    <td class="tg-2g1l">Class<br></td>
+    <td class="tg-2g1l">Form Teachers<br></td>
   </tr>
   <tr>
     <td class="tg-f4yw" rowspan="2">P1.1<br></td>
@@ -75,15 +76,16 @@ third_nav_title: Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-f4yw">Class<br></td>
-    <td class="tg-f4yw">Form Teachers<br></td>
-    <td class="tg-f4yw">Class<br></td>
-    <td class="tg-f4yw">Form Teachers<br></td>
+    <td class="tg-2g1l">Class<br></td>
+    <td class="tg-2g1l">Form Teachers<br></td>
+    <td class="tg-2g1l">Class<br></td>
+    <td class="tg-2g1l">Form Teachers<br></td>
   </tr>
   <tr>
     <td class="tg-f4yw" rowspan="2">P2.1<br></td>
@@ -127,4 +129,3 @@ third_nav_title: Staff
   </tr>
 </tbody>
 </table>
-
