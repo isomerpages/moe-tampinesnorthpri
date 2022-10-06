@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Virtual Tour/Library.md
       - School Virtual Tour/School Virtual Tour.md
       - School Virtual Tour/.keep
       - School Operating Information.md
