@@ -7,6 +7,7 @@ third_nav_title: Staff
 ![](/images/EAS%201.jpeg)
 
 ### Administration and Support Staff
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -14,7 +15,6 @@ third_nav_title: Staff
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <tbody>
@@ -38,7 +38,7 @@ third_nav_title: Staff
     <td class="tg-f4yw">Ms Adeline<br></td>
   </tr>
   <tr>
-    <td class="tg-7yig"></td>
+    <td class="tg-f4yw"></td>
   </tr>
   <tr>
     <td class="tg-f4yw">Mr Abdul Hakim<br></td>
