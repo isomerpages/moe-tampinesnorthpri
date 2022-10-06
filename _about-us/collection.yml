@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Virtual Tour.md
       - School Operating Information.md
       - School Safety.md
       - School Publication.md
