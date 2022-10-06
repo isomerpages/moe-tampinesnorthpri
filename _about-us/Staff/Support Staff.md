@@ -72,3 +72,39 @@ third_nav_title: Staff
   </tr>
 </tbody>
 </table>
+
+![](/images/student%20support%20staff.jpeg)
+
+
+### Student Support Staff
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-f4yw">School Counsellor<br></td>
+    <td class="tg-f4yw">Miss Jaclyn Kwan Poh Chue<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">AED (LBS)<br></td>
+    <td class="tg-f4yw">Mdm Tham Mei Fong, Riter<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">AED (LBS)<br></td>
+    <td class="tg-f4yw">Mdm Nurfazlin Binte Mohd<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">AED (T&amp;L)<br></td>
+    <td class="tg-f4yw">Mr Phee Kien Hin, Albert</td>
+  </tr>
+</tbody>
+</table>
+
+For all enquiries, please contact us at [tnps@moe.edu.sg](mailto:tnps@moe.edu.sg)
