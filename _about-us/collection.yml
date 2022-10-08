@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Profile/School Song.md
       - School Profile/School Profile.md
       - School Profile/.keep
       - School Advisory Committee.md
