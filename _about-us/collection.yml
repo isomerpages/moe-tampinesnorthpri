@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's message.md
       - Vision Mission Values.md
       - School Profile/School Song.md
       - School Profile/School Profile.md
