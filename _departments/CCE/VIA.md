@@ -53,3 +53,7 @@ Overview of activities:
   </tr>
 </tbody>
 </table>
+
+![](/images/via1.png)
+![](/images/via2.png)
+![](/images/via3.png)
