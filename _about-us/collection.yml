@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Advisory Committee.md
       - Staff/Head Staff.md
       - Staff/P1 & P2 Teachers.md
       - Staff/P3 & P4 Teachers.md
