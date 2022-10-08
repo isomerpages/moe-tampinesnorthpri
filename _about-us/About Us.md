@@ -5,7 +5,8 @@ description: ""
 ---
 ![](/images/au1.png)
 
-<table style="undefined;table-layout: fixed; width: 700px" class="tg">
+<center>
+	<table style="undefined;table-layout: fixed; width: 700px" class="tg">
 <colgroup>
 <col style="width: 350px">
 <col style="width: 350px">
@@ -21,6 +22,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+	</center>
 
 3rd October 2019 marked a momentous milestone for Tampines North as we celebrated our 25th birthday. Apart from the many pre-anniversary activities students took part in, the school was abuzz with activity on the actual day. All students were involved in the celebration, with heartfelt messages and mementos going into the time capsule. Performances, game booths, bouncy castles, art activities and water soccer were some of the activities our students got to experience. Our students also wrote down their wishes and aspirations for the school to be displayed on a beautiful and symbolic wall mural titled "Soar on Wings".
 
