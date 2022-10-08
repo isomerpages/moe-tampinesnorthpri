@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ICT/Cyberwellness.md
       - ICT/.keep
       - CCE/CCE.md
       - CCE/VIA.md
