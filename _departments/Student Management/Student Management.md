@@ -4,7 +4,7 @@ permalink: /departments/Student-Management/student-management/
 description: ""
 third_nav_title: Student Management
 ---
-##### To develop students with self-discipline and strong values to learn and lead
+#### To develop students with self-discipline and strong values to learn and lead
 
 
 In TNPS, we aim to develop students to have self-discipline and strong values to learn and lead.
