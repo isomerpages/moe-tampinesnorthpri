@@ -8,11 +8,15 @@ ECG develops each student's self-identity and ability to make education and care
 
 **Vision**
 
-![](/images/ECG%20Learning%20Goals.jpeg)
+<img src="/images/ECG%20Learning%20Goals.jpeg" 
+     style="width:45%">
+
 
 ECG lessons have been incorporated into the Form-Teacher Guidance Periods (FTGP) package. These lessons cover an array of topics meant to allow students to discover their interests, abilities and career aspirations as well as to gain more understanding and awareness of the secondary education landscape.
 
-![](/images/ecgCurriculum.jpeg)
+<img src="/images/ecgCurriculum.jpeg" 
+     style="width:55%">
+
 
 Students from Primary 5 onwards can also utilise the MySkillsFuture Student Portal for further exploration.   
 MySkillsFuture portal [https://www.myskillsfuture.sg/primary](https://www.myskillsfuture.sg/primary)
