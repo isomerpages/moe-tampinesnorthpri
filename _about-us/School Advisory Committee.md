@@ -73,13 +73,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/vincentyeo.png" 
-     style="width:65%"></td>
+     style="width:65%"><br>Mr Vincent Yeo</td>
     <td class="tg-0lax"><img src="/images/paulinetan.png" 
-     style="width:65%"></td>
+     style="width:65%"><br>Ms Pauline Tan</td>
     <td class="tg-0lax"><img src="/images/cheahchoithim.png" 
-     style="width:65%"></td>
+     style="width:65%"><br>Mr Cheah Choi Thim</td>
     <td class="tg-0lax"><img src="/images/chrisyap.png" 
-     style="width:65%"></td>
+     style="width:65%"><br>Mr Chris Yap</td>
   </tr>
 </tbody>
 </table>
