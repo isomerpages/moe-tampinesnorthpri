@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Profile.md
       - School Advisory Committee.md
       - Staff/Head Staff.md
       - Staff/P1 & P2 Teachers.md
