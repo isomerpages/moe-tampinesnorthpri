@@ -69,17 +69,17 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-wa1i" colspan="4"><img src="/images/terence leong.png" 
-																				 style="width:15%"><br>Mr Terence Leong<br><em>Chairman</em></td>
+																				 style="width:15%">Mr Terence Leong<br><em>Chairman</em></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><img src="/images/vincentyeo.png" 
-     style="width:65%"><br>Mr Vincent Yeo</td>
+     style="width:65%">Mr Vincent Yeo</td>
     <td class="tg-wa1i"><img src="/images/paulinetan.png" 
-     style="width:65%"><br>Ms Pauline Tan</td>
+     style="width:65%">Ms Pauline Tan</td>
     <td class="tg-wa1i"><img src="/images/cheahchoithim.png" 
-     style="width:65%"><br>Mr Cheah Choi Thim</td>
+     style="width:65%">Mr Cheah Choi Thim</td>
     <td class="tg-wa1i"><img src="/images/chrisyap.png" 
-     style="width:65%"><br>Mr Chris Yap</td>
+     style="width:65%">Mr Chris Yap</td>
   </tr>
 	<tr>
 		<td class="tg-wa1i" colspan="4"><em>Members of the TNPS School Advisory Committee</em>
