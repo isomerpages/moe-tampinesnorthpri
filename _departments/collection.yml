@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Pe, Art and Music/Pe, Art and Music.md
       - Pe, Art and Music/PE.md
       - Pe, Art and Music/Art.md
       - Pe, Art and Music/Music.md
