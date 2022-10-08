@@ -15,7 +15,7 @@ ECG develops each student's self-identity and ability to make education and care
 ECG lessons have been incorporated into the Form-Teacher Guidance Periods (FTGP) package. These lessons cover an array of topics meant to allow students to discover their interests, abilities and career aspirations as well as to gain more understanding and awareness of the secondary education landscape.
 
 <img src="/images/ecgCurriculum.jpeg" 
-     style="width:55%">
+     style="width:65%">
 
 
 Students from Primary 5 onwards can also utilise the MySkillsFuture Student Portal for further exploration.   
