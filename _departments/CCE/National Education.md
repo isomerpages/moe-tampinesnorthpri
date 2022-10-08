@@ -18,4 +18,4 @@ In TNPS, we aim to engage students through a shared and narrative approach that 
 
 Students will take part in NE events such as the 4 NE commemorative days (Total Defence Day / International Friendship Day / Racial Harmony Day / National Day), Assembly programmes, Cohort Learning Journey, NE Show and NE quiz etc. These experiences develop our students to be engaged citizens who are socially aware, adept at critical thinking who can play a contributory role in the community and towards the nation.
 
-<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQjzhFAS-IRHJ8TjMOwvF-yx2QSyAW0YaMFTxVBx3ShVPivkFcWpFKW_InMKePxASs00iD5r_beqW2c/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQjzhFAS-IRHJ8TjMOwvF-yx2QSyAW0YaMFTxVBx3ShVPivkFcWpFKW_InMKePxASs00iD5r_beqW2c/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
