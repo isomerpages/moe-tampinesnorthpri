@@ -88,3 +88,115 @@ third_nav_title: Staff
   </tr>
 </tbody>
 </table>
+
+### Year Heads / Assistant Year-Heads
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-2g1l">Year Head (P1&amp;P2)<br></td>
+    <td class="tg-f4yw">Mrs Marlene Kiw<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Assistant Year-Head (P1 to P2)<br></td>
+    <td class="tg-f4yw">Mr Edward Yee<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Year Head (P3&amp;P4)<br></td>
+    <td class="tg-f4yw">Mr Zulhisham Ahmad<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Year Head (P5&amp;P6)<br></td>
+    <td class="tg-f4yw">Mr De Cruz David Jeremiah</td>
+  </tr>
+</tbody>
+</table>
+
+### Subject Heads / Level Heads
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-2g1l">Level Head (English)<br></td>
+    <td class="tg-f4yw">Mrs Pauline Loo<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Level Head (Mathematics)<br></td>
+    <td class="tg-f4yw">Mdm Helen Wam<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Subject Head (Science)<br></td>
+    <td class="tg-f4yw">Mr Mohammad Fahmy B Surahman<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Subject Head (CCE)<br></td>
+    <td class="tg-f4yw">Mr Steven Goh<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l"> Subject Head (ICT)</td>
+    <td class="tg-f4yw">Ms Candy Lim Yun Yun </td>
+  </tr>
+</tbody>
+</table>
+
+### Senior Teachers
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-2g1l">Senior Teacher (EL)<br></td>
+    <td class="tg-f4yw">Ms Tan Mei Yen<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Senior Teacher (SCI)<br></td>
+    <td class="tg-f4yw">Mdm Zulia Said<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Senior Teacher (ML)<br></td>
+    <td class="tg-f4yw">Mdm Fadzilah Mohd Idris<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Senior Teacher (ML)<br></td>
+    <td class="tg-f4yw">Mdm Salinah Rahman<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Senior Teacher (CCE)<br></td>
+    <td class="tg-f4yw">Mdm Irma Darny<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Senior Teacher (ART)<br></td>
+    <td class="tg-f4yw">Mrs Angelina Chia<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2g1l">Senior Teacher (Lower Pri)<br></td>
+    <td class="tg-f4yw">Mdm Rafidah Ridzuan</td>
+  </tr>
+</tbody>
+</table>
