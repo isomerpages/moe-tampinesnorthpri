@@ -12,4 +12,4 @@ description: ""
 
 
 <center><h5>School Values</h5></center>
-<center>Integrity<br>Care<br>Respect<br>Resilience<br>Responsibility</center>
+<center><strong>I</strong>ntegrity<br><strong>C</strong>are<br><strong>R</strong>espect<br><strong>R</strong>esilience<br><strong>R</strong>esponsibility</center>
