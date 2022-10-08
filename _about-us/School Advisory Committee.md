@@ -57,7 +57,7 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
@@ -68,17 +68,17 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax" colspan="4"><img src="/images/terence leong.png" 
+    <td class="tg-wa1i" colspan="4"><img src="/images/terence leong.png" 
 																				 style="width:15%"><br>Mr Terence Leong<br><em>Chairman</em></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/vincentyeo.png" 
+    <td class="tg-wa1i"><img src="/images/vincentyeo.png" 
      style="width:65%"><br>Mr Vincent Yeo</td>
-    <td class="tg-0lax"><img src="/images/paulinetan.png" 
+    <td class="tg-wa1i"><img src="/images/paulinetan.png" 
      style="width:65%"><br>Ms Pauline Tan</td>
-    <td class="tg-0lax"><img src="/images/cheahchoithim.png" 
+    <td class="tg-wa1i"><img src="/images/cheahchoithim.png" 
      style="width:65%"><br>Mr Cheah Choi Thim</td>
-    <td class="tg-0lax"><img src="/images/chrisyap.png" 
+    <td class="tg-wa1i"><img src="/images/chrisyap.png" 
      style="width:65%"><br>Mr Chris Yap</td>
   </tr>
 </tbody>
