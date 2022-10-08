@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Student Management/Discipline.md
       - Student Management/.keep
