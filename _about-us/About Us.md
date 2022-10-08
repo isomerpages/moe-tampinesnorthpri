@@ -32,7 +32,7 @@ description: ""
 
 On the eve of the Teachers’ Day Celebration last year, our students and staff witnessed the sealing of the ‘Time Capsule’. Our students and staff spent months preparing and the moment finally came for us to fill it with heartfelt messages and mementos. The capsule will serve to commemorate the past 25 years of our wonderful memories, both as a memento of the present, and as a message for the TNPS family in the time to come.
 
-<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXez5V0yjnkVGcFKEC9ESBDiO1V2zlDgcL8hnNsxLiY3BprwXhPKppa0GXsxQI-vMpVlp-1HXIVXvy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXez5V0yjnkVGcFKEC9ESBDiO1V2zlDgcL8hnNsxLiY3BprwXhPKppa0GXsxQI-vMpVlp-1HXIVXvy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 ### ACHIEVEMENT WALL
 To celebrate the achievement of our past and present students and teachers, our Achievement Wall was unveiled as part of the 25th Anniversary celebrations.
