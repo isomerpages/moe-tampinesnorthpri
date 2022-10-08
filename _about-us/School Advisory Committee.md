@@ -72,10 +72,14 @@ description: ""
 																				 style="width:15%"><br>Mr Terence Leong<br><em>Chairman</em></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/vincentyeo.png" 
+     style="width:65%"></td>
+    <td class="tg-0lax"><img src="/images/paulinetan.png" 
+     style="width:65%"></td>
+    <td class="tg-0lax"><img src="/images/cheahchoithim.png" 
+     style="width:65%"></td>
+    <td class="tg-0lax"><img src="/images/chrisyap.png" 
+     style="width:65%"></td>
   </tr>
 </tbody>
 </table>
