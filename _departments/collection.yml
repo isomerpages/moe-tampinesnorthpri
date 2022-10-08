@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Pe, Art and Music.md
       - ICT/ICT.md
       - ICT/Cyberwellness.md
       - ICT/.keep
