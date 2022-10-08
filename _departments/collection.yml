@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/National Education.md
       - CCE/Education and Career Guidance (ECG).md
       - CCE/.keep
