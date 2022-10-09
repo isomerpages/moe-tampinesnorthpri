@@ -48,3 +48,25 @@ Silibus Bahasa Melayu bertujuan untuk membentuk murid supaya dapat:
 
 
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnCDvXFJxcmlUT8fL1fSuIEguyfKAhuK--77dqVHsDgsWImlA0LD9v0S7JxpQ2KnkadTNyF70mJoDc/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
+
+### Virtual OPS Baca Talent Competition 2021
+
+**Announcement**  
+
+Our very own homegrown talents are participating in the Virtual Ops Baca 2021 Talent Competition organised by the Tampines Central Community Centre. Do join us from your living room as we watch them on FB Live at 11.30am to 1.30pm today!
+
+  
+
+Pls click the link below to watch:
+
+[https://www.facebook.com/MAEC-Tampines-Central-526041157604108/](https://www.facebook.com/MAEC-Tampines-Central-526041157604108/)
+
+Proud to present our TNPS homegrown talents:
+
+**Primary 2**    
+**Category Lakonan Buku (Book Dramatization)**
+
+1. Ryan Haris bin Kamal (2.2) 
+2. Aufa Zafran bin Abdul Rasid (2.1)
+3. Sarah binte Muhammad Farihan (2.2)
+4. Nur Dina Arissa binte Mohamad Hanaffi (2.2)
