@@ -70,3 +70,50 @@ Proud to present our TNPS homegrown talents:
 2. Aufa Zafran bin Abdul Rasid (2.1)
 3. Sarah binte Muhammad Farihan (2.2)
 4. Nur Dina Arissa binte Mohamad Hanaffi (2.2)
+
+(embed video 6)
+
+**Primary 3**    
+**Category Promosi Buku (Book Promotion)**
+
+1. Nur Tiara Adelya binte Mohammed Faizal (3.4)
+2. Muhammad Idris bin Muhammad Dzarif (3.6)
+
+(embed video 7)
+
+**Primary 4**    
+**Category Lain Pula! (It’s Different!)**
+
+1. Khalysa Eliana binte Muhammad Khamis (4.2)
+2. Mika Rifqi bin Muhammad Nasser (4.2)
+3. Ifa Almira binte Mohamad Fardly (4.4)
+
+(embed video 8)
+
+**Primary 5**    
+**Category Di Alaf Baharu (In a New Era)**
+1. Sharleez Aleesya binte Muhammad Remizan (5.4)
+2. Faiqa Annisa binte Haidil Aswad (5.3)
+3. Zabir Iman bin Adi Hakim (5.3)
+4. Muhammad Firdaus Dhaifullah bin Borhan (5.2)
+
+
+(embed video 9)
+
+---------
+
+**_Winners:_**
+
+We attained the following results for our Virtual Ops Baca Talent Competition.
+
+  
+
+**P2 -  1st**   
+**P3 -  2nd**   
+**P4 -  2nd**   
+**P5 -  2nd**
+
+
+TNPS emerged as **OVERALL CHAMPION** in this competition🏆
+
+
