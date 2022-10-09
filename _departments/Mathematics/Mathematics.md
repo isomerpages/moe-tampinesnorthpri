@@ -10,7 +10,9 @@ At TNPS, the Mathematics department aims to nurture confident problem solvers wh
 
 Through customized curriculum and the department’s key programmes, we strive to achieve the 3E focus areas set out for our Primary 1 to 6 pupils, with reference to the mathematics framework:
 
-![](/images/3E%20Focus%20Areas.png)
+<img src="/images/3E%20Focus%20Areas.png" 
+     style="width:70%">
+
 
 The Primary Mathematics syllabus aims to enable all students to:
 
@@ -22,4 +24,6 @@ The Primary Mathematics syllabus aims to enable all students to:
 
 The mathematics framework sets the direction and provides guidance in the teaching and learning of the mathematics curriculum. The central focus of the framework is mathematical problem solving. The development of the ability to use mathematics to solve problems is dependent on five inter-related components – conceptual understanding, skills proficiency, mathematical processes, attitudes and metacognition.
 
-![](/images/Mathematics%20Framework.png)
+
+<img src="/images/Mathematics%20Framework.png" 
+     style="width:75%">
