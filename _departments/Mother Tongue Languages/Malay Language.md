@@ -17,7 +17,10 @@ Silibus Bahasa Melayu bertujuan untuk membentuk murid supaya dapat:
 
 ### Boneka
 
-![](/images/boneka1.jpeg)
+
+<img src="/images/boneka1.jpeg" 
+     style="width:65%">
+
 
 (embed video 1)   
 (embed video 2)   
@@ -34,13 +37,17 @@ Silibus Bahasa Melayu bertujuan untuk membentuk murid supaya dapat:
 
 ### Lempeng Pisang
 
-![](/images/ml10.jpeg)
+<img src="/images/ml10.jpeg" 
+     style="width:35%">
+
 
 (embed video 4)
 
 ### Nasi Lemak
 
-![](/images/ml11.jpeg)
+<img src="/images/ml11.jpeg" 
+     style="width:45%">
+
 
 (embed video 5)
 
