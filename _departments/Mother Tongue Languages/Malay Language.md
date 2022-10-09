@@ -25,4 +25,11 @@ Silibus Bahasa Melayu bertujuan untuk membentuk murid supaya dapat:
 
 ### Cerita Rakyat Nusantara menerusi iPad
 
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjb7W3LjN5WLGEPEAgCleB_Tz5_b_G1frQaXWSBaGR3otrWtTng_bpRy2li7uwdnFyslxd-U8If-5f/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjb7W3LjN5WLGEPEAgCleB_Tz5_b_G1frQaXWSBaGR3otrWtTng_bpRy2li7uwdnFyslxd-U8If-5f/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
+
+
+### Kerja Berkumpulan
+
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTspGsSyrt5NNnGhI1a6yXUbp5c9xtugB2mRhy0BhiK4MRHuT5Gqg_U1IENlQaVQCfSe_iAV9YsZhVo/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
+
+### Lempeng Pisang
