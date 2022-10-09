@@ -57,8 +57,7 @@ Our very own homegrown talents are participating in the Virtual Ops Baca 2021 Ta
 
   
 
-Pls click the link below to watch:
-
+Pls click the link below to watch:    
 [https://www.facebook.com/MAEC-Tampines-Central-526041157604108/](https://www.facebook.com/MAEC-Tampines-Central-526041157604108/)
 
 Proud to present our TNPS homegrown talents:
@@ -115,5 +114,3 @@ We attained the following results for our Virtual Ops Baca Talent Competition.
 
 
 TNPS emerged as **OVERALL CHAMPION** in this competition🏆
-
-
