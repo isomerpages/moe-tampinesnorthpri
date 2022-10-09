@@ -102,7 +102,7 @@ Proud to present our TNPS homegrown talents:
 
 ---------
 
-**_Winners:_**
+**_<u>Winners:</u>_**
 
 We attained the following results for our Virtual Ops Baca Talent Competition.
 
