@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics/Key Programmes.md
       - Mathematics/.keep
       - Science/Science.md
       - Science/Key Programmes.md
