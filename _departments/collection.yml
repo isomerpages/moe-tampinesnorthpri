@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/.keep
       - Science.md
       - Pe, Art and Music/Pe, Art and Music.md
       - Pe, Art and Music/PE.md
