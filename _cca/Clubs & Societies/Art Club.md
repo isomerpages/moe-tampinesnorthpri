@@ -15,8 +15,10 @@ Opportunities to develop our students SEL competencies are embedded in collabora
   
 
 ### Schedule  
-**Day**: Monday   
+**Day**: Monday 
+
 **Time**: 2:15 to 4:30 pm   
+
 **Venue**: Art Rooms
 
   
@@ -50,4 +52,3 @@ SYF 2019: Certificate of Recognition
 *   Mrs Sathia
 *   Mrs Joanne Loh
 *   Mrs Hannah Heng
-
