@@ -34,8 +34,12 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
     <td class="tg-nrix"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href = "/cca/Sports/badminton/" target = "_self"> 
+          <img src="/images/Badminton.gif" 
+     style="width:100%"></a></td>
+    <td class="tg-nrix"><a href = "/cca/Sports/wushu/" target = "_self"> 
+          <img src="/images/Wushu.gif" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-nrix"></td>
