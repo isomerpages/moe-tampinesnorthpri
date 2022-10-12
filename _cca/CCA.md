@@ -133,8 +133,8 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
     <td class="tg-nrix"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"><a href = "/cca/Performing-Arts/angklung-kulintang-ensemble/" target = "_self"> 
-          <img src="/images/Ang%20Klung.gif" 
+    <td class="tg-nrix"><a href = "/cca/Performing-Arts/show-choir/" target = "_self"> 
+          <img src="/images/ShowChoir.gif" 
      style="width:100%"></a></td>
     <td class="tg-nrix"></td>
   </tr>
