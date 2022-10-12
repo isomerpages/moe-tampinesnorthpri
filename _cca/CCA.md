@@ -157,8 +157,8 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 780px">
 <colgroup>
-<col style="width: 480px">
-<col style="width: 300px">
+<col style="width: 520px">
+<col style="width: 260px">
 </colgroup>
 <tbody>
   <tr>
