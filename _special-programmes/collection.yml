@@ -2,4 +2,5 @@ collections:
   special-programmes:
     output: true
     order:
+      - Environmental Education/G4Life Updates.md
       - Environmental Education/.keep
