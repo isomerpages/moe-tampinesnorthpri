@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/Brownies.md
       - Uniformed Groups/.keep
       - Performing Arts/Angklung Kulintang Ensemble.md
       - Performing Arts/Malay Dance.md
