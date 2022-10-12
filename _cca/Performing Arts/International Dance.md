@@ -28,8 +28,7 @@ International Dance CCA aims to nurture and groom students to excel in modern da
 ### Achievements
 
 
-**Singapore Youth Festival 2017**
-
+**Singapore Youth Festival 2017**   
 Commendation Award
 
   
