@@ -144,3 +144,32 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
   </tr>
 </tbody>
 </table>
+
+### CLUBS AND SOCIETIES
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 780px">
+<colgroup>
+<col style="width: 480px">
+<col style="width: 300px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nrix"><a href = "/cca/Clubs-and-Societies/infocomm-club/" target = "_self"> 
+          <img src="/images/InfocommClub.gif" 
+     style="width:100%"></a></td>
+    <td class="tg-nrix"><a href = "/cca/Clubs-and-Societies/art-club/" target = "_self"> 
+          <img src="/images/ArtClub.gif" 
+     style="width:100%"></a></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"></td>
+    <td class="tg-nrix"></td>
+  </tr>
