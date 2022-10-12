@@ -22,8 +22,8 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><a href = "/cca/Sports/floorball/" target = "_self"> 
-          <img src="/images/Floorball.gif" 
+    <td class="tg-nrix"><a href = "/cca/Sports/football/" target = "_self"> 
+          <img src="/images/Football.gif" 
      style="width:100%"></a></td>
     <td class="tg-nrix"><a href = "/cca/Sports/basketball/" target = "_self"> 
           <img src="/images/Basketball.gif" 
@@ -47,7 +47,9 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
   </tr>
   <tr>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href = "/cca/Sports/floorball/" target = "_self"> 
+          <img src="/images/Floorball.gif" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-nrix"></td>
