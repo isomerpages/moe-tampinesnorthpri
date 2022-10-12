@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English Language/Key Programmes.md
       - English Language/Support Programmes.md
       - English Language/Reading for Life.md
       - English Language/.keep
