@@ -30,8 +30,8 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"><a href="cca/Sports/football/">Football</a></td>
-    <td class="tg-nrix"><a href="cca/Sports/basketball/">Basketball</a></td>
+    <td class="tg-nrix"><a href="/cca/Sports/football/">Football</a></td>
+    <td class="tg-nrix"><a href="/cca/Sports/basketball/">Basketball</a></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href = "/cca/Sports/badminton/" target = "_self"> 
@@ -42,8 +42,8 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"><a href="cca/Sports/badminton/">Badminton</a></td>
-    <td class="tg-nrix"><a href="cca/Sports/wushu/">Wushu</a></td>
+    <td class="tg-nrix"><a href="/cca/Sports/badminton/">Badminton</a></td>
+    <td class="tg-nrix"><a href="/cca/Sports/wushu/">Wushu</a></td>
   </tr>
   <tr>
     <td class="tg-nrix"></td>
@@ -53,7 +53,7 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
   </tr>
   <tr>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"><a href="cca/Sports/floorball/">Floorball</a></td>
+    <td class="tg-nrix"><a href="/cca/Sports/floorball/">Floorball</a></td>
   </tr>
 </tbody>
 </table>
