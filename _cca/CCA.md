@@ -30,8 +30,8 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href="cca/Sports/football/">Football</a></td>
+    <td class="tg-nrix"><a href="cca/Sports/basketball/">Basketball</a></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href = "/cca/Sports/badminton/" target = "_self"> 
@@ -42,8 +42,8 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href="cca/Sports/badminton/">Badminton</a></td>
+    <td class="tg-nrix"><a href="cca/Sports/wushu/">Wushu</a></td>
   </tr>
   <tr>
     <td class="tg-nrix"></td>
@@ -53,7 +53,7 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
   </tr>
   <tr>
     <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href="cca/Sports/floorball/">Floorball</a></td>
   </tr>
 </tbody>
 </table>
@@ -84,8 +84,8 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href="/cca/Uniformed-Groups/scouts/">Scouts</a></td>
+    <td class="tg-nrix"><a href="/cca/Uniformed-Groups/brownies/">Brownies</a></td>
   </tr>
  
 </tbody>
@@ -117,8 +117,8 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href="/cca/Performing-Arts/malay-dance/">Malay Dance</a></td>
+    <td class="tg-nrix"><a href="/cca/Performing-Arts/indian-dance/">Indian Dance</a></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href = "/cca/Performing-Arts/angklung-kulintang-ensemble/" target = "_self"> 
@@ -129,8 +129,8 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href="/cca/Performing-Arts/angklung-kulintang-ensemble/">Angklung Kulintang Ensemble</a></td>
+    <td class="tg-nrix"><a href="/cca/Performing-Arts/international-dance">International Dance</a></td>
   </tr>
   <tr>
     <td class="tg-nrix"><a href = "/cca/Performing-Arts/show-choir/" target = "_self"> 
@@ -139,7 +139,7 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
     <td class="tg-nrix"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href="/cca/Performing-Arts/show-choir">Show Choir</a></td>
     <td class="tg-nrix"></td>
   </tr>
 </tbody>
@@ -170,6 +170,6 @@ Co-Curricular Activity (CCA) forms an integral part of the school’s curriculum
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix"><a href="/cca/Clubs-and-Societies/infocomm-club/">Infocomm Club</a></td>
+    <td class="tg-nrix"><a href="/cca/Clubs-and-Societies/art-club/">Art Club</a></td>
   </tr>
