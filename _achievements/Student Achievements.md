@@ -143,3 +143,71 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 725px">
+<colgroup>
+<col style="width: 126px">
+<col style="width: 411px">
+<col style="width: 188px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-9hzb" colspan="3">Term 3</td>
+  </tr>
+  <tr>
+    <td class="tg-9hzb">CCA</td>
+    <td class="tg-9hzb">Competition / Event</td>
+    <td class="tg-9hzb">Achievements / Remarks</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">Tchoukball<br></td>
+    <td class="tg-f4yw">4th Funky Sports Tchoukball Cup<br></td>
+    <td class="tg-f4yw">2nd Place<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw" rowspan="3">Chinese Club<br></td>
+    <td class="tg-f4yw">National Primary School Recital Competition<br></td>
+    <td class="tg-f4yw">Silver Award (Lower Pri Team)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">National Primary School Recital Competition<br></td>
+    <td class="tg-f4yw">Bronze Award (Upper Pri Team)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">National Primary School Crosstalk Competition<br></td>
+    <td class="tg-f4yw">3rd prize<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">Angklung<br></td>
+    <td class="tg-f4yw">National Day Observance Ceremony @ TREASURY, Ministry of Trade and Industry<br></td>
+    <td class="tg-f4yw">Invited to perform<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">Indian Dance<br></td>
+    <td class="tg-f4yw">National Day Observance Ceremony @ OTH<br>(Tampines GRC)<br></td>
+    <td class="tg-f4yw">Invited to perform<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">Malay Dance<br></td>
+    <td class="tg-f4yw">National Day Observance Ceremony @ OTH<br>(Tampines GRC)<br></td>
+    <td class="tg-f4yw">Invited to perform</td>
+  </tr>
+</tbody>
+</table>
+
+### OUR ACHIEVEMENTS
+
+![](/images/Our%20Achievements.gif)
+
+
