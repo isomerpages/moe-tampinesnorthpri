@@ -72,17 +72,9 @@ At your first login, change the password (minimum eight characters with letters 
 
 **Getting Started with SLS**
 
-  
-
-> Annex A: [Read Students Instructions](https://tampinesnorthpri.moe.edu.sg/qql/slot/u513/2021/Useful%20Links/Students/SLS/Instructions%20and%20FAQs%20for%20website.pdf)
-> 
->   
-> 
-> Annex B: Frequently Asked Questions (see below)
-> 
->   
-> 
-> [SLS User Guides](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)
+Annex A: [Read Students Instructions](/files/Instructions%20and%20FAQs%20for%20website.pdf)   
+Annex B: Frequently Asked Questions (see below)   
+[SLS User Guides](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)
 
   
 
@@ -94,19 +86,11 @@ At your first login, change the password (minimum eight characters with letters 
 
 **Q1 : I have forgotten my password. What should I do?**
 
-  
-
 3 Ways to reset password.
-
-  
 
 a) Reset via email. Please remember the email address used during your first setup. If you cannot see the email in your inbox, it may be in the spam or junk email folder.
 
-  
-
 b) Reset via answering security questions
-
-  
 
 c) Call SLS helpdesk at 67026513
 
@@ -130,32 +114,17 @@ The format of your user name is a combination of the first 5 characters of your 
 
 **Q3 : My account has been locked. What should I do?**
 
-  
-
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password.
 
-  
-
 Please call the SLS Helpdesk to unlock your account. You will need to answer the security questions to verify that you are the legitimate account holder.
-
-  
 
 Tel: (65) 6702 6513
 
   
 
-Operating Hours
-
-  
-
-Mondays ― Fridays: 9:00 am ― 9:00 pm
-
-  
-
-Saturdays: 9:00 am ― 3:00 pm
-
-  
-
+**Operating Hours**   
+Mondays ― Fridays: 9:00 am ― 9:00 pm   
+Saturdays: 9:00 am ― 3:00 pm   
 \*Closed on Sundays & Public Holidays
 
   
