@@ -104,7 +104,7 @@ Retrieve your child’s details and verify the information to proceed
   <tr>
     <td class="tg-x1qm"><span style="font-weight:bold">Step 2 – Download Parents Gateway Mobile App</span><br>- Open the Apple App Store or Google Play Store app on your mobile phone.<br>- Search for the ‘Parents Gateway’ mobile app, or scan the QR code below.<br>- Download and install the app onto your phone.<br>- Enable 'Allow Notifications' to receive push notifications.<br><br>*Note: Supported OS Versions - Android 6.0 or later &amp; iOS 9.1 or later</td>
     <td class="tg-f4yw"><img src="/images/Android_iOS.png" 
-     style="width:65%"></td>
+     style="width:85%"></td>
   </tr>
 </tbody>
 </table>
