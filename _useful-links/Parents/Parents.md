@@ -44,9 +44,8 @@ The Parents Gateway mobile app will be launched in January 2019 and rolled out i
 * Receive school announcements and consent form details
 * Give your consent with the touch of a finger
 
-<img src="/images/principal.jpg" 
-     style="width:65%">
+<img src="/images/Parents%20Gateway_1.png" 
+     style="width:45%">
 
 
 ### How do you sign up for Parents Gateway Mobile App
-
