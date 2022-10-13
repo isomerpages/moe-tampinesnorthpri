@@ -30,3 +30,23 @@ third_nav_title: Parents
   </tr>
 </tbody>
 </table>
+
+### TNPS Virtual Open House 2022
+
+ [View](https://drive.google.com/file/d/1JC3zKyH-zOOtHOi0Qgd6JQQRxMnyLgQO/view)
+ 
+ ### What is Parents Gateway?
+A digital platform (by MOE and GovTech) to bring greater convenience to parents to perform simple administrative functions and receive relevant information from schools.
+
+The Parents Gateway mobile app will be launched in January 2019 and rolled out in phases to all schools in Singapore.
+
+### With Parents Gateway, you can:
+* Receive school announcements and consent form details
+* Give your consent with the touch of a finger
+
+<img src="/images/principal.jpg" 
+     style="width:65%">
+
+
+### How do you sign up for Parents Gateway Mobile App
+
