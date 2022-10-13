@@ -24,10 +24,10 @@ Dear Students,
   <tr>
     <td class="tg-nrix"><a href = "https://sites.google.com/moe.edu.sg/tnpshbl/" target = "_self"> 
           <img src="/images/HBLbutton2.png" 
-     style="width:75%"></a></td>
+     style="width:85%"></a></td>
     <td class="tg-nrix"><a href = "https://vle.learning.moe.edu.sg/login" target = "_self"> 
           <img src="/images/SLS.png" 
-							 style="width:75%"></a><strong>SLS Website:</strong> <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg</a></td>
+							 style="width:85%"></a><strong>SLS Website:</strong> <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
