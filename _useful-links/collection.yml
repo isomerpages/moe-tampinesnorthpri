@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Teachers/Intranet.md
       - Teachers/Parents Gateway.md
       - Teachers/.keep
       - Students/Students.md
