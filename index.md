@@ -20,9 +20,17 @@ sections:
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
-      url: /faq/
+      url: https://sites.google.com/moe.edu.sg/tnpshbl2022/
   - resources:
       title: Announcements
       subtitle: Latest Updates
       button: View All
+  - infopic:
+      title: HBL
+      subtitle: TNPS HBL Site
+      description: Our HBL Materials
+      button: View Website
+      url: https://sites.google.com/moe.edu.sg/tnpshbl2022/
+      image: /images/hblcoverdemo.png
+      alt: Image alt text
 ---
