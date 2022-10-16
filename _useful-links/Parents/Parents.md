@@ -14,7 +14,10 @@ third_nav_title: Parents
 .tg .tg-0qrm{background-color:#108BA9;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-0fxk{background-color:#FFF7D4;color:#288EA7;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 558px">
+<colgroup>
+<col style="width: 558px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-0qrm"><span style="color:#FFF;background-color:#108BA9">Useful Links</span></td>
