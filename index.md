@@ -12,9 +12,6 @@ sections:
         - title: TNPS Youtube
           description: Our Channel
           url: https://www.youtube.com/user/TheTnps/videos
-        - title: TNPS Email
-          description: Contact Us
-          url: mailto:tnps@moe.edu.sg
   - resources:
       title: Announcements
       subtitle: Latest Updates
