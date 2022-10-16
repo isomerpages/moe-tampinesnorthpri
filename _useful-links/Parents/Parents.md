@@ -46,7 +46,7 @@ The Parents Gateway mobile app will be launched in January 2019 and rolled out i
 * Give your consent with the touch of a finger
 
 <img src="/images/Parents%20Gateway_1.png" 
-     style="width:45%">
+     style="width:30%">
 
 
 ### How do you sign up for Parents Gateway Mobile App
@@ -56,26 +56,26 @@ Keyword search ‘Parents Gateway’
 Supported OS Versions: Android 6.0 or later & iOS 9.1 or later
 
 <img src="/images/Parents%20Gateway_2.png" 
-     style="width:45%">
+     style="width:30%">
 
 ### Login with SingPass
 If you have issues signing in with Singpass, you may visit the [SingPass website](https://www.singpass.gov.sg/spauth/login/loginpage?URL=/&TAM_OP=login) or contact their helpdesk at 6643-0555
 
 <img src="/images/Parents%20Gateway_3-4.png" 
-     style="width:45%">
+     style="width:30%">
 
 
 ### Complete your Onboarding
 Retrieve your child’s details and verify the information to proceed
 
 <img src="/images/Parents%20Gateway_5-6.png" 
-     style="width:45%">
+     style="width:30%">
 
 ### You should now see your newsfeed
 Retrieve your child’s details and verify the information to proceed
 
 <img src="/images/Parents%20Gateway_7-8.png" 
-     style="width:45%">
+     style="width:30%">
 		 
 		 
 
@@ -105,7 +105,7 @@ Retrieve your child’s details and verify the information to proceed
   <tr>
     <td class="tg-x1qm"><span style="font-weight:bold">Step 2 – Download Parents Gateway Mobile App</span><br>- Open the Apple App Store or Google Play Store app on your mobile phone.<br>- Search for the ‘Parents Gateway’ mobile app, or scan the QR code below.<br>- Download and install the app onto your phone.<br>- Enable 'Allow Notifications' to receive push notifications.<br><br>*Note: Supported OS Versions - Android 6.0 or later &amp; iOS 9.1 or later</td>
     <td class="tg-f4yw"><img src="/images/Android_iOS.png" 
-     style="width:85%"></td>
+     style="width:75%"></td>
   </tr>
 </tbody>
 </table>
