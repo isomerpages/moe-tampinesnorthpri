@@ -15,12 +15,6 @@ sections:
         - title: TNPS Email
           description: Contact Us
           url: mailto:tnps@moe.edu.sg
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: https://sites.google.com/moe.edu.sg/tnpshbl2022/
   - resources:
       title: Announcements
       subtitle: Latest Updates
@@ -33,4 +27,10 @@ sections:
       url: https://sites.google.com/moe.edu.sg/tnpshbl2022/
       image: /images/hblcoverdemo.png
       alt: hbldemo
+  - infobar:
+      title: Calendar
+      subtitle: TNPS
+      description: Download Our Calendar Here
+      button: Download
+      url: https://calendar.google.com/calendar/ical/c_t2fa8u50gifgp5ghmc174q194c%40group.calendar.google.com/public/basic.ics
 ---
