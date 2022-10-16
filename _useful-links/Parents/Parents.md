@@ -35,7 +35,7 @@ third_nav_title: Parents
 
  [View](https://drive.google.com/file/d/1JC3zKyH-zOOtHOi0Qgd6JQQRxMnyLgQO/view)
  
- ### What is Parents Gateway?
+### What is Parents Gateway?
  
 A digital platform (by MOE and GovTech) to bring greater convenience to parents to perform simple administrative functions and receive relevant information from schools.
 
