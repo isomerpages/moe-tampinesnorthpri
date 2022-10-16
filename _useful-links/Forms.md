@@ -19,7 +19,7 @@ Form 1 - Application to Offer Non-Mother Tongue Language (Chinese/Malay/Tamil)
 
 This online form is only meant for the incoming P1 students after the completion of the annual P1 registration exercise.
 
-Online Form 
+<u>Online Form</u>
 
   
 
@@ -46,7 +46,7 @@ b.       For all other bank accounts, please download the GIRO applicatio
 
 Please note that if there are more than 4 school going children in the family, contact the school for the hardcopy or softcopy application form. Otherwise, you may submit the application through this online form.
 
-Online Form 
+<u>Online Form</u>
 
   
 
