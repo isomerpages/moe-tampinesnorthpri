@@ -74,7 +74,9 @@ Our playground- decked in vibrant hues of orange and sky blue.
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><img src="/images/Hall_1.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/Hall_1.jpeg" 
+     style="width:55%">
+</td>
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/Hall_2.jpeg"></td>
