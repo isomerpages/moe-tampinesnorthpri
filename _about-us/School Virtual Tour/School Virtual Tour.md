@@ -167,10 +167,10 @@ Students have spent many a happy hour getting lost in the sea of books (and boar
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 857px" class="tg">
+<table style="undefined;table-layout: fixed; width: 810px" class="tg">
 <colgroup>
-<col style="width: 416px">
-<col style="width: 441px">
+<col style="width: 405px">
+<col style="width: 405px">
 </colgroup>
 <tbody>
   <tr>
