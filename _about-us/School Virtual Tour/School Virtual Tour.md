@@ -60,6 +60,24 @@ Our playground- decked in vibrant hues of orange and sky blue.
 
 ![](/images/Playground-min.gif)
 
-
-
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 700px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nrix"><img src="/images/Hall_1.jpeg"></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"><img src="/images/Hall_2.jpeg"></td>
+  </tr>
+</tbody>
+</table>
