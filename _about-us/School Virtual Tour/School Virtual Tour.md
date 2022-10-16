@@ -107,7 +107,7 @@ Our playground- decked in vibrant hues of orange and sky blue.
     <td class="tg-nrix"><img src="/images/ISH%20Building_1.jpeg" 
      style="width:100%"></td>
     <td class="tg-nrix"><img src="/images/ISH%20Building_2.jpeg" 
-     style="width:100%"></td>
+     style="width:75%"></td>
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/ISH%20Building_3.jpeg" 
@@ -123,9 +123,17 @@ Our playground- decked in vibrant hues of orange and sky blue.
   </tr>
   <tr>
     <td class="tg-nrix"><img src="/images/ISH%20Building_7.jpeg" 
-     style="width:100%"></td>
+     style="width:80%"></td>
     <td class="tg-nrix"><img src="/images/ISH%20Building_8.jpeg" 
      style="width:100%"></td>
   </tr>
 </tbody>
 </table>
+
+### SPECIAL ROOMS
+
+### LOWER PRIMARY CLASSROOMS
+
+The heart and soul of the Primary 1 experience; where students feel most at home in school. The layout and furniture are undergoing a revamp and will be done up by year end. Once completed, our children can look forward to a cosy environment, ergonomically suited and age appropriate. A space they will thrive in.
+
+![](/images/Lower%20Pri%20Classrooms.gif)
