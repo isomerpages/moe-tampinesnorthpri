@@ -94,10 +94,10 @@ Our playground- decked in vibrant hues of orange and sky blue.
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 400px">
-<col style="width: 400px">
+<col style="width: 350px">
+<col style="width: 350px">
 </colgroup>
 <tbody>
   <tr>
