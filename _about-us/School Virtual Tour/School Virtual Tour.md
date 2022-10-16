@@ -137,3 +137,27 @@ Our playground- decked in vibrant hues of orange and sky blue.
 The heart and soul of the Primary 1 experience; where students feel most at home in school. The layout and furniture are undergoing a revamp and will be done up by year end. Once completed, our children can look forward to a cosy environment, ergonomically suited and age appropriate. A space they will thrive in.
 
 ![](/images/Lower%20Pri%20Classrooms.gif)
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-wa1i"><img src="/images/Art%20Rooms.gif" 
+     style="width:65%"></td>
+    <td class="tg-wa1i"><img src="/images/MusicRooms.gif" 
+     style="width:65%"></td>
+  </tr>
+</tbody>
+</table>
