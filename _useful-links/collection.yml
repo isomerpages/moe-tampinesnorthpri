@@ -2,7 +2,7 @@ collections:
   useful-links:
     output: true
     order:
-      - Teachers/iCON.md
+      - Teachers/Icon.md
       - Teachers/School Cockpit.md
       - Teachers/Web based outlook.md
       - Teachers/Intranet.md
