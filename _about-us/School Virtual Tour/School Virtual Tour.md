@@ -180,3 +180,15 @@ Students have spent many a happy hour getting lost in the sea of books (and boar
 </tbody>
 </table>
 
+
+### GREEN CORRIDOR
+
+The uppermost level in the school happens to be one of the more cooling spots in the compound thanks to our Green Corridor that serves not only to cool temperatures but also to educate students on the benefits of plants.
+
+![](/images/GreenCorridor.jpeg)
+
+
+### ECO GARDEN
+The soothing movements of the fishes swimming in the pond, as well as the gentle rustling of the trees and plants grant a respite from the hustle and bustle of school activities. Here, mini beasts such as snails and grasshoppers were observed during our Science and Art lessons.
+
+***(EMBED gif file bigger than 5mb even after compression)***
