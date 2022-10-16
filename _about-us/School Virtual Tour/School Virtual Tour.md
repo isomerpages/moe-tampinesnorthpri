@@ -161,3 +161,11 @@ The heart and soul of the Primary 1 experience; where students feel most at home
   </tr>
 </tbody>
 </table>
+
+Learning the arts becomes interactive and highly engaging as these special rooms are equipped with interactive flat panel screens. Harnessing technology to enhance the learning experience for our digital native students.
+
+### LIBRARY
+
+Students have spent many a happy hour getting lost in the sea of books (and board games) in the cosy confines of our library. Adjacent to the reading area is a performing arts studio where students enjoy dramatic arts based lessons.
+
+![](/images/Library.gif)
