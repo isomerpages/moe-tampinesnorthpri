@@ -20,10 +20,10 @@ Our courtyard. The TNPS Creed 'True' and 'Noble' stands proudly, reminding us to
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 796px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 399px">
-<col style="width: 397px">
+<col style="width: 360px">
+<col style="width: 440px">
 </colgroup>
 <tbody>
   <tr>
