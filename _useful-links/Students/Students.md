@@ -33,3 +33,8 @@ third_nav_title: Students
   </tr>
 </tbody>
 </table>
+
+
+### Library
+
+[**OPAC**](https://schoolibrary.moe.edu.sg/tampinesnorthpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
