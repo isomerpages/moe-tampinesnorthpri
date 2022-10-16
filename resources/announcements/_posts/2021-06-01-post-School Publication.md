@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Head over to our [School Publications](/about-us/school-publication/) page to check out our new school newsletter!
