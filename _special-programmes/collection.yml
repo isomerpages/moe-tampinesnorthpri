@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Environmental Education/Environmental Education.md
       - Environmental Education/About TNPS G4Life.md
       - Environmental Education/G4Life Updates.md
       - Environmental Education/.keep
