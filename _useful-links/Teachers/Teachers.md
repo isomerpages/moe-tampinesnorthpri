@@ -52,7 +52,7 @@ third_nav_title: Teachers
   <tr>
     <td class="tg-0fxk"><a href="http://portal.swn.moe.edu.sg/"><span style="text-decoration:none;color:#288EA7">SWN Wireless Portal</span></a></td>
     <td class="tg-g6kb"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0fxk"></td>
   </tr>
 </tbody>
 </table>
