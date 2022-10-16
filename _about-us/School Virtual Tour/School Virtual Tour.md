@@ -154,9 +154,9 @@ The heart and soul of the Primary 1 experience; where students feel most at home
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"><img src="/images/Art%20Rooms.gif" 
+    <td class="tg-wa1i">ART ROOMS<img src="/images/Art%20Rooms.gif" 
      style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/MusicRooms.gif" 
+    <td class="tg-wa1i">MUSIC ROOMS<img src="/images/MusicRooms.gif" 
      style="width:100%"></td>
   </tr>
 </tbody>
