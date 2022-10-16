@@ -32,3 +32,34 @@ Our courtyard. The TNPS Creed 'True' and 'Noble' stands proudly, reminding us to
   </tr>
 </tbody>
 </table>
+
+### ART GALLERY
+
+This is where our students' artworks are proudly displayed.
+
+![](/images/ArtGallery.gif)
+
+
+### CHROMAZONE + SOUNDWAVE CORNER
+
+One of our children's beloved spots in school where they can express themselves freely in the form of visual representations and creative music making.
+
+![](/images/Chromazone_Soundwave%20Corner-min.gif)
+
+
+### G4LIFE COVE
+
+At the heart of our school's Environmental Education programme sits the G4Life Cove, an informative corner that aims to educate the school and advocate going 'green'.
+
+***(EMBED gif file bigger than 5mb even after compression)***
+
+
+### PLAYGROUND
+
+Our playground- decked in vibrant hues of orange and sky blue.
+
+![](/images/Playground-min.gif)
+
+
+
+
