@@ -147,17 +147,17 @@ The heart and soul of the Primary 1 experience; where students feel most at home
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 400px">
-<col style="width: 400px">
+<col style="width: 350px">
+<col style="width: 350px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-wa1i"><img src="/images/Art%20Rooms.gif" 
-     style="width:65%"></td>
+     style="width:100%"></td>
     <td class="tg-wa1i"><img src="/images/MusicRooms.gif" 
-     style="width:65%"></td>
+     style="width:100%"></td>
   </tr>
 </tbody>
 </table>
