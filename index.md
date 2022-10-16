@@ -32,5 +32,5 @@ sections:
       button: View Website
       url: https://sites.google.com/moe.edu.sg/tnpshbl2022/
       image: /images/hblcoverdemo.png
-      alt: Image alt text
+      alt: hbldemo
 ---
