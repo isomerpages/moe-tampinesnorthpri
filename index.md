@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/homepagedemo.gif
       key_highlights:
-        - title: TNPS Youtube
-          description: Our Channel
-          url: https://www.youtube.com/user/TheTnps/videos
+        - title: Welcome to the TNPS Family!
+          description: ""
+          url: ""
   - resources:
       title: Announcements
       subtitle: Latest Updates
