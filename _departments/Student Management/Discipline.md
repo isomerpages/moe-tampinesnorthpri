@@ -4,6 +4,8 @@ permalink: /departments/Student-Management/discipline/
 description: ""
 third_nav_title: Student Management
 ---
+# Discipline
+
 In TNPS, we believe in a positive and proactive approach in discipline when we work with our students.
 
   
