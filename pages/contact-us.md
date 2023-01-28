@@ -9,7 +9,7 @@ locations:
       - Tampines Avenue 9
       - Singapore 529565
     operating_hours:
-      - days: "Mon - Fri "
+      - days: Mondays to Fridays
         time: 7.30am to 5.30pm
         description: |
           Closed on Saturdays, Sundays and Public Holidays
