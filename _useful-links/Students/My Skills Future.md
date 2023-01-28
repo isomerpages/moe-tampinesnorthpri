@@ -4,7 +4,7 @@ permalink: /useful-links/Students/my-skills-future/
 description: ""
 third_nav_title: Students
 ---
-[Go to Mys Skills Future (Primary)](https://www.myskillsfuture.sg/content/student/en/primary.html?logout=portal)
+[Go to My Skills Future (Primary)](https://www.myskillsfuture.sg/content/student/en/primary.html?logout=portal)
 
 <a href = "https://www.myskillsfuture.sg/content/student/en/primary.html?logout=portal" target = "_self"> 
           <img src="/images/Myskillsfuture%20landing%20page.jpeg" 
