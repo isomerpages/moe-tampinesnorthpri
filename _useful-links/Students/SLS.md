@@ -44,13 +44,13 @@ By spurring our students to take greater ownership of their learning and work co
 
 **What is SLS?**
 
-[Click to watch the video](http://gmail%20%26%20mconline%20-%20salutation0466/)
+[Click to watch the video](https://www.youtube.com/watch?v=F0FTP2FveSg&ab_channel=MOESingapore)
 
   
 
 **What are the resources inside SLS that can support Self-Directed Learning?**
 
-[Click to watch the video](https://www.youtube.com/watch?v=JZhjECbHmiE)
+[Click to watch the video](https://www.youtube.com/watch?v=JZhjECbHmiE&ab_channel=MOEETDLPET)
 
   
 
