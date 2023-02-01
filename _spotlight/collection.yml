@@ -1,5 +1,5 @@
 collections:
-  achievements:
+  spotlight:
     output: true
     order:
       - Student Achievements.md
