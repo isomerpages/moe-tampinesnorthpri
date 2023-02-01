@@ -12,9 +12,9 @@ sections:
         - title: Welcome to the TNPS Family!
           description: ""
           url: ""
+      subtitle: Confident Learners, Critical Thinkers, Rooted in Values
   - resources:
-      title: Announcements
-      subtitle: Latest Updates
+      title: Latest Updates
       button: View All
   - infopic:
       title: HBL
@@ -24,10 +24,4 @@ sections:
       url: https://sites.google.com/moe.edu.sg/tnpshbl2022/
       image: /images/hblcoverdemo.png
       alt: hbldemo
-  - infobar:
-      title: Calendar
-      subtitle: TNPS
-      description: Download Our Calendar Here
-      button: Download
-      url: https://calendar.google.com/calendar/ical/c_t2fa8u50gifgp5ghmc174q194c%40group.calendar.google.com/public/basic.ics
 ---
