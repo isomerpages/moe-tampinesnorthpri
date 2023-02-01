@@ -3,10 +3,10 @@ url: https://www.tampinesnorthpri.com
 favicon: /images/Our Badge.png
 colors:
   primary-color: "#094a66"
-  secondary-color: "#ffc85d"
+  secondary-color: "#49759a"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#ffc85d"
     - title: media-color-two
       color: "#80b8ce"
     - title: media-color-three
