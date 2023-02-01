@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Forms.md
+      - Forms and Links.md
       - Students/Students.md
       - Students/SLS.md
       - Students/Home Based Learning.md
