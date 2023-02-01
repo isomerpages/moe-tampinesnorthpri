@@ -9,11 +9,8 @@ sections:
   - hero:
       background: /images/homepagedemo.gif
       key_highlights:
-        - title: Confident Learners
-          description: ""
-          url: ""
-        - title: Critical Thinkers
-          description: ""
+        - title: Tampines North Primary School
+          description: Confident Learners, Critical Thinkers, Rooted in Values
           url: ""
   - resources:
       title: Latest Updates
