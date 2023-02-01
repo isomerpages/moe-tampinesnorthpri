@@ -17,8 +17,7 @@ sections:
       title: Latest Updates
       button: View All
   - infopic:
-      title: HBL
-      subtitle: TNPS HBL Site
+      title: Home-based Learning
       description: Our HBL Materials
       button: View Website
       url: https://sites.google.com/moe.edu.sg/tnpshbl2022/
