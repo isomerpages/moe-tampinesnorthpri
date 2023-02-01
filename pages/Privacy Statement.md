@@ -3,9 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 description: ""
 ---
-
-
-### TAMPINES NORTH PRIMARY SCHOOL PRIVACY STATEMENT
+### **TAMPINES NORTH PRIMARY SCHOOL PRIVACY STATEMENT**
 
 1. This is the Tampines North Primary School (TNPS) website. Thank you for examining our privacy statement.
 
