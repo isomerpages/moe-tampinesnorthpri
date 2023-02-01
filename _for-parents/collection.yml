@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Forms.md
-      - Teachers/Teachers.md
-      - Teachers/.keep
       - Students/Students.md
       - Students/SLS.md
       - Students/Home Based Learning.md
