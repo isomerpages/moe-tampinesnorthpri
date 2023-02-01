@@ -9,10 +9,12 @@ sections:
   - hero:
       background: /images/homepagedemo.gif
       key_highlights:
-        - title: Welcome to the TNPS Family!
+        - title: Confident Learners
           description: ""
           url: ""
-      subtitle: Confident Learners, Critical Thinkers, Rooted in Values
+        - title: Critical Thinkers
+          description: ""
+          url: ""
   - resources:
       title: Latest Updates
       button: View All
