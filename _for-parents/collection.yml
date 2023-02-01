@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Support Group.md
       - Forms and Links.md
       - Students/Students.md
       - Students/SLS.md
