@@ -22,4 +22,8 @@ Please refer to the Scheme of Work (SOW) outlining the learning to be covered fo
 
 [Tamil Language SOW Outline P2](/files/2023%20P2%20SOW/P2%20TL%20SOW%20Outline.pdf)
 
+[PE SOW Outline P2](/files/2023%20P2%20SOW/P2%20PE%20SOW%20Outline.pdf)
+
 [Art SOW Outline P2](/files/2023%20P2%20SOW/P2%20Art%20SOW%20Outline.pdf)
+
+[Music SOW Outline P2](/files/2023%20P2%20SOW/P2%20Music%20SOW%20Outline.pdf)
