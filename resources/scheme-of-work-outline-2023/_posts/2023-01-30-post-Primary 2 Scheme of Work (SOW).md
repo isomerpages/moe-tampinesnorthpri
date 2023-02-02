@@ -11,3 +11,15 @@ image: ""
 Dear Parents,
 
 Please refer to the Scheme of Work (SOW) outlining the learning to be covered for the year for the various subjects by clicking on the links below.
+
+[English Language SOW Outline P2](/files/2023%20P2%20SOW/P2%20EL%20SOW%20Outline.pdf)
+
+[Mathematics SOW Outline P2](/files/2023%20P2%20SOW/P2%20Math%20SOW%20Outline.pdf)
+
+[Chinese Language SOW Outline P2](/files/2023%20P2%20SOW/P2%20CL%20SOW%20Outline.pdf)
+
+[Malay Language SOW Outline P2](/files/2023%20P2%20SOW/P2%20ML%20SOW%20Outline.pdf)
+
+[Tamil Language SOW Outline P2](/files/2023%20P2%20SOW/P2%20TL%20SOW%20Outline.pdf)
+
+[Art SOW Outline P2](/files/2023%20P2%20SOW/P2%20Art%20SOW%20Outline.pdf)
