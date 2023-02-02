@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Portal/.keep
       - Information for Parents/.keep
       - Information for Parents/Parents Gateway.md
       - Information for Parents/Parents.md
