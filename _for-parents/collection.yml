@@ -2,6 +2,9 @@ collections:
   for-parents:
     output: true
     order:
+      - Information for Parents/.keep
+      - Information for Parents/Parents Gateway.md
+      - Information for Parents/Parents.md
       - Parents Portal/.keep
       - Parents Portal/Primary 1 (2023).md
       - Parents Portal/Primary 2 (2023).md
@@ -9,9 +12,6 @@ collections:
       - Parents Portal/Primary 4 (2023).md
       - Parents Portal/Primary 5 (2023).md
       - Parents Portal/Primary 6 (2023).md
-      - Information for Parents/.keep
-      - Information for Parents/Parents Gateway.md
-      - Information for Parents/Parents.md
       - Parents Support Group.md
       - Learning With Technology/.keep
       - Learning With Technology/Students.md
