@@ -3,8 +3,7 @@ title: Forms and Links
 permalink: /for-parents/forms-and-links/
 description: ""
 ---
-
-### MOTHER TONGUE LANGUAGE APPLICATION FORM
+### **MOTHER TONGUE LANGUAGE APPLICATION FORM**
 
 Form 1 - Application to Offer Non-Mother Tongue Language (Chinese/Malay/Tamil)  
   
@@ -16,7 +15,7 @@ Form 1 - Application to Offer Non-Mother Tongue Language (Chinese/Malay/Tamil)
   
   
 
-### TNPS P1 Pre-Orientation Form
+### **TNPS P1 Pre-Orientation Form**
 
 This online form is only meant for the incoming P1 students after the completion of the annual P1 registration exercise.
 
@@ -24,14 +23,14 @@ This online form is only meant for the incoming P1 students after the completion
 
   
 
-### SETTING UP Standing Order for Use of Edusave Account
+### **Setting Up Standing Order for Use of Edusave Account**
 
   
 [Online Form](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59)  
   
   
 
-### APPLICATION FOR GIRO
+### **Application for GIRO**
 
 Please access the MOE site below and note the following  
 
@@ -43,7 +42,7 @@ b.       For all other bank accounts, please download the GIRO applicatio
 
   
 
-### APPLICATION FOR MOE Financial Assistance Scheme (MOE-FAS)
+### **Application for MOE Financial Assistance Scheme (MOE-FAS)**
 
 Please note that if there are more than 4 school going children in the family, contact the school for the hardcopy or softcopy application form. Otherwise, you may submit the application through this online form.
 
@@ -51,7 +50,7 @@ Please note that if there are more than 4 school going children in the family, c
 
   
 
-### APPLICATION FOR ADMISSION OR TRANSFER
+### **Application for Admission or Transfer**
 
 Please apply directly through MOE if the reason of transfer is change of residential address. The MOE link is
 
