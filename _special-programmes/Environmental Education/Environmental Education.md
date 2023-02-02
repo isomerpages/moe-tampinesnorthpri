@@ -4,14 +4,15 @@ permalink: /special-programmes/Environmental-Education/EE/
 description: ""
 third_nav_title: Environmental Education
 ---
-### ENVIRONMENTAL EDUCATION (EE)
+### **ENVIRONMENTAL EDUCATION (EE)**
 Environmental Education (EE) is the school's Learning for Life Programme (LLP). It focuses on developing the students' character and fulfilling our social responsibility to society to ensure a more sustainable environment.
 
 Our students are provided with opportunities and experiences to engage in environmental care at home, in school, in the neighbourhood and the community.
 
 <img src="/images/EE_1.jpeg" style="width:65%">
 
-### G4LIFE WEEK
+
+### **G4LIFE WEEK**
 
 
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1M9igm-0R9w9Ldf0PzdmQ8LNCUYRCJXt2f-CMjHiKvKFcLWwhR2HgtCP9zh3BX_89XhD0OsUE70kH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
@@ -20,13 +21,13 @@ Students learn about the importance of water and the resources on Earth through 
 
 They then do their part by pledging to take home the conservation methods they have learnt in school.
 
-### GREEN CHAMPIONS
+### **GREEN CHAMPIONS**
 The faces of Environmental Education (EE) in TNPS, our Green Champions, engage in active discussions and undergo training to broaden their knowledge on environmental issues. They then pass on their learning to their fellow schoolmates through various EE events in school.
 
 <center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrD1-btI2NiERPyyCTKBuoRBm9_H_7Zvc7RXum1RPfUEWwHjItSL-44k8XFRVdBFQd3La_huS5OGFE/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
 
 
-### COMMUNITY OUTREACH
+### **COMMUNITY OUTREACH**
 
 
 <center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ99d04DeV6-yXo4DLvKNcY7m-AOGOud9A_t77w4XNEx-9Qk9THh3FXPQmd1CDhBp1MrbdmcuTfJDVc/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
@@ -59,7 +60,7 @@ To spread the school's EE messages to the public, the students often participate
 </tbody>
 </table>
 
-### G4LIFE-TOPIA
+### **G4LIFE-TOPIA**
 
 
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQ2cXqew-IZOPZkAdfBqW20rsOsqU-SyyKgVCqoTTlKM6SmZvt4IuyDkHEMfRKSwN2CcPdLS9AbdJ8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
