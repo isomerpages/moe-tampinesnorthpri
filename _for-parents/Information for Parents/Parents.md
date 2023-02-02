@@ -4,7 +4,6 @@ permalink: /useful-links/Parents/parents/
 description: ""
 third_nav_title: Information for Parents
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,7 +26,7 @@ third_nav_title: Information for Parents
     <td class="tg-0fxk"><a href="/useful-links/Parents/parents-support-group/"><span style="text-decoration:none;color:#288EA7">Parents Support Group</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0icb"><a href="insertlinkhere"><span style="text-decoration:none;color:#288EA7">Parent Portal</span></a> (page unable to be recreated on isomer currently)</td>
+    <td class="tg-0icb"><a href="insertlinkhere"><span style="text-decoration:none;color:#288EA7">Parent Portal</span></a> </td>
   </tr>
   <tr>
     <td class="tg-0fxk"><a href="https://pg.moe.edu.sg/"><span style="text-decoration:none;color:#288EA7">Parent Gateway</span></a></td>
