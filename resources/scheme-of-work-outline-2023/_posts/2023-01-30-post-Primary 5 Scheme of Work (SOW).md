@@ -14,3 +14,30 @@ Please refer to the Scheme of Work (SOW) outlining the learning to be covered fo
 
 [English Language SOW Outline P5](/files/2023%20P5%20SOW/P5%20EL%20SOW%20Outline.pdf)
 
+[Mathematics SOW Outline P5](/files/2023%20P5%20SOW/P5%20Std%20Math%20SOW%20Outline.pdf)
+
+[Fdn Mathematics SOW Outline P5](/files/2023%20P5%20SOW/P5%20Fdn%20Math%20SOW%20Outline.pdf)
+
+[Science SOW Outline P5](/files/2023%20P5%20SOW/P5%20Science%20SOW%20Outline.pdf)
+
+[Chinese Language SOW Outline P5](/files/2023%20P5%20SOW/P5%20Std%20CL%20SOW%20Outline.pdf)
+
+[Fdn Chinese Language SOW Outline P5](/files/2023%20P5%20SOW/P5%20FCL%20SOW%20Outline.pdf)
+
+[Higher Chinese Language SOW Outline P5](/files/2023%20P5%20SOW/P5%20HCL%20SOW%20Outline.pdf)
+
+[Malay Language SOW Outline P5](/files/2023%20P5%20SOW/P5%20Std%20ML%20SOW%20Outline.pdf)
+
+[Fdn Malay Language SOW Outline P5](/files/2023%20P5%20SOW/P5%20FML%20SOW%20Outline.pdf)
+
+[Tamil Language SOW Outline P5](/files/2023%20P5%20SOW/P5%20Std%20TL%20SOW%20Outline.pdf)
+
+[Fdn Tamil Language SOW Outline P5](/files/2023%20P5%20SOW/P5%20FTL%20SOW%20Outline.pdf)
+
+[Higher Tamil Language SOW Outline P5](/files/2023%20P5%20SOW/P5%20HTL%20SOW%20Outline.pdf)
+
+[PE SOW Outline P5](/files/2023%20P5%20SOW/P5%20PE%20SOW%20Outline.pdf)
+
+[Art SOW Outline P5](/files/2023%20P5%20SOW/P5%20Art%20SOW%20Outline.pdf)
+
+[Music SOW Outline P5](/files/2023%20P5%20SOW/P5%20Music%20SOW%20Outline.pdf)
