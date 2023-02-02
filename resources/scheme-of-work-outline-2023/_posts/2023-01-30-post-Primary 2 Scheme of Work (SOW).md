@@ -11,4 +11,3 @@ image: ""
 Dear Parents,
 
 Please refer to the Scheme of Work (SOW) outlining the learning to be covered for the year for the various subjects by clicking on the links below.
-
