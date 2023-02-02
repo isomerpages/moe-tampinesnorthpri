@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - CCA.md
-      - Sports/Basketball.md
-      - Sports/Football.md
-      - Sports/Floorball.md
-      - Sports/Badminton.md
-      - Sports/Wushu.md
       - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Floorball.md
+      - Sports/Football.md
+      - Sports/Wushu.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Brownies.md
       - Uniformed Groups/Scouts.md
