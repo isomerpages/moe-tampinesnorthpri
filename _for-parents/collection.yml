@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Parents Portal/Primary 2 (2023).md
-      - Parents Portal/Primary 1 (2023).md
       - Parents Portal/.keep
+      - Parents Portal/Primary 1 (2023).md
+      - Parents Portal/Primary 2 (2023).md
       - Information for Parents/.keep
       - Information for Parents/Parents Gateway.md
       - Information for Parents/Parents.md
