@@ -35,7 +35,7 @@ description: ""
 </tbody>
 </table>
 
-**Recess**
+### **Recess Timings**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -89,7 +89,7 @@ description: ""
 </tbody>
 </table>
 
-**Dismissal from School**
+### **Dismissal Timings**
 
 The students are dismissed at staggered times from 1.20 to 1.45 pm, through the various gates:
 
@@ -152,7 +152,7 @@ The students are dismissed at staggered times from 1.20 to 1.45 pm, through the 
 
 ---------
 
-### School Fees
+### **School Fees**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
