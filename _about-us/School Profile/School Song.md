@@ -16,9 +16,8 @@ To shine forth both near and far
 Each of us will heed the call   
 To be a light for one and all    
 Steadfast and worthy we'll want to be
-
- 
 A gleaming example for all to see.   
+
 For our country we’ll do our best.    
 With shields up right we’ll stand the test.    
 With our mind and body, spirit and soul.   
