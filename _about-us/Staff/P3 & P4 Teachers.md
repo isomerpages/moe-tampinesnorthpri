@@ -6,7 +6,7 @@ third_nav_title: Staff
 ---
 ![](/images/P3%20and%20P4%20teachers.jpeg)
 
-### **P3 Teachers**
+### **P3 Form Teachers**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
