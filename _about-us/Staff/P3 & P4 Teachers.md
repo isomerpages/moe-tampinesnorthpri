@@ -59,36 +59,45 @@ third_nav_title: Staff
 </tbody>
 </table>
 
-### P4 Teachers
+### **P4 Form Teachers**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  overflow:hidden;padding:12px 7px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  font-weight:normal;overflow:hidden;padding:12px 7px;word-break:normal;}
 .tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
+
 <table class="tg">
 <tbody>
-  <tr>
-    <td class="tg-2g1l">Class<br></td>
-    <td class="tg-2g1l">Form Teachers<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">P4.1<br></td>
-    <td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">P4.2<br></td>
-    <td class="tg-f4yw">Ms Tan Geok Lee<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mr Goh Qi Xuan, Eugene<br></td>
+
+<tr>
+<td class="tg-2g1l">Class<br></td>
+<td class="tg-2g1l">Form Teachers<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw" rowspan="3">P4.1<br></td>
+<td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+</tr>
+<tr>
+<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw" rowspan="2">P4.2<br></td>
+<td class="tg-f4yw">Ms Tan Geok Lee<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mr Goh Qi Xuan, Eugene<br></td>
   </tr>
   <tr>
     <td class="tg-f4yw" rowspan="2">P4.3<br></td>
@@ -108,23 +117,16 @@ third_nav_title: Staff
     <td class="tg-f4yw" rowspan="2">P4.5<br></td>
     <td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
-  </tr>
+
+<tr>
+<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+</tr>
+ 
+<tr>
+<td class="tg-f4yw" rowspan="1"><br></td>
+<td class="tg-f4yw"><br></td>
+</tr>
+
 </tbody>
 </table>
-
-
-
-
-| Class | Form Teachers |
-| -------- | -------- |
-|   P4.1     | Mdm Eliana Bte Mohtar |
-|               | Mrs Kau Xueling, Zoie |
-| P4.2 | Ms Tan Geok Lee |
-
-
-
-
-
 
