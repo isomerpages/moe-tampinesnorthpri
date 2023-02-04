@@ -201,17 +201,17 @@ third_nav_title: Staff
 </tr> 
   
 <tr>
-<td class="tg-2g1l">Senior Teacher (ART)<br></td>
+<td class="tg-2g1l">Lead Teacher (Art)<br></td>
 <td class="tg-f4yw">Mrs Angelina Chia<br></td>
 </tr>
 
 <tr>
-<td class="tg-2g1l">Senior Teacher (EL)<br></td>
+<td class="tg-2g1l">Senior Teacher (English)<br></td>
 <td class="tg-f4yw">Ms Tan Mei Yen<br></td>
 </tr>
 
 <tr>
-<td class="tg-2g1l">Senior Teacher (SCI)<br></td>
+<td class="tg-2g1l">Senior Teacher (Science)<br></td>
 <td class="tg-f4yw">Mdm Zulia Said<br></td>
 </tr>
 
