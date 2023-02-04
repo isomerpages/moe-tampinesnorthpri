@@ -161,7 +161,7 @@ third_nav_title: Staff
 </tr>
   
 <tr>
-<td class="tg-f4yw" rowspan="2">P4.4<br></td>
+<td class="tg-f4yw" rowspan="2">P2.4<br></td>
 <td class="tg-f4yw">Mdm Kasthuri Chandra Mohan<br></td>
 </tr>
 
@@ -170,14 +170,41 @@ third_nav_title: Staff
 </tr>
   
 <tr>
-<td class="tg-f4yw" rowspan="2">P4.5<br></td>
+<td class="tg-f4yw" rowspan="2">P2.5<br></td>
 <td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
 </tr>
 
 <tr>
 <td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
 </tr>
- 
+  
+<tr>
+<td class="tg-f4yw" rowspan="2">P2.6<br></td>
+<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw" rowspan="2">P2.7<br></td>
+<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw" rowspan="2">P2.8<br></td>
+<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+</tr>
+
 <tr>
 <td class="tg-f4yw" rowspan="1"><br></td>
 <td class="tg-f4yw"><br></td>
