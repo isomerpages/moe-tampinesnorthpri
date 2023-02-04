@@ -216,7 +216,7 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-2g1l">Senior Teacher (ML)<br></td>
+<td class="tg-2g1l">Senior Teacher (Malay)<br></td>
 <td class="tg-f4yw">Mdm Salinah Rahman<br></td>
 </tr>
   
