@@ -3,7 +3,7 @@ title: School Advisory Committee
 permalink: /about-us/sac/
 description: ""
 ---
-### TNPS School Advisory Committee
+### **TNPS School Advisory Committee**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -16,6 +16,7 @@ description: ""
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-4su8{background-color:#eaeaea;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <tbody>
   <tr>
@@ -49,7 +50,7 @@ description: ""
 </tbody>
 </table>
 
-### Members
+### **Members**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
