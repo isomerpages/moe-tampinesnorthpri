@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-
 <strong><center><em>'Each of us will heed the call,<br>
 To be a light for one and all .<br>
 Steadfast and worthy we’ll want to be,<br>
@@ -29,5 +28,5 @@ Taking reference from our Singapore Green Plan 2030, a whole-of-nation movement 
 
   
 
-Your Partner in Education   
+Your Partner in Education,   
 Mrs Ratna Elangovan
