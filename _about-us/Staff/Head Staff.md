@@ -179,7 +179,8 @@ third_nav_title: Staff
 </tbody>
 </table>
 
-### Senior Teachers
+
+### **Senior Teachers**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -190,35 +191,44 @@ third_nav_title: Staff
 .tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
+
 <table class="tg">
 <tbody>
-  <tr>
-    <td class="tg-2g1l">Senior Teacher (EL)<br></td>
-    <td class="tg-f4yw">Ms Tan Mei Yen<br></td>
-  </tr>
-  <tr>
-    <td class="tg-2g1l">Senior Teacher (SCI)<br></td>
-    <td class="tg-f4yw">Mdm Zulia Said<br></td>
-  </tr>
-  <tr>
-    <td class="tg-2g1l">Senior Teacher (ML)<br></td>
-    <td class="tg-f4yw">Mdm Fadzilah Mohd Idris<br></td>
-  </tr>
-  <tr>
-    <td class="tg-2g1l">Senior Teacher (ML)<br></td>
-    <td class="tg-f4yw">Mdm Salinah Rahman<br></td>
-  </tr>
-  <tr>
-    <td class="tg-2g1l">Senior Teacher (CCE)<br></td>
-    <td class="tg-f4yw">Mdm Irma Darny<br></td>
-  </tr>
-  <tr>
-    <td class="tg-2g1l">Senior Teacher (ART)<br></td>
-    <td class="tg-f4yw">Mrs Angelina Chia<br></td>
-  </tr>
-  <tr>
-    <td class="tg-2g1l">Senior Teacher (Lower Pri)<br></td>
-    <td class="tg-f4yw">Mdm Rafidah Ridzuan</td>
-  </tr>
+
+<tr>
+<td class="tg-2g1l">Lead Teacher (Mathematics)<br></td>
+<td class="tg-f4yw">Ms Phyllis Toh Xin Hui<br></td>
+</tr> 
+  
+<tr>
+<td class="tg-2g1l">Senior Teacher (ART)<br></td>
+<td class="tg-f4yw">Mrs Angelina Chia<br></td>
+</tr>
+
+<tr>
+<td class="tg-2g1l">Senior Teacher (EL)<br></td>
+<td class="tg-f4yw">Ms Tan Mei Yen<br></td>
+</tr>
+
+<tr>
+<td class="tg-2g1l">Senior Teacher (SCI)<br></td>
+<td class="tg-f4yw">Mdm Zulia Said<br></td>
+</tr>
+
+<tr>
+<td class="tg-2g1l">Senior Teacher (ML)<br></td>
+<td class="tg-f4yw">Mdm Salinah Rahman<br></td>
+</tr>
+  
+<tr>
+<td class="tg-2g1l">Senior Teacher (CCE)<br></td>
+<td class="tg-f4yw">Mdm Irma Darny<br></td>
+</tr>
+
+<tr>
+<td class="tg-2g1l">Senior Teacher (Lower Pri)<br></td>
+<td class="tg-f4yw">Mdm Rafidah Ridzuan</td>
+</tr>
+
 </tbody>
 </table>
