@@ -4,7 +4,7 @@ permalink: /about-us/School-Profile/school-song/
 description: ""
 third_nav_title: School Profile
 ---
-**OUR SCHOOL SONG**  
+### **OUR SCHOOL SONG**  
 
   
 
