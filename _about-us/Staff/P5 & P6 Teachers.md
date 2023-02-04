@@ -115,7 +115,7 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-f4yw" rowspan="2">P4.2<br></td>
+<td class="tg-f4yw" rowspan="2">P6.2<br></td>
 <td class="tg-f4yw">Ms Tan Geok Lee<br></td>
 </tr>
 
@@ -124,7 +124,7 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-f4yw" rowspan="2">P4.3<br></td>
+<td class="tg-f4yw" rowspan="2">P6.3<br></td>
 <td class="tg-f4yw">Ms Janice Ng Hai Yan<br></td>
 </tr>
   
@@ -133,7 +133,7 @@ third_nav_title: Staff
 </tr>
   
 <tr>
-<td class="tg-f4yw" rowspan="2">P4.4<br></td>
+<td class="tg-f4yw" rowspan="2">P6.4<br></td>
 <td class="tg-f4yw">Mdm Kasthuri Chandra Mohan<br></td>
 </tr>
 
@@ -142,7 +142,7 @@ third_nav_title: Staff
 </tr>
   
 <tr>
-<td class="tg-f4yw" rowspan="2">P4.5<br></td>
+<td class="tg-f4yw" rowspan="2">P6.5<br></td>
 <td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
 </tr>
 
