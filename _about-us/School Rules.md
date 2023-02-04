@@ -3,7 +3,7 @@ title: School Rules
 permalink: /about-us/school-rules/
 description: ""
 ---
-### Attire & Appearance
+### **Attire & Appearance**
 
 Pupils are to wear the prescribed school uniform and modification to the uniform is not allowed.  
 
@@ -30,7 +30,7 @@ A neat and clean appearance is expected of all pupils:
 
 ![](/images/schuniformrules.png)
 
-### Attendance
+### **Attendance**
 
 Pupils must be punctual for school, all lessons and CCAs.
 
@@ -42,7 +42,7 @@ Pupils are to produce a Medical Certificate from a doctor or a letter from paren
 
 Absence from weighted assessments must be accompanied by a Medical Certificate.
 
-### General Behaviour
+### **General Behaviour**
 
 
 Pupils who are Singapore citizens must sing the National Anthem and take the Pledge.
