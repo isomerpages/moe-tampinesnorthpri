@@ -19,34 +19,32 @@ description: ""
 
 <table class="tg">
 <tbody>
-  <tr>
-    <td class="tg-n4qt">Chairman</td>
-    <td class="tg-ii8k">Mr Terence Leong</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Member</td>
-    <td class="tg-ii8k">Mr Vincent Yeo<br></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Member</td>
-    <td class="tg-ii8k">Mr Cheah Choi Thim</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Member</td>
-    <td class="tg-ii8k">Ms Pauline Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Member</td>
-    <td class="tg-ii8k">Mr Chris Yap</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt"><br></td>
-    <td class="tg-ku5w"></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt"><br></td>
-    <td class="tg-4su8"></td>
-  </tr>
+ 
+<tr>
+<td class="tg-n4qt">Chairman</td>
+<td class="tg-ii8k">Mr Terence Leong</td>
+</tr>
+  
+<tr>
+<td class="tg-n4qt">Member</td>
+<td class="tg-ii8k">Mr Vincent Yeo<br></td>
+</tr>
+  
+<tr>
+<td class="tg-n4qt">Member</td>
+<td class="tg-ii8k">Mr Cheah Choi Thim</td>
+</tr>
+
+<tr>
+<td class="tg-n4qt">Member</td>
+<td class="tg-ii8k">Ms Pauline Tan</td>
+</tr>
+  
+<tr>
+<td class="tg-n4qt">Member</td>
+<td class="tg-ii8k">Mr Chris Yap</td>
+</tr>
+ 
 </tbody>
 </table>
 
