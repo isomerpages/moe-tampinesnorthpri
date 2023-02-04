@@ -6,126 +6,154 @@ third_nav_title: Staff
 ---
 ![](/images/TNPS_Teachers.jpeg)
 
-### P1 Teachers
+### **P1 Form Teachers**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  overflow:hidden;padding:12px 7px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  font-weight:normal;overflow:hidden;padding:12px 7px;word-break:normal;}
 .tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
+
 <table class="tg">
 <tbody>
-  <tr>
-    <td class="tg-2g1l">Class<br></td>
-    <td class="tg-2g1l">Form Teachers<br></td>
-    <td class="tg-2g1l">Class<br></td>
-    <td class="tg-2g1l">Form Teachers<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">P1.1<br></td>
-    <td class="tg-f4yw">Mdm Santhi <br></td>
-    <td class="tg-f4yw" rowspan="2">P1.5<br></td>
-    <td class="tg-f4yw">Mdm Salinah<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Rafidah <br></td>
-    <td class="tg-f4yw">Mr Jonathan ANg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">P1.2<br></td>
-    <td class="tg-f4yw">Mdm Junainah </td>
-    <td class="tg-f4yw" rowspan="2">P1.6<br></td>
-    <td class="tg-f4yw">Mr Lim Chee Xin<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mrs Chua Yin wen<br></td>
-    <td class="tg-f4yw">Mdm Sharifah<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">P1.3<br></td>
-    <td class="tg-f4yw">Mr Vince Koh<br></td>
-    <td class="tg-f4yw" rowspan="2">P1.7<br></td>
-    <td class="tg-f4yw">Mdm Sim<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Shahneeza<br></td>
-    <td class="tg-f4yw">Ms Saraswathy<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">P1.4<br></td>
-    <td class="tg-f4yw">Mrs Winnie Ang<br></td>
-    <td class="tg-f4yw" rowspan="2">P1.8<br></td>
-    <td class="tg-f4yw">Mdm Mawar<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Noraliza<br></td>
-    <td class="tg-f4yw">Mdm Razlinda</td>
-  </tr>
+
+<tr>
+<td class="tg-2g1l">Class<br></td>
+<td class="tg-2g1l">Form Teachers<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw" rowspan="3">P3.1<br></td>
+<td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+</tr>
+<tr>
+<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw" rowspan="2">P3.2<br></td>
+<td class="tg-f4yw">Ms Tan Geok Lee<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mr Goh Qi Xuan, Eugene<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw" rowspan="2">P3.3<br></td>
+<td class="tg-f4yw">Ms Janice Ng Hai Yan<br></td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw">Mrs Nur Amalina Binte Mazzly <br></td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw" rowspan="2">P3.4<br></td>
+<td class="tg-f4yw">Mdm Kasthuri Chandra Mohan<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mr Goh Zhixiang, Steven<br></td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw" rowspan="2">P3.5<br></td>
+<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+</tr>
+ 
+<tr>
+<td class="tg-f4yw" rowspan="1"><br></td>
+<td class="tg-f4yw"><br></td>
+</tr>
+
 </tbody>
 </table>
 
-### P2 Teachers
+### **P2 Form Teachers**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  overflow:hidden;padding:12px 7px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  font-weight:normal;overflow:hidden;padding:12px 7px;word-break:normal;}
 .tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
+
 <table class="tg">
 <tbody>
-  <tr>
-    <td class="tg-2g1l">Class<br></td>
-    <td class="tg-2g1l">Form Teachers<br></td>
-    <td class="tg-2g1l">Class<br></td>
-    <td class="tg-2g1l">Form Teachers<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">P2.1<br></td>
-    <td class="tg-f4yw">Mdm Lim Candy<br></td>
-    <td class="tg-f4yw" rowspan="2">P2.5<br></td>
-    <td class="tg-f4yw">Mrs Chen Shi Hua<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Suhaina<br></td>
-    <td class="tg-f4yw">Mrs Bhavani<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">P2.2<br></td>
-    <td class="tg-f4yw">Mrs Chia Angelina<br></td>
-    <td class="tg-f4yw" rowspan="2">P2.6<br></td>
-    <td class="tg-f4yw">Mdm Lin Hua<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mrs Fadzlina<br></td>
-    <td class="tg-f4yw">Mrs Jomaine Tang<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">P2.3<br></td>
-    <td class="tg-f4yw">Mr Yee Edward<br></td>
-    <td class="tg-f4yw" rowspan="2">P2.7<br></td>
-    <td class="tg-f4yw">Mdm Pauline Chan<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Rozana<br></td>
-    <td class="tg-f4yw">Mdm Joanne Poh<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">P2.4<br></td>
-    <td class="tg-f4yw">Mdm Liang Lee Mei<br></td>
-    <td class="tg-f4yw" rowspan="2">P2.8<br></td>
-    <td class="tg-f4yw">Ms Raudah<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Ms Siti Umrah<br></td>
-    <td class="tg-f4yw">Mrs Wong Poh Ling</td>
-  </tr>
+
+<tr>
+<td class="tg-2g1l">Class<br></td>
+<td class="tg-2g1l">Form Teachers<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw" rowspan="3">P4.1<br></td>
+<td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+</tr>
+<tr>
+<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw" rowspan="2">P4.2<br></td>
+<td class="tg-f4yw">Ms Tan Geok Lee<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mr Goh Qi Xuan, Eugene<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw" rowspan="2">P4.3<br></td>
+<td class="tg-f4yw">Ms Janice Ng Hai Yan<br></td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw">Mrs Nur Amalina Binte Mazzly <br></td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw" rowspan="2">P4.4<br></td>
+<td class="tg-f4yw">Mdm Kasthuri Chandra Mohan<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mr Goh Zhixiang, Steven<br></td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw" rowspan="2">P4.5<br></td>
+<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+</tr>
+ 
+<tr>
+<td class="tg-f4yw" rowspan="1"><br></td>
+<td class="tg-f4yw"><br></td>
+</tr>
+
 </tbody>
 </table>
