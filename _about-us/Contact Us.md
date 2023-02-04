@@ -14,8 +14,9 @@ description: ""
 
 
 
-#### **Contact Details**<br>
-<body><big>General Office: 67854329<br>
+#### **Contact Details**
+<br>
+<body>General Office: 67854329<br>
 FAX: 67863117 <br>
 E-mail: tnps@moe.edu.sg<br>
 
