@@ -126,7 +126,7 @@ third_nav_title: Staff
 </tbody>
 </table>
 
-### Subject Heads / Level Heads
+### **Subject Heads / Level Heads**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -137,28 +137,45 @@ third_nav_title: Staff
 .tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
+
 <table class="tg">
 <tbody>
-  <tr>
-    <td class="tg-2g1l">Level Head (English)<br></td>
-    <td class="tg-f4yw">Mrs Pauline Loo<br></td>
-  </tr>
-  <tr>
-    <td class="tg-2g1l">Level Head (Mathematics)<br></td>
-    <td class="tg-f4yw">Mdm Helen Wam<br></td>
-  </tr>
-  <tr>
-    <td class="tg-2g1l">Subject Head (Science)<br></td>
-    <td class="tg-f4yw">Mr Mohammad Fahmy B Surahman<br></td>
-  </tr>
-  <tr>
-    <td class="tg-2g1l">Subject Head (CCE)<br></td>
-    <td class="tg-f4yw">Mr Steven Goh<br></td>
-  </tr>
-  <tr>
-    <td class="tg-2g1l"> Subject Head (ICT)</td>
-    <td class="tg-f4yw">Ms Candy Lim Yun Yun </td>
-  </tr>
+
+<tr>
+<td class="tg-2g1l">Level Head (English)<br></td>
+<td class="tg-f4yw">Mrs Pauline Loo<br></td>
+</tr>
+
+<tr>
+	<td class="tg-2g1l">Level Head <i>(Internal)</i> (Mathematics)<br></td>
+<td class="tg-f4yw">Ms Seah Ching Ying<br></td>
+</tr>
+
+<tr>
+<td class="tg-2g1l">Subject Head (Science)<br></td>
+<td class="tg-f4yw">Mr Mohammad Fahmy B Surahman<br></td>
+</tr>
+  
+<tr>
+<td class="tg-2g1l">Subject Head (CCE)<br></td>
+<td class="tg-f4yw">Mr Goh Zhixiang, Steven<br></td>
+</tr>
+  
+<tr>
+<td class="tg-2g1l"> Subject Head (ICT)</td>
+<td class="tg-f4yw">Ms Candy Lim Yun Yun </td>
+</tr>
+
+<tr>
+<td class="tg-2g1l">Subject Head (Student Management)<br></td>
+<td class="tg-f4yw">Mr Kwok Fang Jie<br></td>
+</tr>
+
+<tr>
+<td class="tg-2g1l">Subject Head <i>(Internal)</i> (Student Wellbeing)<br></td>
+<td class="tg-f4yw">Ms Yap Xin Yee, Jasmine<br></td>
+</tr>
+
 </tbody>
 </table>
 
