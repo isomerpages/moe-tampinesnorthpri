@@ -107,20 +107,20 @@ third_nav_title: Staff
 <td class="tg-2g1l">Year Head (P1&amp;P2)<br></td>
 <td class="tg-f4yw">Mrs Marlene Kiw<br></td>
 </tr>
-  
-<tr>
-<td class="tg-2g1l">Assistant Year-Head (P1 to P2)<br></td>
-<td class="tg-f4yw">Mr Edward Yee<br></td>
-</tr>
-  
+	
 <tr>
 <td class="tg-2g1l">Year Head (P3&amp;P4)<br></td>
 <td class="tg-f4yw">Mr Zulhisham Ahmad<br></td>
-</tr>
-  
+</tr>  
+
 <tr>
-<td class="tg-2g1l">Year Head (P5&amp;P6)<br></td>
-<td class="tg-f4yw">Mr De Cruz David Jeremiah</td>
+<td class="tg-2g1l">Assistant Year-Head (P6)<br></td>
+<td class="tg-f4yw">Ms Ashley Ng Li Qin</td>
+</tr>
+
+<tr>
+<td class="tg-2g1l">Assistant Year-Head (P6)<br></td>
+<td class="tg-f4yw">Mr Edward Yee<br></td>
 </tr>
 
 </tbody>
