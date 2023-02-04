@@ -32,10 +32,10 @@ third_nav_title: Staff
 </tr>
   
 <tr>
-<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+<td class="tg-f4yw">Mr Siew Nai Min<br></td>
 </tr>
 <tr>
-<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+<td class="tg-f4yw">Mdm Loh Mei Yin<br></td>
 </tr>
 
 <tr>
@@ -44,16 +44,16 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mr Goh Qi Xuan, Eugene<br></td>
+<td class="tg-f4yw">Mdm Sabaria Wahid<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mr Goh Qi Xuan, Eugene<br></td>
+<td class="tg-f4yw">Ms Candy Lim Yun Yun<br></td>
 </tr>	
 	
 <tr>
 <td class="tg-f4yw" rowspan="2">P1.3<br></td>
-<td class="tg-f4yw">Ms Janice Ng Hai Yan<br></td>
+<td class="tg-f4yw">Mdm Rozana <br></td>
 </tr>
   
 <tr>
