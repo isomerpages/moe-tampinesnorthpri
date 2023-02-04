@@ -27,7 +27,7 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-f4yw" rowspan="3">P3.1<br></td>
+<td class="tg-f4yw" rowspan="3">P1.1<br></td>
 <td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
 </tr>
   
@@ -39,7 +39,7 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-f4yw" rowspan="2">P3.2<br></td>
+<td class="tg-f4yw" rowspan="3">P1.2<br></td>
 <td class="tg-f4yw">Ms Tan Geok Lee<br></td>
 </tr>
 
@@ -48,7 +48,11 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-f4yw" rowspan="2">P3.3<br></td>
+<td class="tg-f4yw">Mr Goh Qi Xuan, Eugene<br></td>
+</tr>	
+	
+<tr>
+<td class="tg-f4yw" rowspan="2">P1.3<br></td>
 <td class="tg-f4yw">Ms Janice Ng Hai Yan<br></td>
 </tr>
   
@@ -57,7 +61,7 @@ third_nav_title: Staff
 </tr>
   
 <tr>
-<td class="tg-f4yw" rowspan="2">P3.4<br></td>
+<td class="tg-f4yw" rowspan="2">P1.4<br></td>
 <td class="tg-f4yw">Mdm Kasthuri Chandra Mohan<br></td>
 </tr>
 
@@ -66,14 +70,41 @@ third_nav_title: Staff
 </tr>
   
 <tr>
-<td class="tg-f4yw" rowspan="2">P3.5<br></td>
+<td class="tg-f4yw" rowspan="2">P1.5<br></td>
 <td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
 </tr>
 
 <tr>
 <td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
 </tr>
- 
+
+<tr>
+<td class="tg-f4yw" rowspan="2">P1.6<br></td>
+<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+</tr>
+
+<tr>
+<td class="tg-f4yw" rowspan="2">P1.7<br></td>
+<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+</tr>	
+
+<tr>
+<td class="tg-f4yw" rowspan="2">P1.8<br></td>
+<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+</tr>
+
 <tr>
 <td class="tg-f4yw" rowspan="1"><br></td>
 <td class="tg-f4yw"><br></td>
