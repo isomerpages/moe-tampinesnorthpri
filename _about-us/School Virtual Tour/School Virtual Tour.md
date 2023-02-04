@@ -4,10 +4,10 @@ permalink: /about-us/school-virtual-tour/virtual-tour/
 description: ""
 third_nav_title: School Virtual Tour
 ---
-AROUND THE SCHOOL
+**AROUND THE SCHOOL**
 -----------------
 
-### COURTYARD
+### **COURTYARD**
 
 Our courtyard. The TNPS Creed 'True' and 'Noble' stands proudly, reminding us to strive for these qualities in our everyday deeds.
 
@@ -33,34 +33,34 @@ Our courtyard. The TNPS Creed 'True' and 'Noble' stands proudly, reminding us to
 </tbody>
 </table>
 
-### ART GALLERY
+### **ART GALLERY**
 
 This is where our students' artworks are proudly displayed.
 
 ![](/images/ArtGallery.gif)
 
 
-### CHROMAZONE + SOUNDWAVE CORNER
+### **CHROMAZONE + SOUNDWAVE CORNER**
 
 One of our children's beloved spots in school where they can express themselves freely in the form of visual representations and creative music making.
 
 ![](/images/Chromazone_Soundwave%20Corner-min.gif)
 
 
-### G4LIFE COVE
+### **G4LIFE COVE**
 
 At the heart of our school's Environmental Education programme sits the G4Life Cove, an informative corner that aims to educate the school and advocate going 'green'.
 
 ***(EMBED gif file bigger than 5mb even after compression)***
 
 
-### PLAYGROUND
+### **PLAYGROUND**
 
 Our playground- decked in vibrant hues of orange and sky blue.
 
 ![](/images/Playground-min.gif)
 
-**HALL**
+### **HALL**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -86,7 +86,7 @@ Our playground- decked in vibrant hues of orange and sky blue.
 </table>
 
 
-**ISH BUILDING**
+### **ISH BUILDING**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -121,9 +121,9 @@ Our playground- decked in vibrant hues of orange and sky blue.
 </tbody>
 </table>
 
-### SPECIAL ROOMS
+# SPECIAL ROOMS
 
-### LOWER PRIMARY CLASSROOMS
+### **LOWER PRIMARY CLASSROOMS**
 
 The heart and soul of the Primary 1 experience; where students feel most at home in school. The layout and furniture are undergoing a revamp and will be done up by year end. Once completed, our children can look forward to a cosy environment, ergonomically suited and age appropriate. A space they will thrive in.
 
@@ -153,7 +153,7 @@ The heart and soul of the Primary 1 experience; where students feel most at home
 
 Learning the arts becomes interactive and highly engaging as these special rooms are equipped with interactive flat panel screens. Harnessing technology to enhance the learning experience for our digital native students.
 
-### LIBRARY
+### **LIBRARY**
 
 Students have spent many a happy hour getting lost in the sea of books (and board games) in the cosy confines of our library. Adjacent to the reading area is a performing arts studio where students enjoy dramatic arts based lessons.
 
@@ -181,14 +181,14 @@ Students have spent many a happy hour getting lost in the sea of books (and boar
 </table>
 
 
-### GREEN CORRIDOR
+### **GREEN CORRIDOR**
 
 The uppermost level in the school happens to be one of the more cooling spots in the compound thanks to our Green Corridor that serves not only to cool temperatures but also to educate students on the benefits of plants.
 
 ![](/images/GreenCorridor.jpeg)
 
 
-### ECO GARDEN
+### **ECO GARDEN**
 The soothing movements of the fishes swimming in the pond, as well as the gentle rustling of the trees and plants grant a respite from the hustle and bustle of school activities. Here, mini beasts such as snails and grasshoppers were observed during our Science and Art lessons.
 
 ***(EMBED gif file bigger than 5mb even after compression)***
