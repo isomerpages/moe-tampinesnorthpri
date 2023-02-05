@@ -4,7 +4,7 @@ permalink: /departments/Student-Management/student-leadership/
 description: ""
 third_nav_title: Student Management
 ---
-# Student Leadership
+## **Student Leadership**
 
 In TNPS, we believe that:
 
