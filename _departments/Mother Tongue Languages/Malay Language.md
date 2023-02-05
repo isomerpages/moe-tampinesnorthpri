@@ -15,7 +15,7 @@ Silibus Bahasa Melayu bertujuan untuk membentuk murid supaya dapat:
 *   mengenali dan memahami budaya dan nilai-nilai murni masyarakat Melayu serta budaya dan nilai-nilai murni negara dan kaum lain;
 *   berfikir secara kreatif, kritis dan kritikal untuk menguasai, meneroka, mereka cipta, menyelesaikan masalah, mencapai persetujuan bersama dan membuat keputusan tentang sesuatu perkara melalui penggunaan bahasa.
 
-### Boneka
+### **Boneka**
 
 
 <img src="/images/boneka1.jpeg" 
@@ -26,16 +26,16 @@ Silibus Bahasa Melayu bertujuan untuk membentuk murid supaya dapat:
 (embed video 2)   
 (embed video 3)   
 
-### Cerita Rakyat Nusantara menerusi iPad
+### **Cerita Rakyat Nusantara menerusi iPad**
 
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjb7W3LjN5WLGEPEAgCleB_Tz5_b_G1frQaXWSBaGR3otrWtTng_bpRy2li7uwdnFyslxd-U8If-5f/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 
-### Kerja Berkumpulan
+### **Kerja Berkumpulan**
 
 <center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTspGsSyrt5NNnGhI1a6yXUbp5c9xtugB2mRhy0BhiK4MRHuT5Gqg_U1IENlQaVQCfSe_iAV9YsZhVo/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
 
-### Lempeng Pisang
+### **Lempeng Pisang**
 
 <img src="/images/ml10.jpeg" 
      style="width:35%">
@@ -43,7 +43,7 @@ Silibus Bahasa Melayu bertujuan untuk membentuk murid supaya dapat:
 
 (embed video 4)
 
-### Nasi Lemak
+### **Nasi Lemak**
 
 <img src="/images/ml11.jpeg" 
      style="width:45%">
@@ -51,18 +51,15 @@ Silibus Bahasa Melayu bertujuan untuk membentuk murid supaya dapat:
 
 (embed video 5)
 
-### Taman Eko
+### **Taman Eko**
 
 
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnCDvXFJxcmlUT8fL1fSuIEguyfKAhuK--77dqVHsDgsWImlA0LD9v0S7JxpQ2KnkadTNyF70mJoDc/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>
 
-### Virtual OPS Baca Talent Competition 2021
 
-**Announcement**  
+### **Virtual OPS Baca Talent Competition 2021**
 
 Our very own homegrown talents are participating in the Virtual Ops Baca 2021 Talent Competition organised by the Tampines Central Community Centre. Do join us from your living room as we watch them on FB Live at 11.30am to 1.30pm today!
-
-  
 
 Pls click the link below to watch:    
 [https://www.facebook.com/MAEC-Tampines-Central-526041157604108/](https://www.facebook.com/MAEC-Tampines-Central-526041157604108/)
@@ -108,11 +105,9 @@ Proud to present our TNPS homegrown talents:
 
 ---------
 
-**_<u>Winners:</u>_**
+**<big><u>Achievements:</u>**
 
 We attained the following results for our Virtual Ops Baca Talent Competition.
-
-  
 
 **P2 -  1st**   
 **P3 -  2nd**   
