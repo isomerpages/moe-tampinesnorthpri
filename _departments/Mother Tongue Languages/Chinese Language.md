@@ -11,7 +11,7 @@ Happy learning, happy learning and good use!&nbsp;In terms of language learning,
 
 (embed video 1)
 
-### 2021年母语双周
+### **2021年母语双周**
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8月23日至9月2日，我校举办了一年一度的母语双周活动。在这两周内，华文部安排了一系列精彩有趣的学习活动让学生参与。活动针对各年级的需要而设，内容包括了中国脸谱绘画、灯笼制作、青花瓷设计、扇子彩绘、新谣赏析和影子偶活动等。我们还邀请了本地作家虎威老师为一到四年级的学生举办作家导读讲座。通过这些活动，同学们有更多机会接触华语，对于华语的学习以及使用有了更深刻的认识。
@@ -38,4 +38,3 @@ Happy learning, happy learning and good use!&nbsp;In terms of language learning,
 **<center>四年级：扇子彩绘</center>**
 
 ![](/images/chi19.jpeg)
-
