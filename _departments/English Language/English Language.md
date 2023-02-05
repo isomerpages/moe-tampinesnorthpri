@@ -4,7 +4,7 @@ permalink: /departments/English-Language/english-language/
 description: ""
 third_nav_title: English Language
 ---
-### Confident, Effective and Responsible Communicators
+### **Confident, Effective and Responsible Communicators**
 
 TNPS English teachers seek to deliver an engaging curriculum through the 5As approach to help students develop positive learning dispositions and acquire language skills to be confident and effective users of the language that will empower them to learn for life.
 
