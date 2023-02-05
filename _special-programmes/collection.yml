@@ -2,8 +2,8 @@ collections:
   special-programmes:
     output: true
     order:
-      - ALP/.keep
+      - LLP (Environmental Education)/.keep
       - LLP (Environmental Education)/Environmental Education.md
       - LLP (Environmental Education)/About TNPS G4Life.md
       - LLP (Environmental Education)/G4Life Updates.md
-      - LLP (Environmental Education)/.keep
+      - ALP/.keep
