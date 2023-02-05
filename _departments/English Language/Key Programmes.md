@@ -4,7 +4,7 @@ permalink: /departments/English-Language/key-programmes/
 description: ""
 third_nav_title: English Language
 ---
-### Appreciating Literature through Talk (ALT)
+##### **Appreciating Literature through Talk (ALT)**
 
   
 
@@ -18,6 +18,6 @@ Interaction with the texts through dialogue will allow students to:
 
 ![](/images/ALTTNPS.png)
 
-### English Week
+##### **English Week**
 
 Held annually, the English Week aims to provide students with opportunities to showcase their writing and speaking skills creatively. Taking on different themes each year, a host of activities are held in that week to tickle the students’ literary bones. Students are also given opportunities and platforms to create and perform in that week.
