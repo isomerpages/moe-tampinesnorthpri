@@ -1,5 +1,5 @@
 collections:
-  for-teachers:
+  for-staff:
     output: true
     order:
       - For Teachers.md
