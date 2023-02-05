@@ -4,10 +4,7 @@ permalink: /departments/Science/science/
 description: ""
 third_nav_title: Science
 ---
-
-
-
-##### A community of learners, equipped with knowledge and empathy for the environment
+### **A community of learners, equipped with knowledge and empathy for the environment**
 
 
 TNPS Science teachers aim to instil in our students a sense of wonder and lively curiosity for all things around them, with zeal for learning and knowledge, and imbued with genuine passion and care for the environment.
