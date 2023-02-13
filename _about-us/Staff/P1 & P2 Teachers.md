@@ -171,20 +171,20 @@ third_nav_title: Staff
   
 <tr>
 <td class="tg-f4yw" rowspan="2">P2.5<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Mr Ang Jit Sim, Jonathan<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Mdm Salinah Binte Rahman</td>
 </tr>
   
 <tr>
 <td class="tg-f4yw" rowspan="2">P2.6<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Mdm Sharifah Feiruz B Syed Mahmood<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Mr Lim Chee Xin</td>
 </tr>
   
 <tr>
