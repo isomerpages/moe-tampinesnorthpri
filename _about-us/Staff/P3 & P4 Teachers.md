@@ -114,11 +114,11 @@ third_nav_title: Staff
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P4.1<br></td>
-<td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
+<td class="tg-f4yw">Mr Yeo Jun Yu, Kyle<br></td>
 </tr>
   
 <tr>
-<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+<td class="tg-f4yw">Mdm Eireena Bte Rahman<br></td>
 </tr>
 
 <tr>
