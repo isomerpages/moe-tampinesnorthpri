@@ -136,16 +136,16 @@ third_nav_title: Staff
 </tr>
   
 <tr>
-<td class="tg-f4yw">Mrs Nur Amalina Binte Mazzly <br></td>
+<td class="tg-f4yw">Mdm Aisah Binte Mohamed Osman<br></td>
 </tr>
   
 <tr>
 <td class="tg-f4yw" rowspan="2">P4.4<br></td>
-<td class="tg-f4yw">Mdm Kasthuri Chandra Mohan<br></td>
+<td class="tg-f4yw">Mdm Wam Hui Kiang, Helen<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mr Goh Zhixiang, Steven<br></td>
+<td class="tg-f4yw">Mdm Liew Yuan Ting<br></td>
 </tr>
   
 <tr>
