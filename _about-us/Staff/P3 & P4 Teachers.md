@@ -150,20 +150,20 @@ third_nav_title: Staff
   
 <tr>
 <td class="tg-f4yw" rowspan="2">P4.5<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Mr David Lee<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Ms Aisyah Hanani Bte Mahmud</td>
 </tr>
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P4.6<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Mr Lim Wee Shan<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Mr Goh Zhixiang, Steven</td>
 </tr>
 	
 <tr>
