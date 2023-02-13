@@ -27,15 +27,12 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-f4yw" rowspan="3">P3.1<br></td>
-<td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
+<td class="tg-f4yw" rowspan="2">P3.1<br></td>
+<td class="tg-f4yw">Mr Gabriel Xu<br></td>
 </tr>
   
 <tr>
-<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
-</tr>
-<tr>
-<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+<td class="tg-f4yw">Mdm Almenoar Shariffah Faizah<br></td>
 </tr>
 
 <tr>
