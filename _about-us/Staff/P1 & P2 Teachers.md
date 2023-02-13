@@ -28,7 +28,7 @@ third_nav_title: Staff
 
 <tr>
 <td class="tg-f4yw" rowspan="3">P1.1<br></td>
-<td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
+<td class="tg-f4yw">Mdm Nur Suhaina<br></td>
 </tr>
   
 <tr>
@@ -40,7 +40,7 @@ third_nav_title: Staff
 
 <tr>
 <td class="tg-f4yw" rowspan="3">P1.2<br></td>
-<td class="tg-f4yw">Ms Tan Geok Lee<br></td>
+<td class="tg-f4yw">Mdm Nur Fadzline Binti Ab Majid<br></td>
 </tr>
 
 <tr>
@@ -53,56 +53,56 @@ third_nav_title: Staff
 	
 <tr>
 <td class="tg-f4yw" rowspan="2">P1.3<br></td>
-<td class="tg-f4yw">Mdm Rozana <br></td>
+<td class="tg-f4yw">Mdm Rozana Binte Saini <br></td>
 </tr>
   
 <tr>
-<td class="tg-f4yw">Mrs Nur Amalina Binte Mazzly <br></td>
+<td class="tg-f4yw">Mdm Nazreen Begum Binte Shahul Hameed <br></td>
 </tr>
   
 <tr>
 <td class="tg-f4yw" rowspan="2">P1.4<br></td>
-<td class="tg-f4yw">Mdm Kasthuri Chandra Mohan<br></td>
+<td class="tg-f4yw">Mdm Liang Lee Mei<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mr Goh Zhixiang, Steven<br></td>
+<td class="tg-f4yw">Ms Raudah Binte Abdul Karim<br></td>
 </tr>
   
 <tr>
 <td class="tg-f4yw" rowspan="2">P1.5<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Mrs Sathia <br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Mdm Tham Pui San</td>
 </tr>
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P1.6<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Mrs Loh-Teo Poh Teng, Joanne<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Mrs Pauline Chan</td>
 </tr>
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P1.7<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Mrs Jomaine Tang<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Ms Fadhilah Binte Ahmad Poart</td>
 </tr>	
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P1.8<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Mrs Wong-Tan Poh Ling<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Mdm Lin Hua</td>
 </tr>
 
 <tr>
