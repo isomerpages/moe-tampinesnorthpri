@@ -34,6 +34,7 @@ third_nav_title: Staff
 <tr>
 <td class="tg-f4yw">Mr Siew Nai Min<br></td>
 </tr>
+
 <tr>
 <td class="tg-f4yw">Mdm Loh Mei Yin<br></td>
 </tr>
@@ -188,21 +189,25 @@ third_nav_title: Staff
 </tr>
   
 <tr>
-<td class="tg-f4yw" rowspan="2">P2.7<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw" rowspan="3">P2.7<br></td>
+<td class="tg-f4yw">Ms Serene Lee Choon Mei<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Mdm Sim Yee Guat, Venus</td>
 </tr>
-  
+  	
+<tr>
+<td class="tg-f4yw">Mdm Annie See Guek Mui<br></td>
+</tr>
+	
 <tr>
 <td class="tg-f4yw" rowspan="2">P2.8<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Mdm Razlinda Bte Razali<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Mdm Mawar Binte Salleh</td>
 </tr>
 
 <tr>
