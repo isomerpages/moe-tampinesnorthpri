@@ -70,7 +70,20 @@ third_nav_title: Staff
 <tr>
 <td class="tg-f4yw">Ms Nur Amalina Binte Mazzly</td>
 </tr>
- 
+
+<tr>
+<td class="tg-f4yw" rowspan="3">P3.6<br></td>
+<td class="tg-f4yw">Ms Lim Lang Ing<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Ms Saraswathy D/O Arumugam</td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mdm Siti Rahayu Bte Ali</td>
+</tr>	
+	
 <tr>
 <td class="tg-f4yw" rowspan="1"><br></td>
 <td class="tg-f4yw"><br></td>
