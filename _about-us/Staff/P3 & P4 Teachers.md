@@ -64,11 +64,11 @@ third_nav_title: Staff
   
 <tr>
 <td class="tg-f4yw" rowspan="2">P3.5<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Ms Tan Geok Lee<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Ms Nur Amalina Binte Mazzly</td>
 </tr>
  
 <tr>
