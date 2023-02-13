@@ -135,38 +135,38 @@ third_nav_title: Staff
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P2.1<br></td>
-<td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
+<td class="tg-f4yw">Mdm Rafidah Binte Ridzuan<br></td>
 </tr>
   
 <tr>
-<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+<td class="tg-f4yw">Mdm Vivien Chua Boh Tee<br></td>
 </tr>
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P2.2<br></td>
-<td class="tg-f4yw">Ms Tan Geok Lee<br></td>
+<td class="tg-f4yw">Mdm Chua Yin Wen<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mr Goh Qi Xuan, Eugene<br></td>
+<td class="tg-f4yw">Mdm Junainah Binte Mohamed Basir<br></td>
 </tr>
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P2.3<br></td>
-<td class="tg-f4yw">Ms Janice Ng Hai Yan<br></td>
+<td class="tg-f4yw">Mdm Shahneeza Binte Lulkan<br></td>
 </tr>
   
 <tr>
-<td class="tg-f4yw">Mrs Nur Amalina Binte Mazzly <br></td>
+<td class="tg-f4yw">Mr Koh Soi Leng, Vince<br></td>
 </tr>
   
 <tr>
 <td class="tg-f4yw" rowspan="2">P2.4<br></td>
-<td class="tg-f4yw">Mdm Kasthuri Chandra Mohan<br></td>
+<td class="tg-f4yw">Mdm Norazliza Binte Abdul Aziz<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mr Goh Zhixiang, Steven<br></td>
+<td class="tg-f4yw">Mdm Ang Bin, Winnie<br></td>
 </tr>
   
 <tr>
