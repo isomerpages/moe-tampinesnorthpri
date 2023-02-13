@@ -50,7 +50,7 @@ third_nav_title: Staff
 </tr>
   
 <tr>
-<td class="tg-f4yw">Mrs Nur Amalina Binte Mazzly <br></td>
+<td class="tg-f4yw">Mdm Chen Shi Hua<br></td>
 </tr>
   
 <tr>
@@ -59,7 +59,7 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mr Goh Zhixiang, Steven<br></td>
+<td class="tg-f4yw">Ms Germaine Teh Hui Lin<br></td>
 </tr>
   
 <tr>
