@@ -18,7 +18,8 @@ FAX: 67863117 <br>
 E-mail: tnps@moe.edu.sg<br>
 
 
-#### **General Office Official Working Hours** <br>
+#### **General Office Official Working Hours**
+	
 <b><u>Schooling Days</u></b> <br>
 Mondays to Fridays: 7.30am to 5.30pm <br>
 Closed on Saturdays, Sundays and Public Holidays. <br>
