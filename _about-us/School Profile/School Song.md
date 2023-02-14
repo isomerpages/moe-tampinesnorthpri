@@ -24,4 +24,3 @@ With our mind and body, spirit and soul.
 We’ll go all out to reach our goals   
 at Tampines North Primary School!
 
-(embed youtube video here)
