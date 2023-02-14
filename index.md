@@ -13,7 +13,7 @@ sections:
           description: Confident Learners, Critical Thinkers, Rooted in Values
           url: ""
   - resources:
-      title: Latest Updates
+      title: Latest Announcements
       button: View All
   - infopic:
       title: Home-based Learning
