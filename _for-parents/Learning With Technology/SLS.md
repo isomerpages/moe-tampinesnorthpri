@@ -4,30 +4,8 @@ permalink: /useful-links/Students/sls/
 description: ""
 third_nav_title: Learning With Technology
 ---
-Dear Students,
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-
-<table class="tg" style="undefined;table-layout: fixed; width: 585px">
-<colgroup>
-<col style="width: 235px">
-<col style="width: 350px">
-</colgroup>
-<tbody>
-<tr>
-</td><td class="tg-nrix"><a href = "https://vle.learning.moe.edu.sg/login" target = "_self"> 
-	<img src="/images/SLS.png" style="width:85%"></a><strong>SLS Website:</strong> <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg</a></td></tr>
-</tbody>
-</table>
-
+![Student Learning Space Login Page](/images/Learning%20with%20Technology/Student%20Learning%20Space%202023.jpg)
+[Student Learning Space](https://vle.learning.moe.edu.sg/login)
 
 
 The Singapore Student Learning Space is a platform that will support Teaching and Learning in all our schools. In particular, it will help empower our students to drive their own learning according to their needs and interests.
@@ -56,7 +34,7 @@ Your login ID has been given to you. It is the first five letters of your name a
 
   
 
-First time login, use the following default password: **xx3try6s**
+For first time login (for Primary One students), please use the password given to you in your SLS Activation letter.
 
   
 
