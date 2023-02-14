@@ -4,7 +4,7 @@ permalink: /about-us/contact-us/
 description: ""
 ---
 #### **School Address**
-<body><big><b>30, Tampines Avenue 9 Singapore 529565</b></body>
+<body><big><b>30, Tampines Avenue 9 Singapore 529565</b>
 <br>
 <br>
 
