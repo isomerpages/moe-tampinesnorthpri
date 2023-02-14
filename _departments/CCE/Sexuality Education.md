@@ -14,4 +14,4 @@ Our children are growing up with a wide range of influences through the internet
 
 Character and Citizenship Education (CCE) supports Sexuality Education by teaching students to manage interpersonal relationships. Sexuality Education is conducted for the Primary 5 and 6 students through the Growing Years Programme which covers the physical, emotional, social and ethical aspects of sexuality.
 
-[Info_on_SEd_for_schs_website_Pri_2022.pdf]()
+[2023 Information on Sexuality Education_TNPS](/files/2023%20Info%20on%20SEd%20TNPS.pdf)
