@@ -4,7 +4,6 @@ permalink: /useful-links/Students/sls/
 description: ""
 third_nav_title: Learning With Technology
 ---
-
 Dear Students,
 
 
@@ -22,12 +21,9 @@ Dear Students,
 <col style="width: 350px">
 </colgroup>
 <tbody>
-  <tr>
-    </td>
-    <td class="tg-nrix"><a href = "https://vle.learning.moe.edu.sg/login" target = "_self"> 
-          <img src="/images/SLS.png" 
-							 style="width:85%"></a><strong>SLS Website:</strong> <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg</a></td>
-  </tr>
+<tr>
+</td><td class="tg-nrix"><a href = "https://vle.learning.moe.edu.sg/login" target = "_self"> 
+	<img src="/images/SLS.png" style="width:85%"></a><strong>SLS Website:</strong> <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg</a></td></tr>
 </tbody>
 </table>
 
