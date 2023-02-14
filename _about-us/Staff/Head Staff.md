@@ -115,7 +115,7 @@ third_nav_title: Staff
 </tr>  
 
 <tr>
-<td class="tg-2g1l">Assistant Year-Head (P6)<br></td>
+<td class="tg-2g1l">Assistant Year-Head (P5)<br></td>
 <td class="tg-f4yw">Ms Ashley Ng Li Qin</td>
 </tr>
 
