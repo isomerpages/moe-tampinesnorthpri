@@ -13,6 +13,6 @@ sections:
           description: Confident Learners, Critical Thinkers, Rooted in Values
           url: ""
   - resources:
-      title: Latest Announcements
+      title: Latest Updates
       button: View All
 ---
