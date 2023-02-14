@@ -1,0 +1,23 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA.md
+      - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Floorball.md
+      - Sports/Football.md
+      - Sports/Wushu.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Scouts.md
+      - Performing Arts/.keep
+      - Performing Arts/Angklung Kulintang Ensemble.md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/International Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Show Choir.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Infocomm Club.md
