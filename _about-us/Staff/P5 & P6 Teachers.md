@@ -27,44 +27,41 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-f4yw" rowspan="3">P5.1<br></td>
-<td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
-</tr>
-  
-<tr>
-<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
-</tr>
-<tr>
-<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+<td class="tg-f4yw" rowspan="1">P5.1<br></td>
+<td class="tg-f4yw">Mr Shashi Raj<br></td>
 </tr>
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P5.2<br></td>
-<td class="tg-f4yw">Ms Tan Geok Lee<br></td>
+<td class="tg-f4yw">Mrs Angelina Chia<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mr Goh Qi Xuan, Eugene<br></td>
+<td class="tg-f4yw">Mdm Kelly Koh Siew Kian<br></td>
 </tr>
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P5.3<br></td>
-<td class="tg-f4yw">Ms Janice Ng Hai Yan<br></td>
+<td class="tg-f4yw">Mdm Shariffah Ayesha Almenoar<br></td>
 </tr>
   
 <tr>
-<td class="tg-f4yw">Mrs Nur Amalina Binte Mazzly <br></td>
+<td class="tg-f4yw">Mrs Maran<br></td>
 </tr>
   
 <tr>
-<td class="tg-f4yw" rowspan="2">P5.4<br></td>
-<td class="tg-f4yw">Mdm Kasthuri Chandra Mohan<br></td>
+<td class="tg-f4yw" rowspan="3">P5.4<br></td>
+<td class="tg-f4yw">Ms Tan Mei Yen<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mr Goh Zhixiang, Steven<br></td>
+<td class="tg-f4yw">Ms Zhao An An<br></td>
 </tr>
   
+<tr>
+<td class="tg-f4yw">Mdm Suharti Binti Suppah<br></td>
+</tr>
+	
 <tr>
 <td class="tg-f4yw" rowspan="2">P5.5<br></td>
 <td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
