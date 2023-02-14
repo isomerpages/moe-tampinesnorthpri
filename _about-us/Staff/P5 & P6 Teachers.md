@@ -64,13 +64,27 @@ third_nav_title: Staff
 	
 <tr>
 <td class="tg-f4yw" rowspan="2">P5.5<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Ms Seah Ching Ying<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Ms Catherine Chua Jing Tong</td>
 </tr>
- 
+
+<tr>
+<td class="tg-f4yw" rowspan="3">P5.6<br></td>
+<td class="tg-f4yw">Ms Yap Xin Yee, Jasmine<br></td>
+</tr>
+
+<tr>
+<td class="tg-f4yw">Mdm Irma Darny Bte Swadi<br></td>
+</tr>
+  
+<tr>
+<td class="tg-f4yw">Mrs Viknesh<br></td>
+</tr>	
+	
+	
 <tr>
 <td class="tg-f4yw" rowspan="1"><br></td>
 <td class="tg-f4yw"><br></td>
