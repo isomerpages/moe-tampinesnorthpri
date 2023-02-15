@@ -35,14 +35,12 @@ third_nav_title: Staff
     <td class="tg-f4yw">Ms Tan Lee Yong<br></td>
   </tr>
   <tr>
-    <td class="tg-2g1l" rowspan="3">Corporate Support Staff<br></td>
+    <td class="tg-2g1l" rowspan="2">Corporate Support Staff<br></td>
     <td class="tg-f4yw">Ms Adeline<br></td>
   </tr>
+
   <tr>
-    <td class="tg-f4yw"></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mr Abdul Hakim<br></td>
+  <td class="tg-f4yw">Mr Abdul Hakim<br></td>
   </tr>
   <tr>
     <td class="tg-2g1l">ICT Manager<br></td>
