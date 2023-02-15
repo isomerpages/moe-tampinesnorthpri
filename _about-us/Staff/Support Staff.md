@@ -99,7 +99,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-2g1l">AED (LBS)<br></td>
-    <td class="tg-f4yw">Ms Maisarah<br></td>
+    <td class="tg-f4yw">Ms Maisarah Nabilah Binte Sa'azali<br></td>
   </tr>
   <tr>
     <td class="tg-2g1l">AED (T&amp;L)<br></td>
