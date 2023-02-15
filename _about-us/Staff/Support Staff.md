@@ -6,7 +6,7 @@ third_nav_title: Staff
 ---
 ![](/images/EAS%201.jpeg)
 
-### Administration and Support Staff
+### **Executive and Administration Staff**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -77,7 +77,7 @@ third_nav_title: Staff
 ![](/images/student%20support%20staff.jpeg)
 
 
-### Student Support Staff
+### **Student Support Staff**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
