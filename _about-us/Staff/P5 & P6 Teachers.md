@@ -125,7 +125,7 @@ third_nav_title: Staff
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P6.3<br></td>
-<td class="tg-f4yw">Ms Janice Ng Hai Yan<br></td>
+<td class="tg-f4yw">Ms Lian Xin Tian<br></td>
 </tr>
   
 <tr>
