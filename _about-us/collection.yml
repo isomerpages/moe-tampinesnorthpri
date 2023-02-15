@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
+      - School Operating Information/.keep
+      - School Operating Information/School Operating Information.md
       - School Operating Information/School Safety.md
       - School Operating Information/School Vendors.md
-      - School Operating Information/School Operating Information.md
-      - School Operating Information/.keep
       - Principal's Message.md
       - Vision Mission Values.md
       - School Profile/.keep
