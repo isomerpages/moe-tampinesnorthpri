@@ -114,12 +114,8 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-f4yw" rowspan="2">P6.1<br></td>
-<td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
-</tr>
-  
-<tr>
-<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+<td class="tg-f4yw" rowspan="1">P6.1<br></td>
+<td class="tg-f4yw">Mdm Zuryanah Bte Mohamed Dris<br></td>
 </tr>
 
 <tr>
