@@ -134,11 +134,11 @@ third_nav_title: Staff
   
 <tr>
 <td class="tg-f4yw" rowspan="2">P6.4<br></td>
-<td class="tg-f4yw">Mdm Kasthuri Chandra Mohan<br></td>
+<td class="tg-f4yw">Mr Mohammad Fahmy B Surahman<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mr Goh Zhixiang, Steven<br></td>
+<td class="tg-f4yw">Ms Phyllis Toh Xin Hui<br></td>
 </tr>
   
 <tr>
