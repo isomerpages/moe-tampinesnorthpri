@@ -129,7 +129,7 @@ third_nav_title: Staff
 </tr>
   
 <tr>
-<td class="tg-f4yw">Mrs Nur Amalina Binte Mazzly <br></td>
+<td class="tg-f4yw">Mr Mohamad Fazlon Bin Abdul Wahab<br></td>
 </tr>
   
 <tr>
