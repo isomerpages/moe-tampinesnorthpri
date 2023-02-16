@@ -4,7 +4,6 @@ permalink: /about-us/Staff/support-staff/
 description: ""
 third_nav_title: Staff
 ---
-
 ![](/images/EAS%201.jpeg)
 
 ### **Executive and Administration Staff**
@@ -55,20 +54,22 @@ third_nav_title: Staff
     <td class="tg-f4yw">Ms Umairah Afiqah Binte Yusof<br></td>
   </tr>
   <tr>
-    <td class="tg-2g1l" rowspan="5">Operation Support Staff<br></td>
-    <td class="tg-f4yw">Mr Toh Eng Soon<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mr Musa</td>
-  </tr>
-  <tr>
+    <td class="tg-2g1l" rowspan="3">Operation Support Staff<br></td>
     <td class="tg-f4yw">Mr Nawawi Hassan<br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Mr A Rahman Saman<br></td>
+    <td class="tg-f4yw">Mr A Rahman Saman</td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Ms Ainon Binti Nordin</td>
+    <td class="tg-f4yw">Mdm Ainon Binte Nordin<br></td>
+  </tr>
+
+  </tr>
+  
+  </tr>
+	  <tr>
+    <td class="tg-2g1l" rowspan="2"><br></td>
+    <td class="tg-f4yw"><br></td>
   </tr>
 </tbody>
 </table>
