@@ -4,7 +4,6 @@ permalink: /about-us/Staff/support-staff/
 description: ""
 third_nav_title: Staff
 ---
-
 ![](/images/EAS%201.jpeg)
 
 ### **Executive and Administration Staff**
@@ -29,17 +28,17 @@ third_nav_title: Staff
     <td class="tg-f4yw">Mr Wong &amp; Mr Chan<br></td>
   </tr>
   <tr>
-    <td class="tg-2g1l" rowspan="2">Management Support Staff<br></td>
+    <td class="tg-2g1l" rowspan="1">Management Support Staff<br></td>
     <td class="tg-f4yw">Ms Grace Tang<br></td>
+  </tr>
+
+  <tr>
+    <td class="tg-2g1l" rowspan="3">Corporate Support Officer<br></td>
+    <td class="tg-f4yw">Ms Adeline<br></td>
   </tr>
   <tr>
     <td class="tg-f4yw">Ms Tan Lee Yong<br></td>
   </tr>
-  <tr>
-    <td class="tg-2g1l" rowspan="2">Corporate Support Staff<br></td>
-    <td class="tg-f4yw">Ms Adeline<br></td>
-  </tr>
-
   <tr>
   <td class="tg-f4yw">Mr Abdul Hakim<br></td>
   </tr>
