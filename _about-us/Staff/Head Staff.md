@@ -6,7 +6,7 @@ third_nav_title: Staff
 ---
 ### **School Leaders**
 
-![](/images/sl1.jpeg)
+![](/images/School%20Leaders%202023.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
