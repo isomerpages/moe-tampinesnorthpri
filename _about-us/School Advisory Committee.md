@@ -82,6 +82,3 @@ description: ""
   </tr>
 	<tr>
 		<td class="tg-wa1i" colspan="4"><em>Members of the TNPS School Advisory Committee</em>
-	</tr>
-</tbody>
-</table>
