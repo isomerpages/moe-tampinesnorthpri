@@ -2,7 +2,9 @@
 title: School Operating Information
 permalink: /about-us/school-operating-information/
 description: ""
+third_nav_title: School Operating Information
 ---
+
 ### **School Hours**
 
 <style type="text/css">

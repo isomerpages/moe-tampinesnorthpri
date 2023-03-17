@@ -15,11 +15,4 @@ sections:
   - resources:
       title: Latest Updates
       button: View All
-  - infopic:
-      title: Home-based Learning
-      description: Our HBL Materials
-      button: View Website
-      url: https://sites.google.com/moe.edu.sg/tnpshbl2022/
-      image: /images/hblcoverdemo.png
-      alt: hbldemo
 ---

@@ -114,51 +114,40 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-f4yw" rowspan="3">P6.1<br></td>
-<td class="tg-f4yw">Mdm Eliana Bte Mohtar<br></td>
-</tr>
-  
-<tr>
-<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
-</tr>
-<tr>
-<td class="tg-f4yw">Mrs Kau Xueling, Zoie<br></td>
+<td class="tg-f4yw" rowspan="1">P6.1<br></td>
+<td class="tg-f4yw">Mdm Zuryanah Bte Mohamed Dris<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw" rowspan="2">P6.2<br></td>
-<td class="tg-f4yw">Ms Tan Geok Lee<br></td>
-</tr>
-
-<tr>
-<td class="tg-f4yw">Mr Goh Qi Xuan, Eugene<br></td>
+<td class="tg-f4yw" rowspan="1">P6.2<br></td>
+<td class="tg-f4yw">Mdm Zulia Binte Mohamed Said<br></td>
 </tr>
 
 <tr>
 <td class="tg-f4yw" rowspan="2">P6.3<br></td>
-<td class="tg-f4yw">Ms Janice Ng Hai Yan<br></td>
+<td class="tg-f4yw">Ms Lian Xin Tian<br></td>
 </tr>
   
 <tr>
-<td class="tg-f4yw">Mrs Nur Amalina Binte Mazzly <br></td>
+<td class="tg-f4yw">Mr Mohamad Fazlon Bin Abdul Wahab<br></td>
 </tr>
   
 <tr>
 <td class="tg-f4yw" rowspan="2">P6.4<br></td>
-<td class="tg-f4yw">Mdm Kasthuri Chandra Mohan<br></td>
+<td class="tg-f4yw">Mr Mohammad Fahmy B Surahman<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mr Goh Zhixiang, Steven<br></td>
+<td class="tg-f4yw">Ms Phyllis Toh Xin Hui<br></td>
 </tr>
   
 <tr>
 <td class="tg-f4yw" rowspan="2">P6.5<br></td>
-<td class="tg-f4yw">Mrs Raeesa D/O Mohammad Ilyas<br></td>
+<td class="tg-f4yw">Mr Alan Aw Kuan Yuan<br></td>
 </tr>
 
 <tr>
-<td class="tg-f4yw">Mdm Cheng Hwee Koon, Kate</td>
+<td class="tg-f4yw">Ms Siti Umrah Bte Mohd Salleh</td>
 </tr>
  
 <tr>

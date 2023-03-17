@@ -2,7 +2,9 @@
 title: School Safety
 permalink: /about-us/school-safety/
 description: ""
+third_nav_title: School Operating Information
 ---
+
 The safety of our students and staff are of utmost importance.
 
 Our school has customised programmes to educate students on safety matters. For instance, as part of the orientation programme, all P1 students are taught to cross the road safely. After the formal theory lesson in the classroom, P1 students head to the traffic junction outside the school for practice under the watchful eyes of our parent volunteers and teachers.

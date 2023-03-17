@@ -1,12 +1,12 @@
 ---
-title: Support Staff
+title: School Support Staff
 permalink: /about-us/Staff/support-staff/
 description: ""
 third_nav_title: Staff
 ---
 ![](/images/EAS%201.jpeg)
 
-### Administration and Support Staff
+### **Executive and Administration Staff**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -28,21 +28,19 @@ third_nav_title: Staff
     <td class="tg-f4yw">Mr Wong &amp; Mr Chan<br></td>
   </tr>
   <tr>
-    <td class="tg-2g1l" rowspan="2">Management Support Staff<br></td>
+    <td class="tg-2g1l" rowspan="1">Management Support Staff<br></td>
     <td class="tg-f4yw">Ms Grace Tang<br></td>
+  </tr>
+
+  <tr>
+    <td class="tg-2g1l" rowspan="3">Corporate Support Officer<br></td>
+    <td class="tg-f4yw">Ms Adeline<br></td>
   </tr>
   <tr>
     <td class="tg-f4yw">Ms Tan Lee Yong<br></td>
   </tr>
   <tr>
-    <td class="tg-2g1l" rowspan="3">Corporate Support Staff<br></td>
-    <td class="tg-f4yw">Ms Adeline<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mr Abdul Hakim<br></td>
+  <td class="tg-f4yw">Mr Abdul Hakim<br></td>
   </tr>
   <tr>
     <td class="tg-2g1l">ICT Manager<br></td>
@@ -56,20 +54,19 @@ third_nav_title: Staff
     <td class="tg-f4yw">Ms Umairah Afiqah Binte Yusof<br></td>
   </tr>
   <tr>
-    <td class="tg-2g1l" rowspan="5">Operation Support Staff<br></td>
-    <td class="tg-f4yw">Mr Toh Eng Soon<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mr Musa</td>
-  </tr>
-  <tr>
+    <td class="tg-2g1l" rowspan="3">Operation Support Staff<br></td>
     <td class="tg-f4yw">Mr Nawawi Hassan<br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Mr A Rahman Saman<br></td>
+    <td class="tg-f4yw">Mr A Rahman Saman</td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Ms Ainon Binti Nordin</td>
+    <td class="tg-f4yw">Mdm Ainon Binte Nordin<br></td>
+  </tr>
+  </tr>
+	  <tr>
+    <td class="tg-2g1l" rowspan="2"><br></td>
+    <td class="tg-f4yw"><br></td>
   </tr>
 </tbody>
 </table>
@@ -77,7 +74,7 @@ third_nav_title: Staff
 ![](/images/student%20support%20staff.jpeg)
 
 
-### Student Support Staff
+### **Student Support Staff**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -99,7 +96,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-2g1l">AED (LBS)<br></td>
-    <td class="tg-f4yw">Mdm Nurfazlin Binte Mohd<br></td>
+    <td class="tg-f4yw">Ms Maisarah Nabilah Binte Sa'azali<br></td>
   </tr>
   <tr>
     <td class="tg-2g1l">AED (T&amp;L)<br></td>

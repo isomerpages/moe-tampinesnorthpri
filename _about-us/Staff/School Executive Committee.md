@@ -1,12 +1,12 @@
 ---
-title: Head Staff
-permalink: /about-us/Staff/head-staff/
+title: School Executive Committee
+permalink: /about-us/staff/school-executive-committee/
 description: ""
 third_nav_title: Staff
 ---
 ### **School Leaders**
 
-![](/images/sl1.jpeg)
+![](/images/School%20Leaders%202023.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -115,7 +115,7 @@ third_nav_title: Staff
 </tr>  
 
 <tr>
-<td class="tg-2g1l">Assistant Year-Head (P6)<br></td>
+<td class="tg-2g1l">Assistant Year-Head (P5)<br></td>
 <td class="tg-f4yw">Ms Ashley Ng Li Qin</td>
 </tr>
 
