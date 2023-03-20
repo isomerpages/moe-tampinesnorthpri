@@ -44,6 +44,11 @@ description: ""
 <td class="tg-n4qt">Member</td>
 <td class="tg-ii8k">Mr Chris Yap</td>
 </tr>
+	
+	<tr>
+<td class="tg-n4qt">Member</td>
+<td class="tg-ii8k">Mr Azhar</td>
+</tr>
  
 </tbody>
 </table>
@@ -64,10 +69,11 @@ description: ""
 <col style="width: 200px">
 <col style="width: 200px">
 <col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i" colspan="4"><img src="/images/terence leong.png" 
+    <td class="tg-wa1i" colspan="5"><img src="/images/terence leong.png" 
 																				 style="width:15%">Mr Terence Leong<br><em>Chairman</em></td>
   </tr>
   <tr>
@@ -79,6 +85,9 @@ description: ""
      style="width:65%">Mr Cheah Choi Thim</td>
     <td class="tg-wa1i"><img src="/images/chrisyap.png" 
      style="width:65%">Mr Chris Yap</td>
+		 <td class="tg-wa1i"><img src="![](/images/IMG_0176.png)" 
+     style="width:65%">Mr Azhar</td>
+
   </tr>
 	<tr>
-		<td class="tg-wa1i" colspan="4"><em>Members of the TNPS School Advisory Committee</em>
+		<td class="tg-wa1i" colspan="5"><em>Members of the TNPS School Advisory Committee</em>
