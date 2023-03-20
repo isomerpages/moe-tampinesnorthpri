@@ -85,7 +85,7 @@ description: ""
      style="width:65%">Mr Cheah Choi Thim</td>
     <td class="tg-wa1i"><img src="/images/chrisyap.png" 
      style="width:65%">Mr Chris Yap</td>
-		 <td class="tg-wa1i"><img src="/images/Mr%20Izhar.jpg" 
+		 <td class="tg-wa1i"><img src="/images/mr%20izhar.png" 
      style="width:65%">Mr Izhar</td>
 
   </tr>
