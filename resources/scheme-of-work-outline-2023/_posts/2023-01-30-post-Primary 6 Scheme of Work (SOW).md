@@ -28,3 +28,16 @@ Please refer to the Scheme of Work (SOW) outlining the learning to be covered fo
 
 [Higher Chinese Language SOW Outline P6](/files/2023%20P6%20SOW/P6%20HCL%20SOW%20Outline.pdf)
 
+[Malay Language SOW Outline P6](/files/2023%20P6%20SOW/P6%20ML%20SOW%20Outline.pdf)
+
+[Fdn Malay Language SOW Outline P6](/files/2023%20P6%20SOW/P6%20FML%20SOW%20Outline.pdf)
+
+[Tamil Language SOW Outline P6](/files/2023%20P6%20SOW/P6%20TL%20SOW%20Outline.pdf)
+
+[Higher Tamil Language SOW Outline P6](/files/2023%20P6%20SOW/P6%20HTL%20SOW%20Outline.pdf)
+
+[PE SOW Outline P6](/files/2023%20P6%20SOW/P6%20PE%20SOW%20Outline.pdf)
+
+[Art SOW Outline P6](/files/2023%20P6%20SOW/P6%20Art%20SOW%20Outline.pdf)
+
+[Music SOW Outline P6](/files/2023%20P6%20SOW/P6%20Music%20SOW%20Outline.pdf)
