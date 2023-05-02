@@ -22,3 +22,4 @@ Please refer to the Scheme of Work (SOW) outlining the learning to be covered fo
 
 [Fdn Science SOW Outline P6](/files/2023%20P6%20SOW/P6%20Fdn%20Science%20SOW%20Outline.pdf)
 
+[Chinese Language SOW Outline P6](/files/2023%20P6%20SOW/P6%20CL%20SOW%20Outline.pdf)
