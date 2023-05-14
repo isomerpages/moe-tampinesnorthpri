@@ -11,3 +11,5 @@ third_nav_title: School Operating Information
 Contact: 8189 6168**<br>
 
 ![](/images/bus%20fare%20tnps.png)
+
+[TNPS School Bus Services Information 2023](/files/tnps%20school%20bus%20services%20information%202023.pdf)
