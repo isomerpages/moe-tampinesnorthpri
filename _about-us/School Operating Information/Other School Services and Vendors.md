@@ -21,6 +21,7 @@ third_nav_title: School Operating Information
 
 | SHIRLEY SEASON WEAR |  | 
 | -------- | -------- | 
-| Contact Number | 63826789 |
+| Contact Number | +65 6280 4917 |
+| Email Address | getintouch@shirleyuni.com |
 | Website (for online ordering) | www.shirleyuni.com |
-| Opening Hours | <u>For Purchase on school premises:</u><br>  Every Tuesday (During school term), 2.30-3.30pm | 
+| Opening Hours | <u>For Purchase on school premises:</u><br>  Every Tuesday (During school term), 2.30-3.30pm |
