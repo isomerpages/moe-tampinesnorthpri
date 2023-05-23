@@ -9,3 +9,7 @@ third_nav_title: Parents Portal
 
 #### **Briefing for Direct School Admission**
 * [DSA Briefing for P6 Parents 2023](/files/2023%20dsa%20briefing%20for%20p6%20parents.pdf)
+
+
+#### **Parents' Engagement Slides on PSLE 2023 - 22nd May 2023**
+*
