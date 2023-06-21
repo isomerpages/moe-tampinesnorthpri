@@ -25,3 +25,9 @@ third_nav_title: School Operating Information
 | Email Address | getintouch@shirleyuni.com |
 | Website (for online ordering) | www.shirleyuni.com |
 | Opening Hours | <u>For Purchase on school premises:</u><br>  Every Tuesday (During school term), 2.30-3.30pm |
+
+
+## **Big Heart Student Care Services**
+
+Parents who are interested in finding out more on the school’s internal student care services, Big Hearts Student Care. Please go to&nbsp;[https://bigheartstudentcare.com/](https://bigheartstudentcare.com/)&nbsp;to find out more. Do approach the General Office to get a hard copy of the registration form. Registration form should be submitted through the General Office.
+
