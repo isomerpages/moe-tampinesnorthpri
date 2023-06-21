@@ -4,16 +4,14 @@ permalink: /about-us/School-Profile/school-profile/
 description: ""
 third_nav_title: School Profile
 ---
-
-### **School History**
+### **SCHOOL HISTORY**
 
 Tampines North Primary School started in 1994 with 18 teachers and 322 students. Classes were held in Qiaonan Primary before moving to the present premises in 1995.
 
 
 #### **OUR BADGE**
 
-<img src="/images/Our%20Badge.png" 
-     style="width:25%">
+<img src="/images/Our%20Badge.png" style="width:25%">
 
 The shape of the shield depicts a strong protection for the pupil holding it. It shows a strong person with true and noble character depicted by the bold colours of dark and light blue.
 
