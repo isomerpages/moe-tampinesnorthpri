@@ -63,7 +63,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1000px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1100px">
 <colgroup>
 <col style="width: 200px">
 <col style="width: 200px">
