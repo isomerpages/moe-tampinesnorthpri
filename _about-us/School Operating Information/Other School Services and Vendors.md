@@ -31,9 +31,17 @@ third_nav_title: School Operating Information
 
 Parents who are interested in finding out more on the school’s internal student care services, Big Hearts Student Care. Please go to&nbsp;[https://bigheartstudentcare.com/](https://bigheartstudentcare.com/)&nbsp;to find out more. Do approach the General Office to get a hard copy of the registration form. Registration form should be submitted through the General Office.
 
+Contact them at 90221102 or [tampinesnorth@shgstudentcare.com.sg](tampinesnorth@shgstudentcare.com.sg)
+
 ![Big Heart Student Care](/images/big%20hearts%20poster.png)
 
 #### **To Register Your Interest**<br>
 Interested applicants may submit your interest online via the URL online link or QR Code below.
 **[https://bigheartstudentcare.com/interest/](https://bigheartstudentcare.com/interest/)**
 
+![Big Heart QR Code for registering interest](/images/big%20heart%20qr%20code.jpg)
+
+#### **Corporate Video**<br>
+```
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Do4hSWR8s4o" height="315" width="560"></iframe>
+```
