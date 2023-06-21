@@ -12,6 +12,12 @@ sections:
         - title: Tampines North Primary School
           description: Confident Learners, Critical Thinkers, Rooted in Values
           url: ""
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - resources:
       title: Latest Updates
       button: View All
