@@ -4,6 +4,8 @@ permalink: /about-us/School-Virtual-Tour/school-library/
 description: ""
 third_nav_title: School Virtual Tour
 ---
+## **Our School Library**
+
 Our school aims to create a vibrant reading culture for our students and one way is to provide access to a wide variety of quality books. The students can go to the library during the scheduled library periods, recess or after school.
 
 Our library is also equipped with the OPAC service for students to browse the library catalogue and the School e-Resource Repository (SeRR) for online stories.
