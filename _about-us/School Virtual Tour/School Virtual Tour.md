@@ -4,7 +4,7 @@ permalink: /about-us/school-virtual-tour/virtual-tour/
 description: ""
 third_nav_title: School Virtual Tour
 ---
-## **Virtual Open House 2023**
+## **VIRTUAL OPEN HOUSE 2023**
 ![2023 TNPS Open House](/images/2023%20open%20house%20poster.jpg)
 
 
