@@ -30,4 +30,3 @@ third_nav_title: School Operating Information
 ## **Big Heart Student Care Services**
 
 Parents who are interested in finding out more on the school’s internal student care services, Big Hearts Student Care. Please go to&nbsp;[https://bigheartstudentcare.com/](https://bigheartstudentcare.com/)&nbsp;to find out more. Do approach the General Office to get a hard copy of the registration form. Registration form should be submitted through the General Office.
-
