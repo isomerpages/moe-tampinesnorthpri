@@ -63,7 +63,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1100px">
 <colgroup>
 <col style="width: 200px">
 <col style="width: 200px">
@@ -73,21 +73,15 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i" colspan="5"><img src="/images/terence leong.png" 
-																				 style="width:15%">Mr Terence Leong<br><em>Chairman</em></td>
+    <td class="tg-wa1i" colspan="5"><img src="/images/terence leong.png" style="width:15%">Mr Terence Leong<br><em>Chairman</em></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><img src="/images/vincentyeo.png" 
-     style="width:65%">Mr Vincent Yeo</td>
-    <td class="tg-wa1i"><img src="/images/paulinetan.png" 
-     style="width:65%">Ms Pauline Tan</td>
-    <td class="tg-wa1i"><img src="/images/cheahchoithim.png" 
-     style="width:65%">Mr Cheah Choi Thim</td>
-    <td class="tg-wa1i"><img src="/images/chrisyap.png" 
-     style="width:65%">Mr Chris Yap</td>
-		 <td class="tg-wa1i"><img src="/images/mr%20izhar.png" 
-     style="width:65%">Mr Izhar</td>
+    <td class="tg-wa1i"><img src="/images/vincentyeo.png" style="width:65%">Mr Vincent Yeo</td>
+    <td class="tg-wa1i"><img src="/images/paulinetan.png" style="width:65%">Ms Pauline Tan</td>
+    <td class="tg-wa1i"><img src="/images/cheahchoithim.png" style="width:65%">Mr Cheah Choi Thim</td>
+    <td class="tg-wa1i"><img src="/images/chrisyap.png" style="width:65%">Mr Chris Yap</td>
+		 <td class="tg-wa1i"><img src="/images/mr%20izhar.png" style="width:65%">Mr Izhar</td>
 
   </tr>
 	<tr>
-		<td class="tg-wa1i" colspan="5"><em>Members of the TNPS School Advisory Committee</em>
+		<td class="tg-wa1i" colspan="5"><em>Members of the TNPS School Advisory Committee</em></td></tr></tbody></table>

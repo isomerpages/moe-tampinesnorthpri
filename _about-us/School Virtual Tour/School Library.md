@@ -4,10 +4,13 @@ permalink: /about-us/School-Virtual-Tour/school-library/
 description: ""
 third_nav_title: School Virtual Tour
 ---
+## **Our School Library**
+
 Our school aims to create a vibrant reading culture for our students and one way is to provide access to a wide variety of quality books. The students can go to the library during the scheduled library periods, recess or after school.
 
 Our library is also equipped with the OPAC service for students to browse the library catalogue and the School e-Resource Repository (SeRR) for online stories.
 
+**[Click here to access OPAC.](https://schoolibrary.moe.edu.sg/tampinesnorthpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)**
 
 Our school library has different sections to cater to the different reading levels and needs of our students: Picture Books, Easy Fiction, Fiction, Non Fiction, Mother Tongue Languages and Magazines. Students can refer to the bright letterings to help them locate the sections.
 

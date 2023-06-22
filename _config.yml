@@ -3,7 +3,7 @@ url: https://www.tampinesnorthpri.com
 favicon: /images/Our Badge.png
 colors:
   primary-color: "#094a66"
-  secondary-color: "#49759a"
+  secondary-color: "#00838f"
   media-colors:
     - title: media-color-one
       color: "#ffc85d"
@@ -12,9 +12,9 @@ colors:
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
-      color: "#00838f"
+      color: "#094a66"
     - title: media-color-five
-      color: "#00838f"
+      color: "#49759a"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: resources
+google_analytics_ga4: ""

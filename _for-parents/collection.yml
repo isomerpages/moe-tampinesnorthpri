@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Forms and Links.md
       - Information for Parents/.keep
       - Information for Parents/Parents Gateway.md
       - Parents Portal/.keep
@@ -17,4 +18,3 @@ collections:
       - Learning With Technology/SLS.md
       - Learning With Technology/Home Based Learning.md
       - Learning With Technology/My Skills Future.md
-      - Forms and Links.md

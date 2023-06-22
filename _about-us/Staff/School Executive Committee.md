@@ -148,7 +148,7 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-	<td class="tg-2g1l">Level Head <i>(Internal)</i> (Mathematics)<br></td>
+	<td class="tg-2g1l">Level Head (Mathematics)<br></td>
 <td class="tg-f4yw">Ms Seah Ching Ying<br></td>
 </tr>
 
@@ -173,7 +173,7 @@ third_nav_title: Staff
 </tr>
 
 <tr>
-<td class="tg-2g1l">Subject Head <i>(Internal)</i> (Student Wellbeing)<br></td>
+<td class="tg-2g1l">Subject Head (Student Wellbeing)<br></td>
 <td class="tg-f4yw">Ms Yap Xin Yee, Jasmine<br></td>
 </tr>
 
