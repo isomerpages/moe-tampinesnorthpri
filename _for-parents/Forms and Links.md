@@ -9,7 +9,7 @@ Form 1 - Application to Offer Non-Mother Tongue Language (Chinese/Malay/Tamil)
   
 [Form 1 - Non-MTL.pdf](/files/Form%201%20-%20Non-MTL.pdf)
   
- Form 3 - Application to Offer Non-Tamil Indian Language (Bengali/Gujarati/Hindi/Punjabi/Urdu)  
+&nbsp;Form 3 - Application to Offer Non-Tamil Indian Language (Bengali/Gujarati/Hindi/Punjabi/Urdu)  
   
 [Form 3 - NTIL.pdf](/files/Form%203%20-%20NTIL.pdf)
   
@@ -36,9 +36,9 @@ Please access the MOE site below and note the following
 
 [https://www.moe.gov.sg/financial-matters/fees](https://www.moe.gov.sg/financial-matters/fees)
 
-a.       For DBS/POSB and OCBC accounts, please use the online form available on this site
+a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For DBS/POSB and OCBC accounts, please use the online form available on this site
 
-b.       For all other bank accounts, please download the GIRO application form from this site and submit the original signed hardcopy to the school
+b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For all other bank accounts, please download the GIRO application form from this site and submit the original signed hardcopy to the school
 
   
 
@@ -46,7 +46,7 @@ b.       For all other bank accounts, please download the GIRO applicatio
 
 Please note that if there are more than 4 school going children in the family, contact the school for the hardcopy or softcopy application form. Otherwise, you may submit the application through this online form.
 
-<u>Online Form</u>
+[Online Form](https://drive.google.com/file/d/1GjSveuc4BJ5X8ZGtxZqhXi4yY9Y30dOb/view?usp=sharing)
 
   
 
