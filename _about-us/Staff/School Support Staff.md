@@ -13,7 +13,7 @@ variant: tiptap
     <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><strong>Admin Manager </strong>
+                <p><strong>Admin Manager</strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -22,7 +22,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><strong>Operation Manager </strong>
+                <p><strong>Operation Manager</strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -31,7 +31,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><strong>Management Support Staff </strong>
+                <p><strong>Management Support Staff</strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -40,7 +40,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="3" colspan="1">
-                <p><strong>Corporate Support Officers </strong>
+                <p><strong>Corporate Support Officers</strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -59,7 +59,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><strong>ICT Manager </strong>
+                <p><strong>ICT Manager</strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -68,7 +68,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="2" colspan="1">
-                <p><strong>Desktop Engineers </strong>
+                <p><strong>Desktop Engineers</strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -82,7 +82,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="3" colspan="1">
-                <p><strong>Operations Support Staff </strong>
+                <p><strong>Operations Support Staff</strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
