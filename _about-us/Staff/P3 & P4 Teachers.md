@@ -17,7 +17,7 @@ variant: tiptap
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><strong>Form Teachers</strong>
+                <p><strong>Form Teachers</strong> 
                     <br>
                 </p>
             </td>
@@ -97,6 +97,14 @@ variant: tiptap
                 <p>Ms Ong Hui Qi Odelia</p>
             </td>
         </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
     </tbody>
 </table>
 <h3><strong>P4 Form Teachers</strong></h3>
@@ -104,12 +112,12 @@ variant: tiptap
     <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><strong>Class</strong>
+                <p><strong>Class</strong> 
                     <br>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><strong>Form Teachers</strong>
+                <p><strong>Form Teachers</strong> 
                     <br>
                 </p>
             </td>
@@ -189,6 +197,14 @@ variant: tiptap
                 <p>Mdm Chen Shi Hua
                     <br>
                 </p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
             </td>
         </tr>
     </tbody>
