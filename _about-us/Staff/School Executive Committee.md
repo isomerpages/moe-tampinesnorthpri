@@ -13,8 +13,7 @@ variant: tiptap
     <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Principal
-                    <br>
+                <p><strong>Principal <br></strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -25,8 +24,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Vice- principal
-                    <br>
+                <p><strong>Vice- principal <br></strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -37,8 +35,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Vice- principal
-                    <br>
+                <p><strong>Vice- principal <br></strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -55,55 +52,44 @@ variant: tiptap
     <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>English
-                    <br>
+                <p><strong>English </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Mdm Noor Ashikin Sulaiman
-                    <br>
-                </p>
+                <p>Mdm Noor Ashikin Sulaiman</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Mathematics
-                    <br>
+                <p><strong>Mathematics </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Ms Ng Pei Fen, Geraldine
-                    <br>
-                </p>
+                <p>Ms Ng Pei Fen, Geraldine</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Mother Tongue Languages
-                    <br>
+                <p><strong>Mother Tongue Languages </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Mdm Cheng Hwee Koon, Kate
-                    <br>
-                </p>
+                <p>Mdm Cheng Hwee Koon, Kate</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Physical Health &amp; Fitness/ CCA
-                    <br>
+                <p><strong>Physical Health &amp; Fitness/ CCA </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Mr Hoy Kin Chung Edwin
-                    <br>
-                </p>
+                <p>Mr Hoy Kin Chung Edwin</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Character &amp; Citizenship Education (CCE)</p>
+                <p><strong>Character &amp; Citizenship Education (CCE)</strong>
+                </p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Ms Kezia Ler Bee Pheng</p>
@@ -111,69 +97,19 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>School Staff Developer</p>
+                <p><strong>School Staff Developer</strong>
+                </p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Ms Nadiah Song</p>
             </td>
         </tr>
-    </tbody>
-</table>
-<h3><strong>Year Heads / Assistant Year-Heads</strong></h3>
-<table>
-    <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Year Head (P1&amp;P2)
-                    <br>
-                </p>
+                <p></p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Mrs Tan Liwei Marlene (Mrs Kiw)
-                    <br>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Year Head (P3&amp;P4)
-                    <br>
-                </p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Mrs Kau Xueling Zoie (Mrs Yeo)
-                    <br>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Assistant Year Head (P3&amp;P4)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Mrs Ashley Ng Li Qin</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Year-Head (P5/6)
-                    <br>
-                </p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Mr Yee Yuanlong Edward</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Year-Head (P5/6)
-                    <br>
-                </p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Mr Zulhisham Ahmad
-                    <br>
-                </p>
+                <p></p>
             </td>
         </tr>
     </tbody>
@@ -183,43 +119,35 @@ variant: tiptap
     <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Level Head (Mathematics)
-                    <br>
+                <p><strong>Level Head (Mathematics) </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Ms Seah Ching Ying
-                    <br>
-                </p>
+                <p>Ms Seah Ching Ying</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Subject Head (Science)
-                    <br>
+                <p><strong>Subject Head (Science) </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Mr Mohammad Fahmy B Surahman
-                    <br>
-                </p>
+                <p>Mr Mohammad Fahmy B Surahman</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Subject Head (PE/ CCA)
-                    <br>
+                <p><strong>Subject Head (PE/ CCA) </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Mr Goh Zhixiang, Steven
-                    <br>
-                </p>
+                <p>Mr Goh Zhixiang, Steven</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Subject Head (ICT)</p>
+                <p><strong>Subject Head (ICT)</strong>
+                </p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Ms Candy Lim Yun Yun</p>
@@ -227,89 +155,146 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Subject Head (Student Wellbeing)
-                    <br>
+                <p><strong>Subject Head (Student Wellbeing) </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Ms Yap Xin Yee, Jasmine
-                    <br>
-                </p>
+                <p>Ms Yap Xin Yee, Jasmine</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
             </td>
         </tr>
     </tbody>
 </table>
+<p></p>
+<h3><strong>Year Heads / Assistant Year-Heads</strong></h3>
+<table>
+    <tbody>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>Year Head (P1&amp;P2) </strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Mrs Tan Liwei Marlene (Mrs Kiw)</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>Year Head (P3&amp;P4) </strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Mrs Kau Xueling Zoie (Mrs Yeo)</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>Assistant Year Head (P3&amp;P4)</strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Mrs Ashley Ng Li Qin</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>Year-Head (P5/6) </strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Mr Yee Yuanlong Edward</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>Year-Head (P5/6)</strong> 
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Mr Zulhisham Ahmad</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p></p>
 <h3><strong>Senior Teachers</strong></h3>
 <table>
     <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Lead Teacher (Mathematics)
-                    <br>
+                <p><strong>Lead Teacher (Mathematics) </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Ms Phyllis Toh Xin Hui
-                    <br>
-                </p>
+                <p>Ms Phyllis Toh Xin Hui</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Lead Teacher (Art)
-                    <br>
+                <p><strong>Lead Teacher (Art) </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Mrs Angelina Chia
-                    <br>
-                </p>
+                <p>Mrs Angelina Chia</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Senior Teacher (English)
-                    <br>
+                <p><strong>Senior Teacher (English) </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Ms Tan Mei Yen
-                    <br>
-                </p>
+                <p>Ms Tan Mei Yen</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Senior Teacher (Science)
-                    <br>
+                <p><strong>Senior Teacher (Science) </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Mdm Zulia Said
-                    <br>
-                </p>
+                <p>Mdm Zulia Said</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Senior Teacher (Malay)
-                    <br>
+                <p><strong>Senior Teacher (Malay) </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Mdm Salinah Rahman
-                    <br>
-                </p>
+                <p>Mdm Salinah Rahman</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Senior Teacher (Lower Pri)
-                    <br>
+                <p><strong>Senior Teacher (Lower Pri) </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Mdm Rafidah Ridzuan</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
             </td>
         </tr>
     </tbody>
