@@ -13,8 +13,7 @@ variant: tiptap
     <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Admin Manager
-                    <br>
+                <p><strong>Admin Manager </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -23,8 +22,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Operation Manager
-                    <br>
+                <p><strong>Operation Manager </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -33,8 +31,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Management Support Staff
-                    <br>
+                <p><strong>Management Support Staff </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -43,8 +40,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="3" colspan="1">
-                <p>Corporate Support Officers
-                    <br>
+                <p><strong>Corporate Support Officers </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -63,20 +59,16 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>ICT Manager
-                    <br>
+                <p><strong>ICT Manager </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Mr Subash Balan Pillai
-                    <br>
-                </p>
+                <p>Mr Subash Balan Pillai</p>
             </td>
         </tr>
         <tr>
             <td rowspan="2" colspan="1">
-                <p>Desktop Engineers
-                    <br>
+                <p><strong>Desktop Engineers </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -90,8 +82,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="3" colspan="1">
-                <p>Operations Support Staff
-                    <br>
+                <p><strong>Operations Support Staff </strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
@@ -126,7 +117,8 @@ variant: tiptap
     <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>School Counsellor</p>
+                <p><strong>School Counsellor</strong>
+                </p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Ms Jaclyn Kwan Poh Chue</p>
@@ -134,7 +126,8 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>AED (LBS)</p>
+                <p><strong>AED (LBS)</strong>
+                </p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Mdm Maisarah Nabilah Binte Sa'azali</p>
@@ -142,7 +135,8 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>AED (SWO)</p>
+                <p><strong>AED (SWO)</strong>
+                </p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Mdm Salina Aw Binte Fairuz</p>
