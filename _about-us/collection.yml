@@ -1,0 +1,28 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision Mission Values.md
+      - School Profile/.keep
+      - School Profile/School Profile.md
+      - School Profile/School Song.md
+      - School Profile/25th Anniversary Celebrations.md
+      - School Advisory Committee.md
+      - Staff/.keep
+      - Staff/School Executive Committee.md
+      - Staff/P1 & P2 Teachers.md
+      - Staff/P3 & P4 Teachers.md
+      - Staff/P5 & P6 Teachers.md
+      - Staff/School Support Staff.md
+      - School Rules.md
+      - School Operating Information/.keep
+      - School Operating Information/School Operating Information.md
+      - School Operating Information/School Safety.md
+      - School Operating Information/School Bus Service.md
+      - School Operating Information/Other School Services and Vendors.md
+      - School Virtual Tour/.keep
+      - School Virtual Tour/School Virtual Tour.md
+      - School Virtual Tour/School Library.md
+      - School Publication.md
+      - Contact Us.md

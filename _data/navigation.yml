@@ -1,0 +1,16 @@
+logo: /images/TNPS_logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Departments
+    collection: departments
+  - title: CCA
+    collection: cca
+  - title: Special Programmes
+    collection: special-programmes
+  - title: Achievements
+    collection: achievements
+  - title: For Parents
+    collection: for-parents
+  - title: For Staff
+    collection: for-staff
