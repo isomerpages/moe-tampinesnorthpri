@@ -13,12 +13,12 @@ variant: tiptap
     <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Class
-                    <br>
+                <p><strong>Class <br></strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Form Teachers</p>
+                <p><strong>Form Teachers</strong>
+                </p>
             </td>
         </tr>
         <tr>
@@ -156,13 +156,11 @@ variant: tiptap
     <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Class
-                    <br>
+                <p><strong>Class <br></strong>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Form Teachers
-                    <br>
+                <p><strong>Form Teachers <br></strong>
                 </p>
             </td>
         </tr>
