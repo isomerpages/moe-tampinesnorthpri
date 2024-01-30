@@ -7,10 +7,11 @@ variant: tiptap
 ---
 <h4><strong>Scheme of Work Outline</strong></h4>
 <ul data-tight="true" class="tight">
-    <li>
-        <p><a href="/resources/scheme-of-work-outline-2023/Primary-1/" rel="noopener noreferrer nofollow" target="_blank">P1 Scheme of Work (SOW) Outline 2023</a>
-        </p>
-    </li>
+<li>
+<p><a href="/resources/scheme-of-work-outline-2024/primary-1/" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Scheme of Work (SOW) 2024</a>
+</p>
+</li>
 </ul>
+<hr>
 <h4><strong>Parents Engagement Session</strong></h4>
 <p></p>
