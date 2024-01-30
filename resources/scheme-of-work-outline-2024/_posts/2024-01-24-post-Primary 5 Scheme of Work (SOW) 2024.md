@@ -26,3 +26,10 @@ below.</p>
 </p>
 <p><a href="/files/2024 SOW Outlines/2024_P5_FCL_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Foundation Chinese Language SOW Outline</a>
 </p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_ML_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Malay Language SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_HML_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Higher Malay Language SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_FML_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Foundation Malay Language SOW Outline</a>
+</p>
+<p></p>
