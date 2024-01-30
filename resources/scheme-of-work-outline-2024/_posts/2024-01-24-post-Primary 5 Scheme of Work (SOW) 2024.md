@@ -32,4 +32,16 @@ below.</p>
 </p>
 <p><a href="/files/2024 SOW Outlines/2024_P5_FML_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Foundation Malay Language SOW Outline</a>
 </p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_TL_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Tamil Language SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_HTL_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Higher Tamil Language SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_FTL_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Foundation Tamil Language SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_PE_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 PE SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_Art_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Art SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_Music_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Music SOW Outline</a>
+</p>
 <p></p>
