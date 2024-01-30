@@ -12,3 +12,17 @@ variant: tiptap
 <p>Please refer to the Scheme of Work (SOW) outlining the learning to be
 covered for the year for the various subjects by clicking on the links
 below.</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_EL_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 English Language SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_Std_Math_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Mathematics SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_Fdn_Math_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Foundation Mathematics SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_Std_Science_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Science SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_CL_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Chinese Language SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_HCL_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Higher Chinese Language SOW Outline</a>
+</p>
+<p><a href="/files/2024 SOW Outlines/2024_P5_FCL_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Foundation Chinese Language SOW Outline</a>
+</p>
