@@ -5,5 +5,13 @@ description: ""
 third_nav_title: Parents Portal
 variant: tiptap
 ---
-#### **Scheme of Work Outline**
-* [P2 Scheme of Work (SOW) Outline 2023](/resources/scheme-of-work-outline-2023/Primary-2/)
+<h4><strong>Scheme of Work Outline</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/resources/scheme-of-work-outline-2023/Primary-2/" rel="noopener noreferrer nofollow" target="_blank">P2 Scheme of Work (SOW) Outline 2023</a>
+</p>
+</li>
+</ul>
+<hr>
+<p></p>
+<p></p>
