@@ -28,4 +28,5 @@ is conducted for the Primary 5 and 6 students through the Growing Years
 Programme which covers the physical, emotional, social and ethical aspects
 of sexuality.</p>
 <p><a href="/files/2023%20Info%20on%20SEd%20TNPS.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Information on Sexuality Education_TNPS</a>
+<a href="/files/2024_Info_on_SEd_Tampines_North_Primary_School.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
 </p>
