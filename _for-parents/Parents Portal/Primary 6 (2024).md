@@ -1,8 +1,9 @@
 ---
-title: Primary 6 (2023)
-permalink: /for-parents/Parents-Portal/Primary-6-2023/
+title: Primary 6 (2024)
+permalink: /for-parents/parents-portal/primary-6-2024/
 description: ""
 third_nav_title: Parents Portal
+variant: tiptap
 ---
 #### **1. Scheme of Work Outline**
 *  [P6 Scheme Of Work (SOW) Outline 2023](/resources/scheme-of-work-outline-2023/Primary-6/)
