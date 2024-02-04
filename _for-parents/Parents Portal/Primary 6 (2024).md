@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Parents Portal
 variant: tiptap
 ---
-#### **1. Scheme of Work Outline**
-*  [P6 Scheme Of Work (SOW) Outline 2023](/resources/scheme-of-work-outline-2023/Primary-6/)
-
-#### **2. Briefing for Direct School Admission (2nd May 2023)**
-* [DSA Briefing for P6 Parents 2023](/files/2023%20dsa%20briefing%20for%20p6%20parents.pdf)
-
-
-#### **3. Parent Engagement Slides on PSLE 2023 (22nd May 2023)**
-* [Parent Engagement on PSLE 2023 (22nd May 2023)](/files/psle%202023%20-%20parent%20engagement.pdf)
+<h4><strong>Scheme of Work Outline</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/resources/scheme-of-work-outline-2024/primary-6/" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Scheme of Work (SOW) Outline 2024</a>
+</p>
+</li>
+</ul>
+<p></p>
