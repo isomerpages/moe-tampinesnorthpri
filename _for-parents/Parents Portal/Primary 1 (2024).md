@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>Scheme of Work Outline</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/resources/scheme-of-work-outline-2024/primary-1/" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Scheme of Work (SOW) 2024</a>
+<p><a href="/resources/scheme-of-work-outline-2024/primary-1/" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Scheme of Work (SOW) Outline 2024</a>
 </p>
 </li>
 </ul>
