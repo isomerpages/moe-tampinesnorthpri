@@ -27,4 +27,5 @@ by teaching students to manage interpersonal relationships. Sexuality Education
 is conducted for the Primary 5 and 6 students through the Growing Years
 Programme which covers the physical, emotional, social and ethical aspects
 of sexuality.</p>
-<p></p>
+<p><a href="/files/2024_Info_on_SEd_Tampines_North_Primary_School.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sexuality Education Tampines North Primary School</a>
+</p>
