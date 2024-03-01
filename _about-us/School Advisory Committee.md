@@ -2,86 +2,134 @@
 title: School Advisory Committee
 permalink: /about-us/sac/
 description: ""
+variant: tiptap
 ---
-### **TNPS School Advisory Committee**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-.tg .tg-ku5w{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-4su8{background-color:#FFFa;text-align:left;vertical-align:top}
-</style>
-
-<table class="tg">
+<h3><strong>TNPS School Advisory Committee</strong></h3><pre><code>&lt;tr&gt;</code></pre>
+<table>
 <tbody>
- 
 <tr>
-<td class="tg-n4qt">Chairman</td>
-<td class="tg-ii8k">Mr Terence Leong</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Leong</p>
+</td>
 </tr>
-  
 <tr>
-<td class="tg-n4qt">Member</td>
-<td class="tg-ii8k">Mr Vincent Yeo<br></td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Yeo
+<br>
+</p>
+</td>
 </tr>
-  
 <tr>
-<td class="tg-n4qt">Member</td>
-<td class="tg-ii8k">Mr Cheah Choi Thim</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cheah Choi Thim</p>
+</td>
 </tr>
-
 <tr>
-<td class="tg-n4qt">Member</td>
-<td class="tg-ii8k">Ms Pauline Tan</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pauline Tan</p>
+</td>
 </tr>
-  
 <tr>
-<td class="tg-n4qt">Member</td>
-<td class="tg-ii8k">Mr Chris Yap</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chris Yap</p>
+</td>
 </tr>
-	
-	<tr>
-<td class="tg-n4qt">Member</td>
-<td class="tg-ii8k">Mr Izhar</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Siti Masrura</p>
+</td>
 </tr>
- 
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Izhar</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### **Members**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1100px">
-<colgroup>
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
-</colgroup>
+<h3><strong>Members</strong></h3>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-wa1i" colspan="5"><img src="/images/terence leong.png" style="width:15%">Mr Terence Leong<br><em>Chairman</em></td>
-  </tr>
-  <tr>
-    <td class="tg-wa1i"><img src="/images/vincentyeo.png" style="width:65%">Mr Vincent Yeo</td>
-    <td class="tg-wa1i"><img src="/images/paulinetan.png" style="width:65%">Ms Pauline Tan</td>
-    <td class="tg-wa1i"><img src="/images/cheahchoithim.png" style="width:65%">Mr Cheah Choi Thim</td>
-    <td class="tg-wa1i"><img src="/images/chrisyap.png" style="width:65%">Mr Chris Yap</td>
-		 <td class="tg-wa1i"><img src="/images/mr%20izhar.png" style="width:65%">Mr Izhar</td>
-
-  </tr>
-	<tr>
-		<td class="tg-wa1i" colspan="5"><em>Members of the TNPS School Advisory Committee</em></td></tr></tbody></table>
+<tr>
+<td rowspan="1" colspan="5">
+<div class="isomer-image-wrapper">
+<img style="width:15%" height="auto" width="100%" src="/images/terence leong.png">
+</div>
+<p>Mr Terence Leong
+<br><em>Chairman</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/vincentyeo.png">
+</div>
+<p>Mr Vincent Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/paulinetan.png">
+</div>
+<p>Ms Pauline Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cheahchoithim.png">
+</div>
+<p>Mr Cheah Choi Thim</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/chrisyap.png">
+</div>
+<p>Mr Chris Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/mr%20izhar.png">
+</div>
+<p>Mr Izhar</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Siti_Mastura.jpg">
+</div>
+<p>Dr Siti Mastura</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><em>Members of the TNPS School Advisory Committee</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
