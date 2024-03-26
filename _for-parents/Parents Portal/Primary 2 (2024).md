@@ -14,4 +14,7 @@ variant: tiptap
 </ul>
 <hr>
 <p></p>
-<p></p>
+<p><a href="/files/Parents engagment session P1P2/SL_Briefing_Pri_2_Parents_Engagement_Talk_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SL Briefing P2 Parents Engagement</a>
+</p>
+<p><a href="/files/Parents engagment session P1P2/YH_ST_Primary_2_Parents_Engagement_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">YH P2 Parents Engagement</a>
+</p>
