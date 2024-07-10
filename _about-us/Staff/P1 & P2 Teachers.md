@@ -254,7 +254,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh-Teo Poh Teng (Joanne)</p>
+<p>Mdm Loh-Teo Poh Teng, Joanne</p>
 </td>
 </tr>
 <tr>
