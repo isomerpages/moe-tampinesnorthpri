@@ -12,12 +12,18 @@ sections:
         - title: Tampines North Primary School
           description: Confident Learners, Critical Thinkers, Rooted in Values
           url: ""
+  - infobar:
+      title: Teacher's day well wishes 2024
+      subtitle: Add informational text
+      id: infobar
+      description: Ex students of TNPS, wish your teachers a Happy Teachers' Day!
+      button: Click here
+      url: https://padlet.com/tampinesnorthpri/teachers-day-2024-well-wishes-videos-49xqav3v6gdahojw
   - infopic:
       title: Home-based Learning Day 2023
       id: infopic
-      description: |-
-        We will be having HBL on 2 Oct, Monday!
-        Click the link below to access the TNPS HBL Site for more information!
+      description: We will be having HBL on 2 Oct, Monday! Click the link below to
+        access the TNPS HBL Site for more information!
       button: TNPS HBL Site
       url: https://go.gov.sg/tnpshbl2023
       image: /images/Learning with Technology/Student Learning Space 2023.jpg
