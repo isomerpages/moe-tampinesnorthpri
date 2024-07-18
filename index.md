@@ -12,13 +12,6 @@ sections:
         - title: Tampines North Primary School
           description: Confident Learners, Critical Thinkers, Rooted in Values
           url: ""
-  - infobar:
-      title: Teachers' Day Well Wishes 2024
-      subtitle: Add informational text
-      id: infobar
-      description: Ex-students of TNPS, wish your teachers a Happy Teachers' Day!
-      button: Click here
-      url: https://padlet.com/tampinesnorthpri/teachers-day-2024-well-wishes-videos-49xqav3v6gdahojw
   - infopic:
       title: Home-based Learning Day 2023
       id: infopic
