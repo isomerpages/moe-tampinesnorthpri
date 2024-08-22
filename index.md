@@ -13,6 +13,13 @@ sections:
           description: Confident Learners, Critical Thinkers, Rooted in Values
           url: ""
   - infopic:
+      title: TNPS 30th Anniversary
+      id: infopic
+      button: TNPS Kaleidoscope Musical
+      url: https://www.youtube.com/watch?v=Fua5bCj34b0
+      image: /images/Image_26.jpg
+      alt: Image alt text
+  - infopic:
       title: Home-based Learning Day 2023
       id: infopic
       description: We will be having HBL on 2 Oct, Monday! Click the link below to
@@ -29,7 +36,4 @@ sections:
       alt: Image alt text
       url: https://www.tampinesnorthpri.moe.edu.sg/about-us/school-virtual-tour/virtual-tour/
       image: /images/2023 open house poster.jpg
-  - resources:
-      title: Latest Updates
-      button: View All
 ---
