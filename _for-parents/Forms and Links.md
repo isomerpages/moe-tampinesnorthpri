@@ -4,6 +4,9 @@ permalink: /for-parents/forms-and-links/
 description: ""
 variant: tiptap
 ---
+<h3><strong>TNPS WAITLIST APPLICATION FORM</strong></h3>
+<p><a href="https://form.gov.sg/667ba8e0a3667d3f7c54bd69" rel="noopener nofollow" target="_blank">CLICK HERE</a>
+</p>
 <h3><strong>MOTHER TONGUE LANGUAGE APPLICATION FORM</strong></h3>
 <p>Form 1 - Application to Offer Non-Mother Tongue Language (Chinese/Malay/Tamil)</p>
 <p><a href="/files/Form%201%20-%20Non-MTL.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 1 - Non-MTL.pdf</a>
