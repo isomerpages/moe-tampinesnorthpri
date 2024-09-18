@@ -22,19 +22,11 @@ sections:
   - infopic:
       title: Home-based Learning Day 2024
       id: infopic
-      description: We will be having HBL on 26 and 27 Sep 2024 (Thursday and
-        Friday)!  Click the link below to access the TNPS HBL Site for more
-        information!
+      description: We will be having HBL on 26 and 27 Sep 2024!  Click the link below
+        to access the TNPS HBL Site for more information! (Link will only be
+        active on 26 Sep)
       button: TNPS HBL Site
-      url: https://sites.google.com/moe.edu.sg/2024tnpshbl/
+      url: https://sites.google.com/moe.edu.sg/
       image: /images/hbl_cover.png
       alt: Image alt text
-  - infopic:
-      title: 2023 Virtual Open House
-      description: Join us for our Virtual Open House on 1st July 2023 (Saturday).
-        Scan the QR Code to sign up now!
-      button: School Virtual Tour
-      alt: Image alt text
-      url: https://www.tampinesnorthpri.moe.edu.sg/about-us/school-virtual-tour/virtual-tour/
-      image: /images/2023 open house poster.jpg
 ---
