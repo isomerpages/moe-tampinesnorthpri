@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: Home-based Learning Day 2024
       id: infopic
-      description: We will be having HBL on 26 and 27 Sep 2024 (Thursday and Friday)!
+      description: We will be having HBL on 26 and 27 Sep 2024 (Thursday and Friday).
         Click the link below to access the TNPS HBL Site for more information!
       button: TNPS HBL Site
       url: https://sites.google.com/moe.edu.sg/2024tnpshbl/
