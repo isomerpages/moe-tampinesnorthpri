@@ -5,10 +5,11 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<h3><strong>School Leaders</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Leaders%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_03_at_9_27_13_AM.jpg">
 </div>
+<h3><strong>School Leaders</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -32,7 +33,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Fu Chew
+<p>Mr Mohamed Yusuff
 <br>
 </p>
 </td>
@@ -43,14 +44,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Yusuff</p>
+<p>Ms Charmaine Tay</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Teachers.jpeg">
-</div>
 <h3><strong>Head of Departments</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -96,20 +94,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Character &amp; Citizenship Education (CCE)</strong>
+<p><strong>Character &amp; Citizenship Education (CCE)/ Student Well-being</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ler Bee Pheng, Kezia</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nadiah Song</p>
 </td>
 </tr>
 <tr>
@@ -119,14 +108,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kok Jing Er (Mrs Peh)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -149,11 +130,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Science)</strong>
+<p><strong>AYH/Subject Head(covering (Science)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Fahmy B Surahman</p>
+<p>Ms Ashley Ng</p>
 </td>
 </tr>
 <tr>
@@ -174,23 +155,6 @@ variant: tiptap
 <p>Ms Candy Lim Yun Yun</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head (Student Wellbeing)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yap Xin Yee Jasmine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -208,6 +172,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Marlene Tan Liwei (Mrs Kiw)</p>
+<p>Mdm Fadzlina AYH (covering)</p>
 </td>
 </tr>
 <tr>
@@ -217,15 +182,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kau Xueling Zoie (Mrs Yeo)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (P3&amp;P4)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ashley Ng Li Qin</p>
+<p>Ms Janice Ng AYH(Covering)</p>
 </td>
 </tr>
 <tr>
@@ -246,14 +203,6 @@ variant: tiptap
 <p>Mr Yee Yuanlong Edward</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -270,7 +219,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Xin Hui, Phyllis</p>
+<p>Ms Toh Xin Hui, Phyllis/ SSD Covering</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +228,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Su Yunn Angelina (Mrs Chia)</p>
+<p>Mdm Ang Su Yunn Angelina (Mrs Chia)/ SSD Covering</p>
 </td>
 </tr>
 <tr>
@@ -293,37 +242,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Science)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Zulia Bte Mohamed Said</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Malay)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Salinah Bte Rahman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Senior Teacher (Lower Pri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rafidah Binte Ridzuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

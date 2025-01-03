@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAS%201.jpeg">
-</div>
 <h3><strong>Executive and Administration Staff</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -67,7 +64,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Subash Balan Pillai</p>
+<p>Mr Subash</p>
 </td>
 </tr>
 <tr>
@@ -108,14 +105,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Rahman</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student%20support%20staff.jpeg">
-</div>
 <h3><strong>Student Support Staff</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -125,11 +119,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Counsellor</strong>
+<p><strong>AED (SC)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jaclyn Kwan Poh Chue</p>
+<p>Ms Joey Lee</p>
 </td>
 </tr>
 <tr>
@@ -152,10 +146,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>SEN</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nur Khaliqah Bte Mohd Khalid</p>
 </td>
 </tr>
 </tbody>
