@@ -6,9 +6,6 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3><strong>School Leaders</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Leaders%202023.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -32,7 +29,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Fu Chew
+<p>Ms Charmaine Tay
 <br>
 </p>
 </td>
@@ -48,9 +45,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Teachers.jpeg">
-</div>
 <h3><strong>Head of Departments</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -96,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Character &amp; Citizenship Education (CCE)</strong>
+<p><strong>Character &amp; Citizenship Education (CCE)/ Student Well-being</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,7 +103,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nadiah Song</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -149,11 +143,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Science)</strong>
+<p><strong>AYH/Subject Head(covering (Science)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Fahmy B Surahman</p>
+<p>Ms Ashley Ng</p>
 </td>
 </tr>
 <tr>
@@ -176,11 +170,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Student Wellbeing)</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Xin Yee Jasmine</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -207,7 +200,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marlene Tan Liwei (Mrs Kiw)</p>
+<p>Mdm Marlene Tan Liwei (Mrs Kiw) Fadzlina AYH (covering)</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +209,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kau Xueling Zoie (Mrs Yeo)</p>
+<p>Mdm Kau Xueling Zoie (Mrs Yeo) Ms Janice Ng AYH(Covering)</p>
 </td>
 </tr>
 <tr>
@@ -270,7 +263,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Xin Hui, Phyllis</p>
+<p>Ms Toh Xin Hui, Phyllis/ SSD Covering</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +272,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Su Yunn Angelina (Mrs Chia)</p>
+<p>Mdm Ang Su Yunn Angelina (Mrs Chia)/ SSD Covering</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +290,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zulia Bte Mohamed Said</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -306,7 +299,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Salinah Bte Rahman</p>
+<p></p>
 </td>
 </tr>
 <tr>
