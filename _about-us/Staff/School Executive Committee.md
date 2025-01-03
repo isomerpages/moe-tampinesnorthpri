@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_03_at_9_27_13_AM.jpg">
+</div>
 <h3><strong>School Leaders</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -29,7 +33,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Charmaine Tay
+<p>Mr Mohamed Yusuff
 <br>
 </p>
 </td>
@@ -40,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Yusuff</p>
+<p>Ms Charmaine Tay</p>
 </td>
 </tr>
 </tbody>
@@ -99,28 +103,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Information &amp; Communication Technology (ICT)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kok Jing Er (Mrs Peh)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -168,22 +155,6 @@ variant: tiptap
 <p>Ms Candy Lim Yun Yun</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -200,7 +171,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marlene Tan Liwei (Mrs Kiw) Fadzlina AYH (covering)</p>
+<p>Mdm Marlene Tan Liwei (Mrs Kiw)</p>
+<p>Mdm Fadzlina AYH (covering)</p>
 </td>
 </tr>
 <tr>
@@ -209,16 +181,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kau Xueling Zoie (Mrs Yeo) Ms Janice Ng AYH(Covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (P3&amp;P4)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ashley Ng Li Qin</p>
+<p>Mdm Kau Xueling Zoie (Mrs Yeo)</p>
+<p>Ms Janice Ng AYH(Covering)</p>
 </td>
 </tr>
 <tr>
@@ -282,24 +246,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Mei Yen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Science)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Malay)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
