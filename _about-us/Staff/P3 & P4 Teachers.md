@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3%20and%20P4%20teachers.jpeg">
-</div>
 <h3><strong>P3 Form Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -27,13 +24,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P3.1
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Germaine Teh Hui Lin</p>
+<p>Ms Tan Mei Yen</p>
 </td>
 </tr>
 <tr>
@@ -42,77 +39,104 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mr David Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>P3.2
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wam Hui Kiang, Helen</p>
+<p>Mdm Almenoar Shariffah Faizah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Wen Guang Leon</p>
+<p>Mrs Ashley Ng Li Qin</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Ms Tan Chui Choo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>P3.3
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eunice Loh Seow Juin</p>
+<p>Mrs Seah Ching Ying</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Muthalagee Ramasmy (Mrs Maran)</p>
+<p>Angelina Ang Su Yunn(Mrs Chia)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chu Hin Wa ,Jay / Melati bte Muhaiyah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>P3.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wee Shan</p>
+<p>Mr Kyle Yeo Jun Yu</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mdm Nazreen Begum Binte Shahul Hameed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Zheng Hoong , Leonidas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>P3.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Geok Lee</p>
+<p>Mr Muhammad Shafiq Bin Shaik Hussain</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Luo Junheng</p>
+<p>Mdm Junainah Binte Mohamed Basir</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mdm Eliana Bte Mohtar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>P3.6
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Janice Ng Hai Yan</p>
+<p>Ms Seah Xing Hui</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Hui Qi Odelia</p>
+<p>Ms Cheng Zong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Nur Shazwani Binte Zakariyah</p>
 </td>
 </tr>
 </tbody>
