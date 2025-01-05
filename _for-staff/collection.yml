@@ -2,4 +2,4 @@ collections:
   for-staff:
     output: true
     order:
-      - Useful Links for Teachers.md
+      - For Staff.md
