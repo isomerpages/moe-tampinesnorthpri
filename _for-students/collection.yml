@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - SSOE Computer Login and SWN Wifi.md
       - Online Accounts for Students.md
       - My Skills Future.md
       - Home Based Learning.md
