@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Support Group.md
       - Primary 6 (2024).md
       - Primary 5 (2024).md
       - Primary 4 (2024).md
