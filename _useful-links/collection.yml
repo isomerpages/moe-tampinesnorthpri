@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Information for Parents/.keep
-      - Information for Parents/Parents Gateway.md
       - Parents Portal/.keep
       - Parents Portal/Primary 1 (2024).md
       - Parents Portal/Primary 2 (2024).md
