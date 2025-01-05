@@ -3,8 +3,9 @@ collections:
     output: true
     order:
       - For Students/.keep
-      - For Parents/Parents Gateway.md
+      - For Parents/.keep
       - For Parents/Forms and Links.md
+      - For Parents/Parents Gateway.md
       - For Parents/Parents Support Group.md
       - For Parents/Primary 1 (2024).md
       - For Parents/Primary 2 (2024).md
@@ -12,6 +13,5 @@ collections:
       - For Parents/Primary 4 (2024).md
       - For Parents/Primary 5 (2024).md
       - For Parents/Primary 6 (2024).md
-      - For Parents/.keep
       - For Staff/For Staff.md
       - For Staff/.keep
