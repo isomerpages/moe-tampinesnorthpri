@@ -12,7 +12,7 @@ support students’ learning and collaboration with others.</p>
 <h4><strong>How do I log in?</strong></h4>
 <p><strong>Website: <a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>https://workspace.google.com/dashboard</u></a>&nbsp;</strong>
 </p>
-<p><strong>Username: This is your student iCON email address. </strong>
+<p><strong>Username: This is your student iCON email address.</strong>
 </p>
 <p>You also will use this email address as your username for MIMS. MIMS helps
 you log in to different apps and services using the same ID and password.
