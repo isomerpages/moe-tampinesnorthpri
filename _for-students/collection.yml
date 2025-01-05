@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Student iCON (also MIMS Account).md
       - Online Accounts for Students.md
       - SSOE Computer Login and SWN Wifi.md
       - My Skills Future.md
