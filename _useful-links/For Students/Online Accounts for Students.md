@@ -23,7 +23,7 @@ how to reset your own password.</p>
 </p>
 <p><strong>KooBits</strong>
 </p>
-<p><strong>Young Scientist Badge Portal </strong>
+<p><strong>Young Scientist Badge Portal</strong>
 </p>
 <p><strong>eZhiShi 知识网</strong>
 </p>
