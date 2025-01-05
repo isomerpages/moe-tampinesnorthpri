@@ -4,4 +4,5 @@ collections:
     order:
       - For Students/.keep
       - For Parents/.keep
+      - For Staff/For Staff.md
       - For Staff/.keep
