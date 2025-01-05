@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Parents Support Group.md
       - Learning With Technology/.keep
       - Learning With Technology/Students.md
       - Learning With Technology/SLS.md
