@@ -2,4 +2,5 @@ collections:
   for-students:
     output: true
     order:
+      - SLS.md
       - Students.md
