@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Students/.keep
+      - For Parents/Parents Support Group.md
       - For Parents/Primary 1 (2024).md
       - For Parents/Primary 2 (2024).md
       - For Parents/Primary 3 (2024).md
