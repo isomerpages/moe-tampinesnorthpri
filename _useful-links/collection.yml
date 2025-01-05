@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Learning With Technology/.keep
-      - Learning With Technology/Home Based Learning.md
       - Learning With Technology/My Skills Future.md
