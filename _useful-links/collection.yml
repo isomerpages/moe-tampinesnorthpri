@@ -1,5 +1,5 @@
 collections:
-  for-parents:
+  useful-links:
     output: true
     order:
       - Forms and Links.md
