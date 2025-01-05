@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Gateway.md
       - Forms and Links.md
