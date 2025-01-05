@@ -1,5 +1,4 @@
 collections:
   for-students:
     output: true
-    order:
-      - SSOE Computer Login and SWN Wifi.md
+    order: []
