@@ -32,12 +32,10 @@ number (e.g. Jon_Tan_1, Jon_Tan_2) to differentiate their email addresses.</p>
 you log in to different apps and services using the same ID and password.
 These include logging into school Chromebooks, SLS, and Microsoft Office
 apps.</p>
-<p></p>
+<p><strong>Password: </strong>Please refer to your login details on the page
+titled "Online Accounts for Students" in your Student Handbook.</p>
 <h4><strong>Account Management</strong></h4>
 <ul data-tight="true" class="tight">
-<li>
-<p>The login details can be found in your Student Handbook.</p>
-</li>
 <li>
 <p>To reset your password, please inform your teacher.</p>
 </li>
