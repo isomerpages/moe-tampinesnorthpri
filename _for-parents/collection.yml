@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
-      - Parents Support Group.md
-      - Primary 6 (2024).md
-      - Primary 5 (2024).md
-      - Primary 4 (2024).md
-      - Primary 3 (2024).md
-      - Primary 2 (2024).md
-      - Primary 1 (2024).md
-      - Parents Gateway.md
       - Forms and Links.md
+      - Parents Gateway.md
+      - Parents Support Group.md
+      - Primary 1 (2024).md
+      - Primary 2 (2024).md
+      - Primary 3 (2024).md
+      - Primary 4 (2024).md
+      - Primary 5 (2024).md
+      - Primary 6 (2024).md
