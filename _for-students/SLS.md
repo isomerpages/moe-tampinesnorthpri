@@ -2,16 +2,46 @@
 title: SLS
 permalink: /useful-links/Students/sls/
 description: ""
+variant: markdown
 ---
-![Student Learning Space Login Page](/images/Learning%20with%20Technology/Student%20Learning%20Space%202023.jpg)
-[Student Learning Space](https://vle.learning.moe.edu.sg/login)
+###  **What is Singapore Student Learning Space (SLS)?**
 
-
-The Singapore Student Learning Space is a platform that will support Teaching and Learning in all our schools. In particular, it will help empower our students to drive their own learning according to their needs and interests.
-
-  
+The SLS is the Ministry of Education’s core platform for teaching and learning and one of its key initiatives to transform the learning experiences of Singaporean students through the purposeful use of technology.  
 
 By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners.
+
+
+#### **How do I log in?**
+
+**Website: [vle.learning.moe.edu.sg/login](vle.learning.moe.edu.sg/login)** 
+
+There are 2 ways you can login to SLS. (1) Login with SLS. (2) Login with MIMS. You can use either one!
+
+**If you are logging in with SLS,**
+
+**Username: Your username is usually the first 5 characters of your full name and last 4 digits of birth certificate number or NRIC together with the alphabet, e.g. TANAH2345X.
+
+Note: Usernames will not contain spaces or special characters such as apostrophes (') and hyphens (-).
+
+*   Student’s email address will be based on (Full Name)@students.edu.sg
+    
+*   Any space in the full name will be replaced with an underscore.
+    
+*   Should the student’s full name have words such as “Bte” and “s/o”, they will not appear in the email address.
+    
+*   For cases where students share the same full name, we have added a numerical number (e.g. Jon\_Tan\_1, Jon\_Tan\_2) to differentiate their email addresses.
+    
+
+You also will use this email address as your username for MIMS. MIMS helps you log in to different apps and services using the same ID and password. These include logging into school Chromebooks, SLS, and Microsoft Office apps.
+
+#### **Account Management**
+
+*   The login details can be found in your Student Handbook.
+    
+*   To reset your password, please inform your teacher.
+
+
+
 
   
 
