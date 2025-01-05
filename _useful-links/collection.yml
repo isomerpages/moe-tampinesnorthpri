@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents Portal/.keep
-      - Parents Portal/Primary 4 (2024).md
       - Parents Portal/Primary 5 (2024).md
       - Parents Portal/Primary 6 (2024).md
       - Parents Support Group.md
