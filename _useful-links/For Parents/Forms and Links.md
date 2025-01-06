@@ -3,6 +3,7 @@ title: Forms and Links
 permalink: /for-parents/forms-and-links/
 description: ""
 variant: tiptap
+third_nav_title: For Parents
 ---
 <h3><strong>TNPS WAITLIST APPLICATION FORM</strong></h3>
 <p><a href="https://form.gov.sg/667ba8e0a3667d3f7c54bd69" rel="noopener nofollow" target="_blank">CLICK HERE</a>

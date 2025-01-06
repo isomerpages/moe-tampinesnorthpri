@@ -2,9 +2,8 @@
 title: Parents Support Group
 permalink: /useful-links/Parents/parents-support-group/
 description: ""
+third_nav_title: For Parents
 ---
-
-
 ### Our Objectives
 
 To provide a platform for parents to partner with the school to work on programmes and projects that will benefit the students.  

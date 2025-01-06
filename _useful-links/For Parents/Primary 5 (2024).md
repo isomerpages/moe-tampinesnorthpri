@@ -2,8 +2,8 @@
 title: Primary 5 (2024)
 permalink: /for-parents/parents-portal/primary-5-2024/
 description: ""
-third_nav_title: Parents Portal
 variant: tiptap
+third_nav_title: For Parents
 ---
 <h4><strong>Scheme of Work Outline</strong></h4>
 <ul data-tight="true" class="tight">

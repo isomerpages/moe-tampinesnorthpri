@@ -2,7 +2,7 @@
 title: Parents Gateway
 permalink: /for-parents/Information-for-Parents/PG/
 description: ""
-third_nav_title: Information for Parents
+third_nav_title: For Parents
 ---
 ### What is Parents Gateway?
  
@@ -14,37 +14,32 @@ The Parents Gateway mobile app will be launched in January 2019 and rolled out i
 * Receive school announcements and consent form details
 * Give your consent with the touch of a finger
 
-<img src="/images/Parents%20Gateway_1.png" 
-     style="width:30%">
+<img src="/images/Parents%20Gateway_1.png" style="width:30%">
 
 
 ### **How do you sign up for Parents Gateway Mobile App**
 
 ### Download the app directly from your Play Store or App Store
 Keyword search ‘Parents Gateway’    
-Supported OS Versions: Android 6.0 or later & iOS 9.1 or later
+Supported OS Versions: Android 6.0 or later &amp; iOS 9.1 or later
 
-<img src="/images/Parents%20Gateway_2.png" 
-     style="width:30%">
+<img src="/images/Parents%20Gateway_2.png" style="width:30%">
 
 ### Login with SingPass
-If you have issues signing in with Singpass, you may visit the [SingPass website](https://www.singpass.gov.sg/spauth/login/loginpage?URL=/&TAM_OP=login) or contact their helpdesk at 6643-0555
+If you have issues signing in with Singpass, you may visit the&nbsp;[SingPass website](https://www.singpass.gov.sg/spauth/login/loginpage?URL=/&amp;TAM_OP=login) or contact their helpdesk at 6643-0555
 
-<img src="/images/Parents%20Gateway_3-4.png" 
-     style="width:30%">
+<img src="/images/Parents%20Gateway_3-4.png" style="width:30%">
 
 
 ### Complete your Onboarding
 Retrieve your child’s details and verify the information to proceed
 
-<img src="/images/Parents%20Gateway_5-6.png" 
-     style="width:30%">
+<img src="/images/Parents%20Gateway_5-6.png" style="width:30%">
 
 ### You should now see your newsfeed
 Retrieve your child’s details and verify the information to proceed
 
-<img src="/images/Parents%20Gateway_7-8.png" 
-     style="width:30%">
+<img src="/images/Parents%20Gateway_7-8.png" style="width:30%">
 		 
 		 
 
@@ -68,13 +63,11 @@ Retrieve your child’s details and verify the information to proceed
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:bold;color:#333">Step 1 – SingPass Registration and 2FA Setup</span><br><span style="color:#333">SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not registered for a SingPass or have not set up the 2FA, please visit the SingPass website (</span><a href="https://www.singpass.gov.sg/" target="_blank" rel="noopener noreferrer"><span style="color:#333">https://www.singpass.gov.sg</span></a><span style="color:#333">), or scan the QR codes below to do so. Should you require further assistance, please contact SingPass Helpdesk at 6643-0555. </span><span style="font-style:italic;color:#333">weee</span></td>
-    <td class="tg-f4yw"><img src="/images/SingPass.png" 
-     style="width:85%"></td>
+    <td class="tg-f4yw"><img src="/images/SingPass.png" style="width:85%"></td>
   </tr>
   <tr>
     <td class="tg-x1qm"><span style="font-weight:bold">Step 2 – Download Parents Gateway Mobile App</span><br>- Open the Apple App Store or Google Play Store app on your mobile phone.<br>- Search for the ‘Parents Gateway’ mobile app, or scan the QR code below.<br>- Download and install the app onto your phone.<br>- Enable 'Allow Notifications' to receive push notifications.<br><br>*Note: Supported OS Versions - Android 6.0 or later &amp; iOS 9.1 or later</td>
-    <td class="tg-f4yw"><img src="/images/Android_iOS.png" 
-     style="width:75%"></td>
+    <td class="tg-f4yw"><img src="/images/Android_iOS.png" style="width:75%"></td>
   </tr>
 </tbody>
 </table>

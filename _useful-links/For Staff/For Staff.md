@@ -1,10 +1,10 @@
 ---
-title: Useful Links for Teachers
+title: For Staff
 permalink: /for-teachers/
 description: ""
+variant: tiptap
+third_nav_title: For Staff
 ---
-
-
 ### **Useful Links for Teachers**
 
 <style type="text/css">
