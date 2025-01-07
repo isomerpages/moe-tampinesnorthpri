@@ -3,10 +3,11 @@ title: Brownies
 permalink: /cca/Uniformed-Groups/brownies/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/hADDk_BEU28" title="Brownies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/hADDk_BEU28" title="Brownies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-The mission of Brownies is to enable the girls to develop their fullest potential as responsible citizens of the world through the 5-point programme: Personal & Social Development, Outdoors, Home, Community and International. They are constantly learning new skills and challenged to try new and adventurous activities. Through these activities, we hope to inspire them to think about what they want to be and do in the future. The Brownies will learn to work independently and in teams. Collaborative projects with Brownies and Girl Guide units from other schools broaden their knowledge and learning.  
+The mission of Brownies is to enable the girls to develop their fullest potential as responsible citizens of the world through the 5-point programme: Personal &amp; Social Development, Outdoors, Home, Community and International. They are constantly learning new skills and challenged to try new and adventurous activities. Through these activities, we hope to inspire them to think about what they want to be and do in the future. The Brownies will learn to work independently and in teams. Collaborative projects with Brownies and Girl Guide units from other schools broaden their knowledge and learning.  
   
 
 ### Schedule
@@ -64,6 +65,4 @@ The mission of Brownies is to enable the girls to develop their fullest potentia
 
 ### CCA Teachers-in-charge
 
-*   Mdm Razlinda
-*   Ms Jeanie Yap
-*   Ms Lian Xin Tian
+To be updated soon.
