@@ -29,6 +29,7 @@ Students who do not meet the minimum attendance will not be considered
 to have completed the CCA, and may not be fielded for competitions or performances.
 If a student misses a session, he/she must produce a medical certificate
 or a valid supporting document to explain his/her absence.</p>
+<p>More information will be up soon.</p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -67,9 +68,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1400h - 1600h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Raudah*</p>
-<p>Mdm Lina</p>
-<p>Mdm Kasthuri</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -83,8 +82,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1400h - 1600h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wam**</p>
-<p>Ms Lava</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -98,8 +96,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1400h - 1600h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Faizah*</p>
-<p>Ms Siti Umrah</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -113,9 +110,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1400h - 1600h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liew*</p>
-<p>Mdm Chen</p>
-<p>Mdm Tham</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -129,8 +124,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1400h - 1600h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Janice*</p>
-<p>Mr Lim Wee Shan</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -144,10 +138,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1400h - 1600h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Fazlon*</p>
-<p>Mdm Nazreen</p>
-<p>Ms Odelia</p>
-<p>Ms Xing Hui</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -161,9 +152,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1400h - 1600h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liza**</p>
-<p>Mdm Shahneeza</p>
-<p>Mr Lim Jian Hong</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -177,8 +166,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1400h - 1600h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Chee Xin*</p>
-<p>Mdm Lin Hui</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -192,9 +180,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1400h - 1600h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah*</p>
-<p>Mrs Joanne Loh</p>
-<p>Mr Leon Lee</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -208,8 +194,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1400h - 1600h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Razlinda*</p>
-<p>Ms Lian</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -223,8 +208,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1400h - 1600h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gabriel Xu*</p>
-<p>Mr Shafiq</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -238,9 +222,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1430h - 1630h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Junainah*</p>
-<p>Mdm Salinah</p>
-<p>Ms Catherine Chua</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -254,9 +236,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1430h - 1630h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jomaine Tang*</p>
-<p>Ms Tan Geok Lee</p>
-<p>Mr Vince Koh</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -270,9 +250,7 @@ or a valid supporting document to explain his/her absence.</p>
 <p>1430h - 1630h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kyle Yeo*</p>
-<p>Mdm Fatin</p>
-<p>Mdm Zulia</p>
+<p></p>
 </td>
 </tr>
 <tr>
