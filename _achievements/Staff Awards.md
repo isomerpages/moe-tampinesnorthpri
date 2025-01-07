@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Associate of AST Award </u></strong>
+<p><strong><u>Associate of AST Award</u></strong>
 </p>
 <p></p>
 <p>
