@@ -3,38 +3,21 @@ title: International Dance
 permalink: /cca/Performing-Arts/international-dance/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LajwJWOSckQ" title="International Dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
-
-International Dance CCA aims to nurture and groom students to excel in modern dance. We hope to ignite the passion for dancing in our students. Our students are exposed to different dance genres as they learn a variety of dance moves and techniques. During the practice sessions, our students learn and practise the school values of resilience and responsibility. We provide multiple platofrms for students to participate in performances and competitions to hone their dance techniques.
-
-  
-
-### Schedule
-
-
-**Days**: Every Monday
-
-  
-
-**Time**: 2pm to 4:30pm
-
-  
-
-**Venue**: Band Room
-
-  
-
-### Achievements
-
-
-**Singapore Youth Festival 2017**   
-Commendation Award
-
-  
-
-### CCA Teachers-in-charge
-
-
-To be updated soon.
+<p>International Dance CCA aims to nurture and groom students to excel in
+modern dance. We hope to ignite the passion for dancing in our students.
+Our students are exposed to different dance genres as they learn a variety
+of dance moves and techniques. During the practice sessions, our students
+learn and practise the school values of resilience and responsibility.
+We provide multiple platofrms for students to participate in performances
+and competitions to hone their dance techniques.</p>
+<h3>Schedule</h3>
+<p><strong>Days</strong>: Every Monday</p>
+<p><strong>Time</strong>: 2pm to 4:30pm</p>
+<p><strong>Venue</strong>: Band Room</p>
+<h3>Achievements</h3>
+<p><strong>Singapore Youth Festival 2017</strong>
+<br>Commendation Award</p>
+<h3>CCA Teachers-in-charge</h3>
+<p>To be updated soon.</p>
