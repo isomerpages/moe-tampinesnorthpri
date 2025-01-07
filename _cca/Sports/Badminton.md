@@ -3,8 +3,9 @@ title: Badminton
 permalink: /cca/Sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/7jG7BMymS-8" title="Badminton" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/7jG7BMymS-8" title="Badminton" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 Badminton is a popular physical sports CCA in TNPS. Badminton offers a great workout while testing players' endurance, stamina, flexibility and hand-foot coordination. During practice, students can expect to expend their energy through a healthy outlet and build strength during each session. With 6 badminton courts in the school hall, students can look forward to fun-filled drills or games during practice, rain or shine!
 
@@ -33,8 +34,4 @@ Top achievements so far: Our school team badminton team qualified into Quarter-F
 
 ### CCA Teachers-in-charge
 
-*   Ms AnAn
-*   Mrs Shan
-*   Mr Fazlon
-*   Mr Steven
-*   Mdm Tham
+To be updated soon
