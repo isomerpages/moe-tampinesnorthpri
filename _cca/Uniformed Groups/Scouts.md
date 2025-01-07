@@ -3,8 +3,9 @@ title: Scouts
 permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/HDblGqQjZyM" title="Scouts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/HDblGqQjZyM" title="Scouts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 Through Scouting, Cub Scouts discover, learn and put into practice essential life skills through serving others and learning by doing.
 
@@ -42,6 +43,4 @@ With the acquisition of the new knowledge and skills, the Cub Scouts become more
 
 ### CCA Teachers-in-charge
 
-*   Mr Gabriel Xu
-*   Mr Kwok Fang Jie
-*   Mr Kyle Yeo
+To be updated soon.
