@@ -3,8 +3,9 @@ title: Wushu
 permalink: /cca/Sports/wushu/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/IQRUjZ9wp7M" title="Wushu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/IQRUjZ9wp7M" title="Wushu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 Wushu CCA provides students with the opportunity to develop strength, flexibility and balance through learning individual Wushu techniques and routines. Students learn how to keep their bodies fit and at the same time, learn about the traditional Chinese martial art.
 
@@ -12,7 +13,7 @@ Wushu CCA provides students with the opportunity to develop strength, flexibilit
 
 ### Schedule
 
-**Days**: Monday (School Team) & Thursday
+**Days**: Monday (School Team) &amp; Thursday
 
 **Time**: 2.00 pm to 4.30 pm
 
@@ -72,6 +73,4 @@ Wushu CCA provides students with the opportunity to develop strength, flexibilit
 
 ### CCA Teachers-in-charge
 
-*   Mr Lim Chee Xin
-*   Mr Siew Naimin
-*   Mdm Lin Hua
+To be updated soon.
