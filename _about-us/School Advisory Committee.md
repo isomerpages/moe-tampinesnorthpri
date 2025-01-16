@@ -4,8 +4,13 @@ permalink: /about-us/sac/
 description: ""
 variant: tiptap
 ---
-<h3><strong>TNPS School Advisory Committee</strong></h3><pre><code>&lt;tr&gt;</code></pre>
-<table>
+<h3><strong>TNPS School Advisory Committee</strong></h3>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,22 +70,36 @@ variant: tiptap
 <p>Mr Izhar</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Liew Hui Ru</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>Members</strong></h3>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="7">
 <div class="isomer-image-wrapper">
 <img style="width:15%" height="auto" width="100%" src="/images/terence leong.png">
 </div>
 <p>Mr Terence Leong
 <br><em>Chairman</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -116,18 +135,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Siti_Mastura.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dr_Siti_Mastura.jpg">
 </div>
 <p>Dr Siti Mastura</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p><em>Members of the TNPS School Advisory Committee</em>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/grace_liew.jpg">
+</div>
+<p>Ms Grace Liew Hui Ru</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="7">
+<p><em>Members of the TNPS School Advisory Committee</em>
+</p>
 </td>
 </tr>
 </tbody>

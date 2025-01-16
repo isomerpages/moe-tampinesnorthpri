@@ -6,8 +6,9 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <p></p>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_03_at_9_27_13_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLs_2025.jpg">
 </div>
 <h3><strong>School Leaders</strong></h3>
 <table style="minWidth: 50px">
