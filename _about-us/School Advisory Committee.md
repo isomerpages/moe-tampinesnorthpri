@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>TNPS School Advisory Committee</strong></h3><pre><code>&lt;tr&gt;</code></pre>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,10 +69,26 @@ variant: tiptap
 <p>Mr Izhar</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Liew</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>Members</strong></h3>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="5">
