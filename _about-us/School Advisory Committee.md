@@ -4,7 +4,8 @@ permalink: /about-us/sac/
 description: ""
 variant: tiptap
 ---
-<h3><strong>TNPS School Advisory Committee</strong></h3><pre><code>&lt;tr&gt;</code></pre>
+<h3><strong>TNPS School Advisory Committee</strong></h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
