@@ -49,7 +49,7 @@ ones.</p>
 <p></p>
 </li>
 </ol>
-<p><em>You may click </em><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a><em> for more information on MOE Sexuality Education. </em>
+<p><em>You may click </em><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a><em> for more information on MOE Sexuality Education.</em>
 </p>
 <p></p>
 <h3><strong>Overview of Tampines North Primary School’s Sexuality Education Programme for 2025</strong></h3>
@@ -185,3 +185,94 @@ and how to seek help for themselves and their friends.</p>
 </p>
 <p><strong>Primary 6</strong>
 </p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCE(FTGP) THEME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LESSON TITLE / DURATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIME PERIOD</strong>
+</p>
+<p><strong>(e.g. Term 1 Week 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>Lesson 1</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn to distinguish between the characteristics
+of love and infatuation, and identify the strong emotions that may arise
+from experiencing the feelings of infatuation. They will recognise that
+experiencing feelings of infatuation is part of growing up and becoming
+infatuated with someone does not mean that they should be involved in a
+romantic relationship. Instead, they should focus on building strong and
+healthy friendships with their circles of friends.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?</p>
+<p>Lesson 2</p>
+<p>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn healthy ways to manage the emotions
+arising from infatuation and recognise the importance of respecting the
+boundaries of any relationship. They will also recognise the negative impact
+of teasing their peers who may be experiencing the feelings of infatuation
+and learn to behave maturely towards each other.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Information for Parents</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. The opt-out form will be provided
+to all P5 and P6 parents via PG in Term 1.</p>
+</li>
+<li>
+<p>Parents can contact the school at 67854329 or <a rel="noopener noreferrer nofollow" target="_blank">tnps@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
