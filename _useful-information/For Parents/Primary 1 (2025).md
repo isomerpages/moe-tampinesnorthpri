@@ -10,9 +10,10 @@ third_nav_title: For Parents
 <p>Please refer to the Scheme of Work (SOW) outlining the learning to be
 covered for the year for the various subjects by clicking on the links
 below.</p>
-<p><a href="P1_EL_2025_SOW_Outline.pdf" rel="noopener nofollow" target="_blank">2025 P1 English Language SOW Outline</a>
+<p><a href="/files/2025 P1 SOW/P1_EL_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P1 English Language SOW Outline</a>
 </p>
-<p>2025 P1 Mathematics SOW Outline</p>
+<p><a href="/files/2025 P1 SOW/P1_Math_SOW_Outline_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Mathematics SOW Outline</a>
+</p>
 <p>2025 P1 Chinese Language SOW Outline</p>
 <p>2025 P1 Malay Language SOW Outline</p>
 <p>2025 P1 Tamil Language SOW Outline</p>
