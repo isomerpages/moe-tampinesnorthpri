@@ -5,13 +5,19 @@ description: ""
 variant: tiptap
 third_nav_title: For Parents
 ---
-<h4><strong>Scheme of Work Outline</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/resources/scheme-of-work-outline-2024/primary-1/" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Scheme of Work (SOW) Outline 2024</a>
-</p>
-</li>
-</ul>
+<h2>2025 Primary 1 Scheme Of Work (SOW)</h2>
+<p>Dear Parents,</p>
+<p>Please refer to the Scheme of Work (SOW) outlining the learning to be
+covered for the year for the various subjects by clicking on the links
+below.</p>
+<p>2025 P1 English Language SOW Outline</p>
+<p>2025 P1 Mathematics SOW Outline</p>
+<p>2025 P1 Chinese Language SOW Outline</p>
+<p>2025 P1 Malay Language SOW Outline</p>
+<p>2025 P1 Tamil Language SOW Outline</p>
+<p>2025 P1 PE SOW Outline</p>
+<p>2025 P1 Art SOW Outline</p>
+<p>2025 P1 Music SOW Outline</p>
 <hr>
 <h4><strong>Parents Engagement Session</strong></h4>
 <p><a href="/files/Parents engagment session P1P2/SL_Briefing_Pri_1_Orientation.pdf" rel="noopener noreferrer nofollow" target="_blank">SL Briefing P1 Orientation</a>
