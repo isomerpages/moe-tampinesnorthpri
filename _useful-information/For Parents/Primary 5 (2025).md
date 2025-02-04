@@ -18,17 +18,17 @@ below.</p>
 </p>
 <p><a href="/files/2025 P5 SOW/P5_Standard_SCI_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Science SOW Outline</a>
 </p>
-<p><a href="/files/2025 P5 SOW/P5_CL_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Chinese Language SOW Outline</a>
+<p><a href="/files/2025 P5 SOW/P5_CL_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Standard Chinese Language SOW Outline</a>
 </p>
 <p><a href="/files/2025 P5 SOW/P5_Higher_CL_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Higher Chinese Language SOW Outline</a>
 </p>
 <p><a href="/files/2025 P5 SOW/P5_Foundation_CL_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Foundation Chinese Language SOW Outline</a>
 </p>
-<p><a href="/files/2025 P5 SOW/P5_ML_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Malay Language SOW Outline</a>
+<p><a href="/files/2025 P5 SOW/P5_ML_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Standard Malay Language SOW Outline</a>
 </p>
 <p><a href="/files/2025 P5 SOW/P5_Foundation_ML_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Foundation Malay Language SOW Outline</a>
 </p>
-<p><a href="/files/2025 P5 SOW/P5_TL_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Tamil Language SOW Outline</a>
+<p><a href="/files/2025 P5 SOW/P5_TL_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Standard Tamil Language SOW Outline</a>
 </p>
 <p><a href="/files/2025 P5 SOW/P5_Foundation_TL_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Foundation Tamil Language SOW Outline</a>
 </p>
