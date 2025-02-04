@@ -24,5 +24,5 @@ below.</p>
 </p>
 <p><a href="/files/2025 P2 SOW/P2_Art_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 Art SOW Outline</a>
 </p>
-<p><strong>2025 P1 Music SOW Outline</strong>
+<p><a href="/files/2025 P2 SOW/P2_Music_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 Music SOW Outline</a>
 </p>
