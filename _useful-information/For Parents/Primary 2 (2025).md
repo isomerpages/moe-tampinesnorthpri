@@ -5,16 +5,24 @@ description: ""
 variant: tiptap
 third_nav_title: For Parents
 ---
-<h4><strong>Scheme of Work Outline</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/resources/scheme-of-work-outline-2024/primary-2/" rel="noopener noreferrer nofollow" target="_blank">P2 Scheme of Work (SOW) Outline 2024</a>
+<h4><strong>2025 Primary 2 Scheme Of Work (SOW)</strong></h4>
+<p>Dear Parents,</p>
+<p>Please refer to the Scheme of Work (SOW) outlining the learning to be
+covered for the year for the various subjects by clicking on the links
+below.</p>
+<p><a href="/files/2025 P2 SOW/P2_EL_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 English Language SOW Outline</a>
 </p>
-</li>
-</ul>
-<hr>
-<h4><strong>Parents Engagement Session</strong></h4>
-<p><a href="/files/Parents engagment session P1P2/SL_Briefing_Pri_2_Parents_Engagement_Talk_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SL Briefing P2 Parents Engagement</a>
+<p><a href="/files/2025 P2 SOW/P2_MA_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 Mathematics SOW Outline</a>
 </p>
-<p><a href="/files/Parents engagment session P1P2/YH_ST_Primary_2_Parents_Engagement_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">YH P2 Parents Engagement</a>
+<p><a href="/files/2025 P2 SOW/P2_CL_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 Chinese Language SOW Outline</a>
+</p>
+<p><a href="/files/2025 P2 SOW/P2_ML_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 Malay Language SOW Outline</a>
+</p>
+<p><a href="/files/2025 P2 SOW/P2_TL_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 Tamil Language SOW Outline</a>
+</p>
+<p><a href="/files/2025 P2 SOW/P2_PE_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 PE SOW Outline</a>
+</p>
+<p><a href="/files/2025 P2 SOW/P2_Art_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 Art SOW Outline</a>
+</p>
+<p><strong>2025 P1 Music SOW Outline</strong>
 </p>
