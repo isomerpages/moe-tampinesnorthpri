@@ -28,7 +28,8 @@ below.</p>
 </p>
 <hr>
 <h4><strong>Parents Engagement Session</strong></h4>
-<p>School Leader's Briefing</p>
-<p>Year Head's Briefing</p>
-<p>Senior Teacher's Briefing</p>
+<p><a href="/files/Parents Engagement Sessions/SL_Briefing_Pri_1_Orientation_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">School Leader's Briefing</a>
+</p>
+<p><a href="/files/Parents Engagement Sessions/YH_Primary_1_Orientation_Parent_Engagement_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Briefing</a>
+</p>
 <p></p>
