@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Canteen Menu.md
       - Principal's Message.md
       - Vision Mission Values.md
       - School Profile/.keep
@@ -28,4 +27,5 @@ collections:
       - School Publication.md
       - Media Usage and Consent Policy.md
       - MOE Sexuality Education in Schools.md
+      - Canteen Menu.md
       - Contact Us.md
