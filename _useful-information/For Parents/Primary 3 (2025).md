@@ -30,5 +30,5 @@ below.</p>
 </p>
 <p></p>
 <h4><strong>Parents Engagement Session</strong></h4>
-<p><a href="/files/Parents Engagement Sessions/2025_P5_Meet_the_Parent__SL_Segment_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Leader's and Year Head's Briefing</a>
+<p><a href="/files/Parents Engagement Sessions/PG_Primary_3_Parents_Engagement_2025_7_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">School Leader's and Year Head's Briefing</a>
 </p>
