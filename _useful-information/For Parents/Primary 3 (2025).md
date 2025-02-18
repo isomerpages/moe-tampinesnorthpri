@@ -28,3 +28,7 @@ below.</p>
 </p>
 <p><a href="/files/2025 P3 SOW/P3_Music_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P3 Music SOW Outline</a>
 </p>
+<p></p>
+<h4><strong>Parents Engagement Session</strong></h4>
+<p><a href="/files/Parents Engagement Sessions/2025_P5_Meet_the_Parent__SL_Segment_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Leader's and Year Head's Briefing</a>
+</p>
