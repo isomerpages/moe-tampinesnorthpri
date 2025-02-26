@@ -235,7 +235,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Gwee Kiat</p>
+<p>Ms Tan Ghee Kiat</p>
 </td>
 </tr>
 <tr>
