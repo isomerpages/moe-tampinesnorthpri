@@ -26,3 +26,9 @@ below.</p>
 </p>
 <p><a href="/files/2025 P2 SOW/P2_Music_2025_SOW_Outline.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 Music SOW Outline</a>
 </p>
+<p></p>
+<h4><strong>Parents Engagement Session</strong></h4>
+<p><a href="/files/Parents Engagement Sessions/P2_SL_YH_ST_Parent_Engagement_Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Hall Parent Engagement Part 1</a>
+</p>
+<p><a href="/files/Parents Engagement Sessions/P2_SL_YH_ST_Parent_Engagement_Part_2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Hall Parent Engagement Part 2</a>
+</p>
