@@ -27,9 +27,13 @@ below.</p>
 <p><a href="/files/2025 P1 SOW/P1_Music_SOW_Outline_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Music SOW Outline</a>
 </p>
 <hr>
-<h4><strong>Parents Engagement Session</strong></h4>
+<h4><strong>P1 Orientation</strong></h4>
 <p><a href="/files/Parents Engagement Sessions/SL_Briefing_Pri_1_Orientation_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">School Leader's Briefing</a>
 </p>
 <p><a href="/files/Parents Engagement Sessions/YH_Primary_1_Orientation_Parent_Engagement_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Briefing</a>
+</p>
+<p></p>
+<h4><strong>Parents Engagement Session</strong></h4>
+<p><a href="/files/Parents Engagement Sessions/P1_Hall_Parent_Engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Hall Parent Engagement</a>
 </p>
 <p></p>
