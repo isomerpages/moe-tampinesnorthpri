@@ -20,7 +20,7 @@ sections:
       image: /images/Image_26.jpg
       alt: Image alt text
   - textcards:
-      title: Term 2 2025 Timetable
+      title: Term 2 2025 Timetable (Lower Primary)
       id: textcards
       cards:
         - title: P1 Timetable
@@ -31,18 +31,10 @@ sections:
           description: ""
           linktext: Learn more
           url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-2-2025/
-        - title: P3 Timetable
-          description: ""
-          linktext: Learn more
-          url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-3-2025/
   - textcards:
-      title: Term 2 2025 Timetable
+      title: Term 2 2025 Timetable (Upper Primary)
       id: textcards
       cards:
-        - title: P4 Timetable
-          description: ""
-          linktext: Learn more
-          url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-4-2025/
         - title: P5 Timetable
           description: ""
           linktext: Learn more
@@ -51,4 +43,16 @@ sections:
           description: ""
           linktext: Learn more
           url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-6-2025/
+  - textcards:
+      title: Term 2 2025 Timetable (Middle Primary)
+      id: textcards
+      cards:
+        - title: P3 Timetable
+          description: ""
+          linktext: Learn more
+          url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-3-2025/
+        - title: P4 Timetable
+          description: ""
+          linktext: Learn more
+          url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-4-2025/
 ---
