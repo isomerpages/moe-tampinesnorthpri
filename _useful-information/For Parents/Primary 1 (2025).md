@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 third_nav_title: For Parents
 ---
+<h4><strong>Term 2 2025 Timetable </strong></h4>
+<p>Click <strong>'&gt;'</strong> to view the timetable for the next class.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSd8dpyytQgh3TeRvIvXxoIZ7SWblcQE8XX-At4cE0x8urQ9M4sltx5i_i51M0v1byBY-0CXEJIxovV/embed?start=false&amp;loop=false&amp;delayms=60000"></iframe>
+</div>
 <h4><strong>2025 Primary 1 Scheme Of Work (SOW)</strong></h4>
 <p>Dear Parents,</p>
 <p>Please refer to the Scheme of Work (SOW) outlining the learning to be
