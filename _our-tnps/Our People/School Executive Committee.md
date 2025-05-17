@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<p></p>
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLs_2025.jpg">
 </div>
@@ -51,19 +49,24 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Head of Departments</strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>English</strong>
+<p><strong>English Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noor Ashikin Bte Sulaiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noor_ashikin_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_ashikin_sulaiman@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,6 +77,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ng Pei Fen, Geraldine</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_pei_fen_geraldine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_fen_geraldine@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,6 +89,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Cheng Hwee Koon, Kate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheng_hwee_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_hwee_koon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -92,6 +103,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Hoy Kin Chung Edwin</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:edwin_hoy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">edwin_hoy@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -101,6 +116,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ler Bee Pheng, Kezia</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ler_bee_pheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ler_bee_pheng@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -108,7 +127,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kok Jing Er (Mrs Peh)</p>
+<p>Mrs Peh Jing Er</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:peh_jing_er@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peh_jing_er@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
