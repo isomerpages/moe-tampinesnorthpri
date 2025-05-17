@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  our-tnps:
     output: true
     order:
       - Principal's Message.md
