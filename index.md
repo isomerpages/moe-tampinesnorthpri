@@ -13,6 +13,19 @@ sections:
           description: Confident Learners, Critical Thinkers, Rooted in Values
           url: ""
   - textcards:
+      title: TNPS is on social media!
+      id: textcards
+      description: Follow us for the latest updates!
+      cards:
+        - title: Facebook
+          description: ""
+          linktext: go.gov.sg/tnpsfb
+          url: go.gov.sg/tnpsfb
+        - title: Instagram
+          description: ""
+          linktext: go.gov.sg/tnpsig
+          url: go.gov.sg/tnpsig
+  - textcards:
       title: Term 2 2025 Timetable (Lower Primary)
       id: textcards
       cards:
@@ -55,17 +68,4 @@ sections:
       url: https://www.youtube.com/watch?v=Fua5bCj34b0
       image: /images/Image_26.jpg
       alt: Image alt text
-  - textcards:
-      title: TNPS is on social media!
-      id: textcards
-      description: Follow us for the latest updates!
-      cards:
-        - title: Facebook
-          description: ""
-          linktext: go.gov.sg/tnpsfb
-          url: go.gov.sg/tnpsfb
-        - title: Instagram
-          description: ""
-          linktext: go.gov.sg/tnpsig
-          url: go.gov.sg/tnpsig
 ---
