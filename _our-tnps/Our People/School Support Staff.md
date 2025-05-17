@@ -40,15 +40,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Corporate Support Officers</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Adeline</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Lee Yong</p>
 </td>
@@ -132,7 +127,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maisarah Nabilah Binte Sa'azali</p>
+<p>Ms Maisarah Nabilah Binte Sa'azali</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +136,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Salina Aw Binte Fairuz</p>
+<p>Ms Salina Aw Binte Fairuz</p>
 </td>
 </tr>
 <tr>
