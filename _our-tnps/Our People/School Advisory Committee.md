@@ -18,7 +18,8 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
+<p><strong>Chairman</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Terence Leong</p>
@@ -26,7 +27,8 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p><strong>Member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cheah Choi Thim</p>
@@ -34,7 +36,8 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p><strong>Member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pauline Tan</p>
@@ -42,7 +45,8 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p><strong>Member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chris Yap</p>
@@ -50,7 +54,8 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p><strong>Member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Siti Masrura</p>
@@ -58,7 +63,8 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p><strong>Member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Izhar</p>
@@ -66,7 +72,8 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p><strong>Member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Grace Liew Hui Ru</p>
