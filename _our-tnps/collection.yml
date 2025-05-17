@@ -2,21 +2,21 @@ collections:
   our-tnps:
     output: true
     order:
-      - Our Partners/Parents Support Group.md
-      - Our Partners/.keep
       - Our Principal's Message.md
       - Our Vision Mission Values.md
       - Our School Profile/.keep
       - Our School Profile/School Profile.md
       - Our School Profile/School Song.md
       - Our School Profile/TNPS 30th Anniversary.md
-      - Our People/School Advisory Committee.md
       - Our People/.keep
+      - Our People/School Advisory Committee.md
       - Our People/School Executive Committee.md
       - Our People/P1 & P2 Teachers.md
       - Our People/P3 & P4 Teachers.md
       - Our People/P5 & P6 Teachers.md
       - Our People/School Support Staff.md
+      - Our Partners/.keep
+      - Our Partners/Parents Support Group.md
       - School Rules.md
       - School Operating Information/.keep
       - School Operating Information/School Operating Information.md
