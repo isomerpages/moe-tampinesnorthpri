@@ -97,11 +97,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Physical Health &amp; Fitness/CCA &amp; Aesthetics</strong>
+<p><strong>Physical Health &amp; Fitness / CCA &amp; Aesthetics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hoy Kin Chung Edwin</p>
+<p>Mr Edwin Hoy Kin Chung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:edwin_hoy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">edwin_hoy@schools.gov.sg</a>
@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Character &amp; Citizenship Education (CCE)/ Student Well-being</strong>
+<p><strong>Character &amp; Citizenship Education (CCE) / Student Well-being</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,8 +137,9 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Subject Heads / Level Heads</strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -151,14 +152,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Seah Ching Ying</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_ching_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_ching_ying@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AYH/Subject Head(covering (Science)</strong>
+<p><strong>AYH / Covering Subject Head (Science)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ashley Ng</p>
+<p>Ms Ashley Ng Li Qin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ashley_ng_li_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ashley_ng_li_qin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -169,6 +178,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Goh Zhixiang, Steven</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_zhixiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhixiang@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -176,55 +189,101 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Candy Lim Yun Yun</p>
+<p>Mdm Lim Yun Yun, Candy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_yun_yun_candy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yun_yun_candy@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <h3><strong>Year Heads / Assistant Year-Heads</strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (P1&amp;P2)</strong>
+<p><strong>Year Head (P1 &amp; P2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marlene Tan Liwei (Mrs Kiw)</p>
-<p>Mdm Fadzlina AYH (covering)</p>
+<p>Mrs Marlene Kiw Liwei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:marlene_tan_liwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marlene_tan_liwei@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (P3&amp;P4)</strong>
+<p><strong>Covering Assistant Year Head (P1 &amp; P2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kau Xueling Zoie (Mrs Yeo)</p>
-<p>Ms Janice Ng AYH(Covering)</p>
+<p>Mdm Nur Fadzlina Ab Majid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_fadzlina_ab_majid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fadzlina_ab_majid@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (P5&amp;6)</strong>
+<p><strong>Year Head (P3 &amp; P4)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Yeo Xueling, Zoie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kau_xueling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kau_xueling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Covering Assistant Year Head (P3 &amp; P4)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Janice Ng Hai Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_hai_yan_janice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hai_yan_janice@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head (P5 &amp; P6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zulhisham B Ahmad</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zulhisham_b_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulhisham_b_ahmad@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (P5&amp;6)</strong>
+<p><strong>Assistant Year Head (P5 &amp; P6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yee Yuanlong Edward</p>
+<p>Mr Yee Yuanlong, Edward</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yee_yuanlong_edward@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yee_yuanlong_edward@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
