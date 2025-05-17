@@ -2,7 +2,7 @@ collections:
   our-tnps:
     output: true
     order:
-      - Principal's Message.md
+      - Our Principal's Message.md
       - Vision Mission Values.md
       - School Profile/.keep
       - School Profile/School Profile.md
