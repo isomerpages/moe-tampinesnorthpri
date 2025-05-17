@@ -239,156 +239,203 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>P2 Form Teachers</strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class <br></strong>
+<td rowspan="2" colspan="1">
+<p><strong>P2.1 <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teachers <br></strong>
+<p>Mdm Sim Yee Guat, Venus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_yee_guat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yee_guat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fatin Nadiah Natasha Bte Kamsan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fatin_nnk@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatin_nnk@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P2.1
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sim Yee Guat(Venus)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Fatin Nadiah Natasha Bte Kamsan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>P2.2
-<br>
+<p><strong>P2.2 <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rafidah Binte Ridzuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rafidah_ridzuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafidah_ridzuan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Vivien Chua Boh Tee</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vivien_chua_boh_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vivien_chua_boh_tee@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lavaneswari D/O Amaranthan</p>
+<p>Ms Lavaneswari D/O Amaranthan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lavaneswari_amaranthan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lavaneswari_amaranthan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P2.3
+<p><strong>P2.3 </strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liang Lee Mei</p>
+<p>Ms Liang Lee Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liang_lee_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_lee_mei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Amalina Binte Mazzly</p>
+<p>Ms Nur Amalina Binte Mazzly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_amalina_mazzly@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amalina_mazzly@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P2.4
-<br>
+<p><strong>P2.4 <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Zubeidah Binte Kadir</p>
+<p>Ms Siti Zubeidah Binte Kadir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_zubeidah_kadir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zubeidah_kadir@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fatin Bte Md Khairuddin</p>
+<p>Ms Fatin Bte Md Khairuddin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fatin_md_khairuddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatin_md_khairuddin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P2.5
+<p><strong>P2.5 </strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Feiruz B Syed Mahmood</p>
+<p>Ms Sharifah Feiruz B Syed Mahmood</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sharifah_feiruz_alsagoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_feiruz_alsagoff@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Kasthuri Chandra Mohan</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kasthuri_chandra_mohan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kasthuri_chandra_mohan@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P2.6
+<p><strong>P2.6 </strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Razlinda Bte Razali</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:razlinda_razali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">razlinda_razali@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Edwin Hoy Kin Chung</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:edwin_hoy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">edwin_hoy@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P2.7
-<br>
+<p><strong>P2.7 <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Fadzlina Binti Ab Majid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_fadzlina_ab_majid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fadzlina_ab_majid@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Zhao An An</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhao_anan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_anan@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P2.8
+<p><strong>P2.8 </strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shahneeza Bte Lulkan</p>
+<p>Ms Shahneeza Bte Lulkan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shahneeza_lulkan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahneeza_lulkan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Hafidah Binte Sulaiman</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shahneeza_lulkan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahneeza_lulkan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
