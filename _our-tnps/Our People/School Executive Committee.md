@@ -290,28 +290,37 @@ variant: tiptap
 </table>
 <p></p>
 <h3><strong>Senior Teachers</strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lead Teacher (Mathematics)</strong>
+<p><strong>Lead Teacher (Mathematics) / Covering SSD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Xin Hui, Phyllis/ SSD Covering</p>
+<p>Ms Toh Xin Hui, Phyllis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_xin_hui_phyllis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_xin_hui_phyllis@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lead Teacher (Art)</strong>
+<p><strong>Lead Teacher (Art) / Covering SSD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Su Yunn Angelina (Mrs Chia)/ SSD Covering</p>
+<p>Mrs Chia Su Yunn, Angelina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_su_yunn_angelina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_su_yunn_angelina@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -322,6 +331,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tan Mei Yen</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_mei_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_yen@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -330,6 +343,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rafidah Binte Ridzuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rafidah_ridzuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafidah_ridzuan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
