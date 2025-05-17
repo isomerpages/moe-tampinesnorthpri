@@ -151,115 +151,146 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>P6 Form Teachers</strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class<br></strong>
+<td rowspan="2" colspan="1">
+<p><strong>P6.1 <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teachers</strong> 
-<br>
+<p>Mr Aw Kuan Yuan, Alan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aw_kuan_yuan_alan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aw_kuan_yuan_alan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fong Jie Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fong_jie_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_jie_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P6.1
-<br>
+<p><strong>P6.2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alan Aw Kuan Yuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Fong Jie Min</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>P6.2</p>
+<p>Ms Chua Jing Tong, Catherine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Catherine Chua Jing Tong</p>
+<p><a href="mailto:chua_jing_tong_catherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jing_tong_catherine@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Irma Darny Bte Swadi</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:irma_darny_swadi_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irma_darny_swadi_a@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P6.3
+<p><strong>P6.3 </strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norazliza Binte Abdul Aziz</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norazliza_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norazliza_abdul_aziz@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Liew Yuan Ting</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liew_yuan_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yuan_ting@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P6.4
+<p><strong>P6.4 </strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zuryanah Bte Mohamed Dris</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zuryanah_mohamed_dris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zuryanah_mohamed_dris@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edward Yee Yuanlong</p>
+<p>Mr Yee Yuanlong, Edward</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yee_yuanlong_edward@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yee_yuanlong_edward@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P6.5
+<p><strong>P6.5 </strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lian Xin Tian</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lian_xin_tian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lian_xin_tian@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Phyllis Toh Xin Hui</p>
+<p>Ms Toh Xin Hui, Phyllis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_xin_hui_phyllis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_xin_hui_phyllis@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>P6.6</p>
+<p><strong>P6.6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Peck Yoke Lisa Kobayashi (Mrs Lee)</p>
+<p>Mrs Lee Chan Peck Yoke Lisa Kobayashi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_peck_yoke_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_peck_yoke_lisa@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Pei Fen,Geraldine</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_pei_fen_geraldine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_fen_geraldine@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
