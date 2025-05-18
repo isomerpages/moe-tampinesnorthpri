@@ -9,21 +9,11 @@ sections:
   - hero:
       background: /images/HES_9809.jpg
       key_highlights:
-        - title: Tampines North Primary School
-          description: Confident Learners, Critical Thinkers, Rooted in Values
-          url: ""
-  - textcards:
-      title: TNPS is on social media!
-      id: textcards
-      description: Follow us for the latest updates!
-      cards:
-        - title: Facebook
-          description: ""
-          linktext: go.gov.sg/tnpsfb
+        - title: TNPS @ Facebook
+          description: Follow for the latest updates!
           url: go.gov.sg/tnpsfb
-        - title: Instagram
-          description: ""
-          linktext: go.gov.sg/tnpsig
+        - title: TNPS @ Instagram
+          description: Follow for the latest updates!
           url: go.gov.sg/tnpsig
   - textcards:
       title: Term 2 2025 Timetable (Lower Primary)
@@ -61,11 +51,4 @@ sections:
           description: ""
           linktext: Learn more
           url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-6-2025/
-  - infopic:
-      title: TNPS 30th Anniversary
-      id: infopic
-      button: TNPS Kaleidoscope Musical
-      url: https://www.youtube.com/watch?v=Fua5bCj34b0
-      image: /images/Image_26.jpg
-      alt: Image alt text
 ---
