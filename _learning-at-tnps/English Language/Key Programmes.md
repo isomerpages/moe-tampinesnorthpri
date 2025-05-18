@@ -5,23 +5,25 @@ description: ""
 third_nav_title: English Language
 variant: tiptap
 ---
-<h3><strong>Department Programmes</strong></h3>
-<p><strong>The Financial Literacy Programme (FLP)</strong>&nbsp;is an in-house
-programme that is conducted for all levels. Through financial literacy
-education, the Mathematics department hopes to equip students with basic
-financial knowledge and develop in them good financial habits from an early
-age.</p>
-<p>The&nbsp;<strong>Math Explorer Programme</strong>&nbsp;is an enrichment
-programme designed for P3 and P4 students who display a strong interest
-in Mathematics. The programme provides students with opportunities to work
-independently or in teams to engage in mathematical thinking through solving
-challenging mathematical tasks.</p>
-<p>For P5 and P6 students, the&nbsp;<strong>Mathematical Olympiad Programme</strong>&nbsp;exposes
-students to higher order thinking skills through mathematical problem solving
-that is usually beyond the primary school syllabus. At the end of the programme,
-students participate in Mathematics competitions to benchmark their mathematical
-ability against their peers at the cluster or national levels.</p>
-<div class="iframe-wrapper">
-<iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmoyqFCcFtKyxrV13EKNah9251NVeUEwG3nkOxiFmyVWtULENLADIzTklnf1xoaG-VC58MQQAtp_Jh/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<h3><strong>Appreciating Literature through Talk (ALT)</strong></h3>
+<p>At TNPS, we believe that language in the written form opens up new worlds
+and ideas for the students. As such, they are exposed to quality literature
+of various genres and given opportunities to respond to the texts using
+the inquiry through dialogue approach.</p>
+<p>Interaction with the texts through dialogue will allow students to:</p>
+<p>(i)&nbsp; &nbsp;Enhance meaning-making
+<br>(ii)&nbsp; Hone critical thinking skills
+<br>(iii) Respond in creative and meaningful ways</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALTTNPS1.png">
 </div>
+<p></p>
+<h4><strong>English Week</strong></h4>
+<p>Held annually, the English Week aims to provide students with opportunities
+to showcase their writing and speaking skills creatively. Taking on different
+themes each year, a host of activities are held in that week to tickle
+the students’ literary bones. Students are also given opportunities and
+platforms to create and perform in that week.</p>
 <p></p>
