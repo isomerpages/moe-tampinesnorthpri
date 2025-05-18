@@ -2,6 +2,7 @@ collections:
   learning-at-tnps:
     output: true
     order:
+      - Programme for Active Learning (PAL).md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Key Programmes.md
