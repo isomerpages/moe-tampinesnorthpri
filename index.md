@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: TNPS @ Facebook
           description: Follow for the latest updates!
-          url: go.gov.sg/tnpsfb
+          url: https://www.facebook.com/profile.php?id=61571459504815&mibextid=wwXIfr&rdid=5hZznIZhGFpT0yWG&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19tWURGk2g%2F%3Fmibextid%3DwwXIfr#
         - title: TNPS @ Instagram
           description: Follow for the latest updates!
-          url: go.gov.sg/tnpsig
+          url: https://www.instagram.com/tnps_highlights/
   - textcards:
       title: Term 2 2025 Timetable (Lower Primary)
       id: textcards
