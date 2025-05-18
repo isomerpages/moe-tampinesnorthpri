@@ -10,7 +10,7 @@ variant: tiptap
 <p>To Instill a Lively Curiosity and Graciousness in Every Pupil</p>
 <h3><strong>School Values</strong></h3>
 <p><strong>I</strong>ntegrity
-    <br><strong>C</strong>are
-    <br><strong>R</strong>espect
-    <br><strong>R</strong>esilience
-    <br><strong>R</strong>esponsibility</p>
+<br><strong>C</strong>are
+<br><strong>R</strong>espect
+<br><strong>R</strong>esilience
+<br><strong>R</strong>esponsibility</p>
