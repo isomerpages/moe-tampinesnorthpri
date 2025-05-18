@@ -2,7 +2,6 @@ collections:
   learning-at-tnps:
     output: true
     order:
-      - Programme for Active Learning (PAL).md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Key Programmes.md
@@ -26,6 +25,7 @@ collections:
       - PE, Art and Music/Art.md
       - PE, Art and Music/Music.md
       - PE, Art and Music/PAL.md
+      - Programme for Active Learning (PAL).md
       - ICT/.keep
       - ICT/Information and Communications Technology (ICT).md
       - ICT/Cyberwellness.md
