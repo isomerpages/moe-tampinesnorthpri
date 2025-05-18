@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Our School Profile
 variant: tiptap
 ---
-<h3><strong>SCHOOL HISTORY</strong></h3>
+<h3><strong>School History</strong></h3>
 <p>Tampines North Primary School started in 1994 with 18 teachers and 322
 students. Classes were held in Qiaonan Primary before moving to the present
 premises in 1995.</p>
-<h4><strong>OUR BADGE</strong></h4>
+<h4><strong>Our Badge</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/Our%20Badge.png">
 </div>
@@ -20,7 +20,7 @@ the bold colours of dark and light blue.</p>
 North Primary School and also represents the True and Noble quality of
 the pupil standing on the solid foundation of a good education from Tampines
 North Primary School.</p>
-<h4><strong>OUR FLAG</strong></h4>
+<h4><strong>Our Flag</strong></h4>
 <p>The school flag is divided into two parts: the upper part is yellow and
 the lower part is light blue.</p>
 <p>The school crest is in the centre of the flag. The two parts, the yellow
