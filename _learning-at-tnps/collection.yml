@@ -1,5 +1,5 @@
 collections:
-  departments:
+  learning-at-tnps:
     output: true
     order:
       - English Language/.keep
