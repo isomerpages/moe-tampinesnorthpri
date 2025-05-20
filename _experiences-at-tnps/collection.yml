@@ -2,6 +2,7 @@ collections:
   experiences-at-tnps:
     output: true
     order:
+      - CCA   Uniformed Groups/Brownies.md
       - CCA   Uniformed Groups/.keep
       - CCA   Sports/Football.md
       - CCA   Sports/Floorball.md
