@@ -2,6 +2,7 @@ collections:
   experiences-at-tnps:
     output: true
     order:
+      - Angklung Kulintang Ensemble.md
       - Scouts.md
       - Brownies.md
       - Wushu.md
