@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Students/.keep
-      - For Students/SSOE Computer Login and SWN Wifi.md
       - For Students/Student iCON (also MIMS Account).md
       - For Students/SLS.md
       - For Students/My Skills Future.md
