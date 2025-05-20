@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Performing Arts/.keep
-      - Performing Arts/Angklung Kulintang Ensemble.md
       - Performing Arts/Indian Dance.md
       - Performing Arts/International Dance.md
       - Performing Arts/Malay Dance.md
