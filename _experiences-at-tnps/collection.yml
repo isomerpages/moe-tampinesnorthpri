@@ -2,6 +2,7 @@ collections:
   experiences-at-tnps:
     output: true
     order:
+      - CCA   Clubs & Societies/Infocomm Club.md
       - CCA   Clubs & Societies/Art Club.md
       - CCA   Clubs & Societies/.keep
       - CCA   Performing Arts/Show Choir.md
