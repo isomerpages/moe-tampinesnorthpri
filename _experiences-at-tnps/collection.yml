@@ -1,5 +1,5 @@
 collections:
-  special-programmes:
+  experiences-at-tnps:
     output: true
     order:
       - Student Leadership.md
