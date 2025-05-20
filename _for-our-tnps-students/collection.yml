@@ -2,6 +2,7 @@ collections:
   for-our-tnps-students:
     output: true
     order:
+      - SLS.md
       - Student iCON (also MIMS Account).md
       - SSOE Computer Login and SWN Wifi.md
       - Online Accounts for Students.md
