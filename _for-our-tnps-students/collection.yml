@@ -2,4 +2,5 @@ collections:
   for-our-tnps-students:
     output: true
     order:
+      - SSOE Computer Login and SWN Wifi.md
       - Online Accounts for Students.md
