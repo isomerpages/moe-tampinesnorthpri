@@ -2,6 +2,7 @@ collections:
   experiences-at-tnps:
     output: true
     order:
+      - CCA   Performing Arts/.keep
       - CCA   Uniformed Groups/Scouts.md
       - CCA   Uniformed Groups/Brownies.md
       - CCA   Uniformed Groups/.keep
