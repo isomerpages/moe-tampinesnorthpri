@@ -1,5 +1,5 @@
 collections:
-  for-our-tnps-students:
+  for-our-students:
     output: true
     order:
       - Home Based Learning.md
