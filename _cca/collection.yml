@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/.keep
       - Performing Arts/.keep
       - Performing Arts/Angklung Kulintang Ensemble.md
       - Performing Arts/Indian Dance.md
