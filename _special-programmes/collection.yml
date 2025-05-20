@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Student Leadership.md
       - LLP (Environmental Education)/.keep
       - LLP (Environmental Education)/Environmental Education.md
       - LLP (Environmental Education)/About TNPS G4Life.md
