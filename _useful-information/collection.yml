@@ -2,7 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - For Students/.keep
       - For Parents/.keep
       - For Staff/For Staff.md
       - For Staff/.keep
