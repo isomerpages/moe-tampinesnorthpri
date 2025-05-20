@@ -1,5 +1,5 @@
 collections:
-  for-our-tnps-parents:
+  for-our-parents:
     output: true
     order:
       - Primary 1 (2025).md
