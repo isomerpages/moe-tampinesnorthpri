@@ -2,6 +2,7 @@ collections:
   experiences-at-tnps:
     output: true
     order:
+      - Infocomm Club.md
       - Art Club.md
       - Show Choir.md
       - Malay Dance.md
