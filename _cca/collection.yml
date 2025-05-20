@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Clubs & Societies/.keep
-      - Clubs & Societies/Art Club.md
       - Clubs & Societies/Infocomm Club.md
