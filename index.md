@@ -7,24 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepagedemo.gif
+      background: /images/School_Website.gif
       key_highlights:
-        - title: Tampines North Primary School
-          description: Confident Learners, Critical Thinkers, Rooted in Values
-          url: ""
-  - announcements:
-      title: Announcement
-      id: announcements
-      announcement_items:
-        - title: HBL for P1 to P6 students
-          date: 02 May 2025
-          announcement: Our school premises will be used as a poling centre on Polling
-            Day.  We will be conducting Home-based Learning (HBL) on 2 May 2025
-            (Friday) for all Primary 1 to 6 students.  Teachers would have
-            provided details of the HBL lessons.  Lesson instructions can also
-            be found on SLS.
-          link_text: ""
-          link_url: ""
+        - title: TNPS @ Facebook
+          description: Follow for the latest updates!
+          url: https://www.facebook.com/profile.php?id=61571459504815&mibextid=wwXIfr&rdid=5hZznIZhGFpT0yWG&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19tWURGk2g%2F%3Fmibextid%3DwwXIfr#
+        - title: TNPS @ Instagram
+          description: Follow for the latest updates!
+          url: https://www.instagram.com/tnps_highlights/
   - textcards:
       title: Term 2 2025 Timetable (Lower Primary)
       id: textcards
@@ -61,11 +51,4 @@ sections:
           description: ""
           linktext: Learn more
           url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-6-2025/
-  - infopic:
-      title: TNPS 30th Anniversary
-      id: infopic
-      button: TNPS Kaleidoscope Musical
-      url: https://www.youtube.com/watch?v=Fua5bCj34b0
-      image: /images/Image_26.jpg
-      alt: Image alt text
 ---

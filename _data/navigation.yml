@@ -1,14 +1,14 @@
 logo: /images/TNPS_logo.png
 links:
-  - title: About Us
-    collection: about-us
-  - title: Departments
-    collection: departments
-  - title: CCA
-    collection: cca
-  - title: Special Programmes
-    collection: special-programmes
-  - title: Achievements
-    collection: achievements
-  - title: Useful Information
-    collection: useful-information
+  - title: Our TNPS
+    collection: our-tnps
+  - title: Learning @ TNPS
+    collection: learning-at-tnps
+  - title: Experiences @ TNPS
+    collection: experiences-at-tnps
+  - title: Achievements @ TNPS
+    collection: achievements-at-tnps
+  - title: For Our Parents
+    collection: for-our-parents
+  - title: For Our Students
+    collection: for-our-students

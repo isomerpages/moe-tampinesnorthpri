@@ -1,0 +1,6 @@
+collections:
+  achievements-at-tnps:
+    output: true
+    order:
+      - Student Achievements.md
+      - Staff Awards.md

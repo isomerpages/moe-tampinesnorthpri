@@ -1,0 +1,28 @@
+collections:
+  experiences-at-tnps:
+    output: true
+    order:
+      - CCA.md
+      - CCA   Clubs & Societies/.keep
+      - CCA   Clubs & Societies/Infocomm Club.md
+      - CCA   Clubs & Societies/Art Club.md
+      - CCA   Performing Arts/.keep
+      - CCA   Performing Arts/Show Choir.md
+      - CCA   Performing Arts/Malay Dance.md
+      - CCA   Performing Arts/International Dance.md
+      - CCA   Performing Arts/Indian Dance.md
+      - CCA   Performing Arts/Angklung Kulintang Ensemble.md
+      - CCA   Uniformed Groups/.keep
+      - CCA   Uniformed Groups/Scouts.md
+      - CCA   Uniformed Groups/Brownies.md
+      - CCA   Sports/.keep
+      - CCA   Sports/Wushu.md
+      - CCA   Sports/Football.md
+      - CCA   Sports/Floorball.md
+      - CCA   Sports/Basketball.md
+      - CCA   Sports/Badminton.md
+      - Student Leadership.md
+      - LLP (Environmental Education)/.keep
+      - LLP (Environmental Education)/Environmental Education.md
+      - LLP (Environmental Education)/About TNPS G4Life.md
+      - ALP (Languages)/.keep

@@ -1,0 +1,40 @@
+collections:
+  learning-at-tnps:
+    output: true
+    order:
+      - English Language/.keep
+      - English Language/English Language.md
+      - English Language/Key Programmes.md
+      - English Language/Support Programmes.md
+      - English Language/Reading for Life.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Key Programmes.md
+      - Mathematics/Support Programmes.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Key Programmes.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
+      - Mother Tongue Languages/Chinese Language.md
+      - Mother Tongue Languages/Malay Language.md
+      - Mother Tongue Languages/Tamil Language.md
+      - PE, Art and Music/.keep
+      - PE, Art and Music/PE, Art and Music.md
+      - PE, Art and Music/PE.md
+      - PE, Art and Music/Art.md
+      - PE, Art and Music/Music.md
+      - PE, Art and Music/PAL.md
+      - Programme for Active Learning (PAL).md
+      - ICT/.keep
+      - ICT/Information and Communications Technology (ICT).md
+      - ICT/Cyberwellness.md
+      - CCE/.keep
+      - CCE/CCE.md
+      - CCE/VIA.md
+      - CCE/Sexuality Education.md
+      - CCE/National Education.md
+      - CCE/Education and Career Guidance (ECG).md
+      - Student Management/.keep
+      - Student Management/Student Management.md
+      - Student Management/Discipline.md
