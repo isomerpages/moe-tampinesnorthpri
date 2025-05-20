@@ -2,6 +2,7 @@ collections:
   experiences-at-tnps:
     output: true
     order:
+      - International Dance.md
       - Indian Dance.md
       - Angklung Kulintang Ensemble.md
       - Scouts.md
