@@ -2,6 +2,7 @@ collections:
   for-our-tnps-parents:
     output: true
     order:
+      - Parents Gateway.md
       - Forms and Links.md
       - Primary 6 (2025).md
       - Primary 5 (2025).md
