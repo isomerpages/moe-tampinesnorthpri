@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Students/.keep
-      - For Students/Home Based Learning.md
       - For Parents/.keep
       - For Staff/For Staff.md
       - For Staff/.keep
