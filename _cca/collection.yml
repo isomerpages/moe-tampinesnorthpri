@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sports/.keep
-      - Sports/Wushu.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Brownies.md
       - Uniformed Groups/Scouts.md
