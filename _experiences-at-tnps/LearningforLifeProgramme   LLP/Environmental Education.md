@@ -2,10 +2,8 @@
 title: Environmental Education
 permalink: /special-programmes/Environmental-Education/EE/
 description: ""
-third_nav_title: LLP (Environmental Education)
+third_nav_title: LearningforLifeProgramme   LLP
 ---
-
-
 ### **ENVIRONMENTAL EDUCATION (EE)**
 Environmental Education (EE) is the school's Learning for Life Programme (LLP). It focuses on developing the students' character and fulfilling our social responsibility to society to ensure a more sustainable environment.
 

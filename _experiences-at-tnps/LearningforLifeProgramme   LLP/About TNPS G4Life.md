@@ -2,10 +2,8 @@
 title: About TNPS G4Life
 permalink: /special-programmes/Environmental-Education/about-tnps-g4life/
 description: ""
-third_nav_title: LLP (Environmental Education)
+third_nav_title: LearningforLifeProgramme   LLP
 ---
-
-
 ![](/images/g4life1.png)
 
 ![](/images/g4life2.png)
@@ -52,11 +50,11 @@ third_nav_title: LLP (Environmental Education)
 
 <center><h3>GREEN CHAMPS</h3></center>
 
-<center><iframe width="400" height="300" src="https://www.youtube.com/embed/cGDsDnstRng" title="Little Green Fingers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Click to watch our Green Champs in action! (before COVID-19 situation)</center>
+<center><iframe width="400" height="300" src="https://www.youtube.com/embed/cGDsDnstRng" title="Little Green Fingers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>Click to watch our Green Champs in action! (before COVID-19 situation)</center>
 
 <center><h3>GREEN CHAMPS</h3></center>
 
-<center><iframe width="400" height="300" src="https://www.youtube.com/embed/RThPb4dARjQ" title="Tray Return" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Click to watch our Green Champs in action! (before COVID-19 situation)</center>
+<center><iframe width="400" height="300" src="https://www.youtube.com/embed/RThPb4dARjQ" title="Tray Return" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>Click to watch our Green Champs in action! (before COVID-19 situation)</center>
 
 
 ![](/images/g4life25.png)
