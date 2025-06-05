@@ -6,7 +6,7 @@ third_nav_title: School Operating Information
 variant: tiptap
 ---
 <h2><strong>School Vendors</strong></h2>
-<h4><strong>School Bookshop</strong><br></h4>
+<h4><strong>School Bookshop</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -67,7 +67,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>School Uniform</strong><br></h4>
+<p></p>
+<h4><strong>School Uniform</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -127,7 +128,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Big Heart Student Care Services</strong></h3>
+<p></p>
+<h4><strong>School Dental Clinic</strong></h4>
+<p>Send a WhatsApp for appointments/enquiries: 9112 4295</p>
+<p></p>
+<h2><strong>Big Heart Student Care Services</strong></h2>
 <p>Parents who are interested in finding out more on the school’s internal
 student care services, Big Hearts Student Care. Please go to&nbsp;<a href="https://bigheartstudentcare.com/" rel="noopener noreferrer nofollow" target="_blank">https://bigheartstudentcare.com/</a>&nbsp;to
 find out more.</p>
