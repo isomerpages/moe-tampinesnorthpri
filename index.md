@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School_Website.gif
+      background: /images/School_Websitev2.gif
       key_highlights:
         - title: TNPS @ Facebook
           description: Follow for the latest updates!
