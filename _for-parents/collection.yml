@@ -1,5 +1,5 @@
 collections:
-  for-our-parents:
+  for-parents:
     output: true
     order:
       - Primary 1 (2025).md
