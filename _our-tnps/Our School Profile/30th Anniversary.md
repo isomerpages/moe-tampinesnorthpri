@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Our School Profile
 ---
-<h3><strong>TNPS 30th Anniversary</strong></h3>
 <p>In 2024, we celebrated our 30th Anniversary, themed ‘<strong>Scaling to New Heights</strong>’.
 Our celebrations marked the next milestone for the school, celebrating
 our students, staff and parents.</p>
