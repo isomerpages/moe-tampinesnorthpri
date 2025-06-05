@@ -45,5 +45,5 @@ work so as to provide an enriching and holistic education for the students.</p>
 <p></p>
 <p>If you have what it takes to make a difference in our students’ lives,
 we welcome you to be part of TNPSG!</p>
-<p>Click <a href="https://form.gov.sg/5fe892a16637e100118fb58d" rel="noopener nofollow" target="_blank">here</a>
-<a href="https://form.gov.sg/#!/5fe892a16637e100118fb58d" rel="noopener noreferrer nofollow" target="_blank"></a>to join us!</p>
+<p>Click <a href="https://form.gov.sg/5fe892a16637e100118fb58d" rel="noopener nofollow" target="_blank">here</a>to
+join us!</p>
