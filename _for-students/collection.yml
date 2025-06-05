@@ -1,5 +1,5 @@
 collections:
-  for-our-students:
+  for-students:
     output: true
     order:
       - Home Based Learning.md
