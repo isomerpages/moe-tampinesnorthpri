@@ -22,7 +22,5 @@ how to reset your own password.</p>
 </p>
 <p><strong>KooBits</strong>
 </p>
-<p><strong>eZhiShi 知识网</strong>
-</p>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a></strong>
 </p>
