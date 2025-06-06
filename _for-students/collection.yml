@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Online Accounts for Students/SSOE Computer Login and SWN Wifi.md
       - Online Accounts for Students/Online Accounts for Students.md
       - Online Accounts for Students/.keep
       - Home Based Learning.md
