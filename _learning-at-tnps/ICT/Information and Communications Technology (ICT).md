@@ -3,10 +3,73 @@ title: Information and Communications Technology (ICT)
 permalink: /departments/ICT/ict/
 description: ""
 third_nav_title: ICT
+variant: tiptap
 ---
-### **Future-Ready Self-Directed Digital Learners**
-TNPS ICT department aims to equip all TNPS students with new media literacy and digital literacy skills through our TNPS ICT roadmap. This includes P1 - 2 Digital Literacy (parts of computer, touch-typing, Student Learning Space (SLS) introduction, Microsoft Word and iPad introduction) lessons, Google suite training, Code for Fun and incorportion of digital literacy and ICT into curriculum.
-
-At TNPS, video production or film making has been viewed as a powerful educational tool that provides opportunities for pupils to develop their critical thinking and dialogical reasoning in this digital and media-rich age. The viewing and study of films allow opportunities for cross-media experiences and exposures to alternative viewpoints. It encourages pupils to become active and critical viewers and producers of films and videos as they reflect on their roles and rights, challenge their creativity and learn to participate responsibly in their roles.
-
-We aim to establish a reliable and robust ICT infrastructure in TNPS for effective use of ICT in the classroom. We will develop teachers' competency in e-Pedagogy to leverage digital technology to deepen students' learning, while supporting all areas of practice as part of the SkillsFuture for educators.
+<p>At TNPS, we are committed to nurturing students who are <strong>confident, self-directed, and responsible digital learners</strong>.
+Our ICT Department supports this vision through a structured TNPS Digital
+Literacy Roadmap that equips students with essential digital competencies
+for the 21st century.</p>
+<p></p>
+<h3><strong>Building Digital Foundations from the Start</strong></h3>
+<p>From Primary 1, students embark on their digital learning journey with
+lessons that include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understanding the<strong> basic parts of a computer and tablet</strong>
+</p>
+</li>
+<li>
+<p>Developing basic<strong> touch-typing</strong> skills</p>
+</li>
+<li>
+<p>Getting familiar with commonly used learning platforms such as <strong>Student Learning Space (SLS)</strong>, <strong>Padlet</strong>,
+and <strong>KooBits</strong>
+</p>
+</li>
+</ul>
+<p>In Primary 3 and beyond, students gain hands-on experience with:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Google Suite</strong> tools such as Google Slides and Google Doc
+to support online learning and collaboration</p>
+</li>
+<li>
+<p><strong>Code for Fun</strong> to develop computational thinking and coding
+literacy</p>
+</li>
+<li>
+<p><strong>Integration of digital tools across subjects</strong> to strengthen
+learning in meaningful ways</p>
+</li>
+<li>
+<p>Opportunities to use <strong>Personal Learning Devices (PLDs)</strong> for
+research, planning, and documentation</p>
+</li>
+</ul>
+<p></p>
+<h3><strong>Empowering Teachers to Empower Learners</strong></h3>
+<p>To ensure effective student support, we focus on building teachers’ digital
+competencies through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Ongoing technical skills training</strong>, including just-in-time
+refresher sessions and clinics</p>
+</li>
+<li>
+<p><strong>e-Pedagogy professional development</strong>, enabling teachers
+to design purposeful and engaging tech-enabled lessons</p>
+</li>
+<li>
+<p><strong>Lesson design support</strong>, helping teachers anticipate student
+needs and craft experiences that foster deeper learning</p>
+</li>
+</ul>
+<p></p>
+<h3><strong>Robust Infrastructure for Seamless Learning</strong></h3>
+<p>Our ICT environment is supported by a strong digital infrastructure, including
+dedicated classroom carts that house Chromebook Personal Learning Devices
+(PLDs) for all Primary 4 to 6 students. These learning spaces promote independence,
+nurture digital literacy, and empower students to take charge of their
+learning in an ever-evolving digital world.</p>
+<p></p>
+<p></p>
