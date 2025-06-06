@@ -1,0 +1,14 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Primary 1 (2025).md
+      - Primary 2 (2025).md
+      - Primary 3 (2025).md
+      - Primary 4 (2025).md
+      - Primary 5 (2025).md
+      - Primary 6 (2025).md
+      - Forms and Links/Group Personal Accident Insurance for Students.md
+      - Forms and Links/.keep
+      - Forms and Links/Others.md
+      - Parents Gateway.md

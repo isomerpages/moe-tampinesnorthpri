@@ -90,7 +90,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="6" colspan="1">
-<p>15 min during curriculum time
+<p>10 min during curriculum time
 <br>
 </p>
 </td>
@@ -233,69 +233,4 @@ pm on Friday through the various gates:</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>School Fees</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Nationality<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Fees/$<br></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SC
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Free
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PR
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>205
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IS (ASEAN)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>465
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IS (Non-ASEAN)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>775</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>

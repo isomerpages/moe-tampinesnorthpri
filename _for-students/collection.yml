@@ -1,0 +1,11 @@
+collections:
+  for-students:
+    output: true
+    order:
+      - Online Accounts for Students/.keep
+      - Online Accounts for Students/Online Accounts for Students.md
+      - Online Accounts for Students/SSOE Computer Login and SWN Wifi.md
+      - Online Accounts for Students/Student iCON (also MIMS Account).md
+      - Online Accounts for Students/Singapore Student Learning Space (SLS).md
+      - Online Accounts for Students/MySkillsFuture.md
+      - Home Based Learning HBL.md

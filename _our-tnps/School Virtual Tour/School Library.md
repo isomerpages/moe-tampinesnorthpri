@@ -22,11 +22,9 @@ to the bright letterings to help them locate the sections.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SchoolLibrary_1.jpeg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SchoolLibrary_2.jpeg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SchoolLibrary_3.jpeg">
 </div>
