@@ -12,15 +12,16 @@ deepen understanding, and foster self-directed learning.</p>
 <p>Click on each platform to learn more. You can also find instructions on
 how to reset your own password.</p>
 <p></p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">SSOE Computer Login and SWN Wifi</a></strong>
+<p><strong>SSOE Computer Login and SWN Wifi</strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Student iCON (also MIMS Account)</a></strong>
+<p><strong>Student iCON (also MIMS Account)</strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space (SLS)</a></strong>
+<p><strong>Singapore Student Learning Space (SLS)</strong>
 </p>
 <p><strong>Moo-O</strong>
 </p>
 <p><strong>KooBits</strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a></strong>
+<p><strong>MySkillsFuture</strong>
 </p>
+<p></p>
