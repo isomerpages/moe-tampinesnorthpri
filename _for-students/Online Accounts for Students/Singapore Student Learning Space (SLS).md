@@ -13,10 +13,19 @@ of Singaporean students through the purposeful use of technology.</p>
 work collaboratively with their peers, the SLS aims to support them towards
 becoming responsible future-ready learners.</p>
 <h4><strong>How do I log in?</strong></h4>
-<p><strong>Website: </strong><a href="vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">vle.learning.moe.edu.sg/login</a>
+<p><strong>Website: <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a></strong>
 </p>
-<p>There are 2 ways you can login to SLS. (1) Login with SLS. (2) Login with
-MIMS. You can use either one!</p>
+<p>There are 2 ways you can login to SLS.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Login with SLS.</p>
+</li>
+<li>
+<p>Login with MIMS.</p>
+</li>
+</ul>
+<p>You can use either one!</p>
+<p></p>
 <p><strong>If you are logging in with SLS,</strong>
 </p>
 <p><strong>Username:</strong> Your username is usually the first 5 characters
