@@ -2,7 +2,6 @@ collections:
   experiences-at-tnps:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
       - CCA.md
       - CCA   Clubs & Societies/.keep
       - CCA   Clubs & Societies/Art Club.md
@@ -22,6 +21,7 @@ collections:
       - CCA   Uniformed Groups/.keep
       - CCA   Uniformed Groups/Scouts.md
       - CCA   Uniformed Groups/Brownies.md
+      - Applied Learning Programme (ALP).md
       - LearningforLifeProgramme   LLP/.keep
       - LearningforLifeProgramme   LLP/Environmental Education.md
       - LearningforLifeProgramme   LLP/About TNPS G4Life.md
