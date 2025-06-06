@@ -2,6 +2,7 @@ collections:
   experiences-at-tnps:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - CCA.md
       - CCA   Clubs & Societies/.keep
       - CCA   Clubs & Societies/Art Club.md
