@@ -48,3 +48,19 @@ through interactive learning stations. The P4 Math Trial takes students
 on a journey around the school as they use mathematical concepts and skills
 to solve problems within a real-life context.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Dept_Pic_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Dept_Pic_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Dept_Pic_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Dept_Pic_4.jpg">
+</div>
+<p></p>
