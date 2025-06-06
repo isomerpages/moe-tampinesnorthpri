@@ -5,25 +5,38 @@ description: ""
 third_nav_title: English Language
 variant: tiptap
 ---
-<h3><strong>Appreciating Literature through Talk (ALT)</strong></h3>
-<p>At TNPS, we believe that language in the written form opens up new worlds
-and ideas for the students. As such, they are exposed to quality literature
-of various genres and given opportunities to respond to the texts using
-the inquiry through dialogue approach.</p>
-<p>Interaction with the texts through dialogue will allow students to:</p>
-<p>(i)&nbsp; &nbsp;Enhance meaning-making
-<br>(ii)&nbsp; Hone critical thinking skills
-<br>(iii) Respond in creative and meaningful ways</p>
+<h4><strong>English Week</strong></h4>
+<p>English Week is a key annual programme designed to celebrate and promote
+students' love for the English Language. Each year, the event revolves
+around a unique and engaging theme that encourages students to explore
+and express their creativity through language.</p>
+<p>Throughout the week, students participate in a variety of carefully planned
+activities that develop both their writing and speaking skills. A strong
+emphasis is placed on oracy, with students given meaningful opportunities
+to present their original work to peers through classroom presentations
+and school-wide exhibitions.</p>
+<p>More than just a celebration of language, English Week nurtures vital
+21st-century competencies such as collaboration and confidence in communication,
+making it a meaningful and memorable part of the school's English Language
+experience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Wk_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Wk_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Wk_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Wk_4.jpg">
+</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALTTNPS1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Wk_5.jpg">
 </div>
-<p></p>
-<h4><strong>English Week</strong></h4>
-<p>Held annually, the English Week aims to provide students with opportunities
-to showcase their writing and speaking skills creatively. Taking on different
-themes each year, a host of activities are held in that week to tickle
-the students’ literary bones. Students are also given opportunities and
-platforms to create and perform in that week.</p>
 <p></p>
