@@ -14,6 +14,6 @@ the 2025 Product Factsheet.</p>
 <p></p>
 <p></p>
 <p>Information on claims, FAQs and other details pertaining to the MOE GPA
-Insurance Plan for students can be found on Income’s website at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a> 
+Insurance Plan for students can be found on Income’s website at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
 <p></p>
