@@ -8,7 +8,9 @@ variant: tiptap
 Our ICT Department supports this vision through a structured TNPS Digital
 Literacy Roadmap that equips students with essential digital competencies
 for the 21st century.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TNPS_ICT_Sharing.jpg">
+</div>
 <h3><strong>Building Digital Foundations from the Start</strong></h3>
 <p>From Primary 1, students embark on their digital learning journey with
 lessons that include:</p>
