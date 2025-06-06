@@ -15,16 +15,15 @@ for the 21st century.</p>
 lessons that include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Understanding the<strong> basic parts of a computer and tablet</strong>
-</p>
+<p>Familiarising themselves with the various <strong>student accounts</strong> they
+have</p>
 </li>
 <li>
-<p>Developing basic<strong> touch-typing</strong> skills</p>
+<p>Learning basic <strong>touch-typing</strong> skills</p>
 </li>
 <li>
-<p>Getting familiar with commonly used learning platforms such as <strong>Student Learning Space (SLS)</strong>, <strong>Padlet</strong>,
-and <strong>KooBits</strong>
-</p>
+<p>Discovering how to access <strong>common online learning platforms</strong>,
+such as Padlet and Singapore Student Learning Space (SLS).</p>
 </li>
 </ul>
 <p>In Primary 3 and beyond, students gain hands-on experience with:</p>
@@ -46,6 +45,18 @@ learning in meaningful ways</p>
 research, planning, and documentation</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__3_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_1__4_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__1_.jpg">
+</div>
 <p></p>
 <h3><strong>Empowering Teachers to Empower Learners</strong></h3>
 <p>To ensure effective student support, we focus on building teachers’ digital
@@ -71,5 +82,8 @@ dedicated classroom carts that house Chromebook Personal Learning Devices
 (PLDs) for all Primary 4 to 6 students. These learning spaces promote independence,
 nurture digital literacy, and empower students to take charge of their
 learning in an ever-evolving digital world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HES_2327.jpg">
+</div>
 <p></p>
 <p></p>
