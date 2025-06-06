@@ -5,31 +5,32 @@ description: ""
 third_nav_title: English Language
 variant: tiptap
 ---
-<p>We strive to provide a positive and encouraging environment to nurture
-a love for reading in every student. We strongly believe that access to
-good books is the first step to reach that goal and seek to provide students
-with multiple opportunities to such access and read for pleasure.</p>
-<div class="iframe-wrapper">
-<iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9TDbBviPNdej9atMqBC0Bd-PY8q7sU4OCmUBB1vdKMDv9nJ5tBg-b0tQg1oM5Ojn5mRl_vyq8q83y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+<h3><strong>Library on Wheels</strong></h3>
+<p>Library on Wheels is a mobile library initiative that brings the joy of
+reading directly to students during their recess break. Held once every
+fortnight, this programme allows students to browse, read, or borrow storybooks
+after their meals. The books are carefully selected around engaging themes
+to spark curiosity and cater to diverse reading interests. Library on Wheels
+encourages a love for reading in a relaxed and accessible environment.</p>
 <p></p>
-<h3><strong>Read@TNPS Library</strong></h3>
-<p>All students head to the school library once a fortnight to read and borrow
-English books. Our library is well-stocked with interesting and popular
-titles and students often find themselves spoilt for choice.</p>
+<h3><strong>Read@Recess</strong></h3>
+<p>The Read@Recess storytelling activity invited Primary 1 to Primary 4 students
+to enjoy engaging and interactive stories during recess. By making reading
+fun and accessible outside the classroom, this initiative sparked their
+imagination and helped nurture a lifelong love for books, building confident
+and enthusiastic young readers.</p>
 <p></p>
-<h3><strong>Partnership with NLB</strong></h3>
-<p>In partnership with NLB to promote the joy of reading, we have adopted
-some of their programmes like “Books-To-Go”, the school edition of “Book
-Bugs” and storytelling programmes.</p>
+<h3><strong>Reading Quest</strong></h3>
+<p>Reading Quest is designed for Primary 1 and Primary 2 students to engage
+with a curated selection of books and express their understanding through
+creative activities such as book reviews, character analysis, and parent-child
+reflections. This programme nurtures a deeper appreciation for reading
+while strengthening the bond between home and school.</p>
 <p></p>
-<h3><strong>Amazing Authors</strong></h3>
-<p>All P1 – P5 students will be exposed to works of renowned authors through
-a structured class reading programme that introduces them to a curated
-collection of quality storybooks.</p>
+<h3><strong>Voracious Reader Passport</strong></h3>
+<p>The Voracious Reader Passport is a self-directed reading programme for
+Primary 3 to Primary 6 students. It promotes independent reading and exploration
+through three key components: an activity booklet, a participation booklet,
+and a reading tracker. This programme aims to inspire a lifelong passion
+for reading that extends well beyond the classroom.</p>
 <p></p>
-<h3><strong>D.E.A.R</strong></h3>
-<p>The Drop Everything And Read (D.E.A.R) programme is a sustained silent
-reading programme during English lessons. It aims to develop fluent readers
-and ignite interest in reading by providing a designated time for students
-to read frequently and consistently.</p>
