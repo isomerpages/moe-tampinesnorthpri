@@ -18,10 +18,6 @@ how to reset your own password.</p>
 </p>
 <p><strong>Singapore Student Learning Space (SLS)</strong>
 </p>
-<p><strong>Moo-O</strong>
-</p>
-<p><strong>KooBits</strong>
-</p>
 <p><strong>MySkillsFuture</strong>
 </p>
 <p></p>
