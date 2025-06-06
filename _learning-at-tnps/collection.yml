@@ -2,6 +2,7 @@ collections:
   learning-at-tnps:
     output: true
     order:
+      - Student Management.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Key Programmes.md
