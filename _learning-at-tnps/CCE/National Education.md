@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h3><strong>National Education @ TNPS</strong></h3>
 <p>National Education is part of a holistic education. It aims to develop
 national cohesion, cultivate the instinct for survival as a nation and
 instil in our students, confidence in our nation’s future. It also emphasises
