@@ -3,6 +3,7 @@ title: VIA
 permalink: /departments/CCE/via/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 An essential part of schooling, Values in Action (VIA) is a learning experience in Character and Citizenship Education that aims to develop our students into socially responsible citizens. Under the school-wide VIA programmes, students learn about issues that affect them at home and in school, their community and the environment. TNPS has developed a 6-year VIA Curriculum that are tied with our school's LLP on Environment education. It focus on self, family, school and community domains that seeks to develop knowledge, skills and values progressively in each domain from P1 to P6. Opportunities are given to the students to relate theories discussed in the classroom to actual learning experiences.These platforms allow students to live out the school values, practise civic-mindedness and have a sense of responsibility towards the home, school and community.
 
