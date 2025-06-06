@@ -4,38 +4,37 @@ permalink: /for-parents/forms-and-links/
 description: ""
 variant: tiptap
 ---
-<h3><strong>TNPS WAITLIST APPLICATION FORM</strong></h3>
-<p><a href="https://form.gov.sg/667ba8e0a3667d3f7c54bd69" rel="noopener nofollow" target="_blank">CLICK HERE</a>
+<h3><strong>TNPS Waitlist Application</strong></h3>
+<p>Waitlist Application Form: <a href="https://go.gov.sg/tnpswaitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tnpswaitlist</a>
 </p>
-<h3><strong>MOTHER TONGUE LANGUAGE APPLICATION FORM</strong></h3>
-<p>Form 1 - Application to Offer Non-Mother Tongue Language (Chinese/Malay/Tamil)</p>
-<p><a href="/files/Form%201%20-%20Non-MTL.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 1 - Non-MTL.pdf</a>
+<p></p>
+<h3><strong>MOE Financial Assistance Scheme (MOE FAS)</strong></h3>
+<p>More information on the eligibility and benefits of MOE FAS is available
+here:</p>
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
-<p>&nbsp;Form 3 - Application to Offer Non-Tamil Indian Language (Bengali/Gujarati/Hindi/Punjabi/Urdu)</p>
-<p><a href="/files/Form%203%20-%20NTIL.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 3 - NTIL.pdf</a>
+<p>MOE e-FAS Application Form: <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
-<h3><strong>TNPS P1 Pre-Orientation Form</strong></h3>
-<p>This online form is only meant for the incoming P1 students after the
-completion of the annual P1 registration exercise.</p>
-<p><u>Online Form</u>
+<p></p>
+<h3><strong>Leave of Absence (LOA)</strong></h3>
+<p>The LOA scheme allows your child to rejoin their school after they return
+from overseas. If your child is granted LOA, they will remain as a registered
+student of the school. They can then be readmitted to the school directly
+after returning to Singapore.</p>
+<p>The school will charge an annual nominal fee for a child on LOA.</p>
+<p>More information is available here: <a href="https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme</a>
 </p>
-<h3><strong>Setting Up Standing Order for Use of Edusave Account</strong></h3>
-<p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Online Form</a>
+<p>LOA Application Form: <a href="https://go.gov.sg/tnpsloa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tnpsloa</a>
 </p>
-<h3><strong>Application for GIRO</strong></h3>
-<p>Please access the MOE site below and note the following</p>
-<p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a>
+<p></p>
+<h3><strong>Standing Order for Use of Edusave Account</strong></h3>
+<p><strong>For Singaporean students: </strong>You can submit the Standing
+Order Form if you wish to use your child’s Edusave Account to pay for school
+miscellaneous fees and enrichment programmes organised by the school.</p>
+<p>Standing Order Form: <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/5be24a1bb3f842000fdc4e59</a> 
 </p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For DBS/POSB and OCBC accounts,
-please use the online form available on this site</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For all other bank accounts,
-please download the GIRO application form from this site and submit the
-original signed hardcopy to the school</p>
-<h3><strong>Application for MOE Financial Assistance Scheme (MOE-FAS)</strong></h3>
-<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Application for MOE FAS</a>
+<p></p>
+<h3><strong>eGIRO Application</strong></h3>
+<p>Apply for e-GIRO here: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 </p>
-<h3><strong>Application for Admission or Transfer</strong></h3>
-<p>Please apply directly through MOE if the reason of transfer is change
-of residential address. The MOE link is</p>
-<p><a href="https://www.moe.gov.sg/primary/transfers" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/transfers</a>
-</p>
+<p></p>
