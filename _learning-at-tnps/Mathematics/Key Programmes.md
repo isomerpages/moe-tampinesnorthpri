@@ -5,27 +5,46 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
-<h3><strong>The Financial Literacy Programme (FLP)</strong></h3>
-<p>The Financial Literacy Programme (FLP)<strong>&nbsp;</strong>is an in-house
-programme that is conducted for all levels. Through financial literacy
-education, the Mathematics department hopes to equip students with basic
-financial knowledge and develop in them good financial habits from an early
-age.</p>
+<h3><strong>E2K Mathematics Programme</strong></h3>
+<p>The E2K Mathematics Programme aims to develop students' mathematical reasoning
+skills and deepens their conceptual understanding through an inquiry approach.</p>
+<p>Students will have opportunities to work independently or collaborate
+with their peers and engage in mathematical thinking through resources
+such as puzzles, games and mathematical explorations specially designed
+for this programme. The rich learning experiences offered by the programme
+serve to help students to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop the habits, attitudes and dispositions mathematicians possess.</p>
+</li>
+<li>
+<p>Gain important 21st century competencies such as critical thinking, invention
+thinking and effective communication skills.</p>
+</li>
+</ul>
 <p></p>
 <h3><strong>Math Explorer Programme</strong></h3>
-<p>The&nbsp;Math Explorer Programme&nbsp;is an enrichment programme designed
-for P3 and P4 students who display a strong interest in Mathematics. The
-programme provides students with opportunities to work independently or
-in teams to engage in mathematical thinking through solving challenging
-mathematical tasks.</p>
+<p>The Math Explorer Programme is an enrichment programme designed for P4
+and P5 students who display a strong interest in Mathematics. The programme
+provides students with opportunities to work independently or in teams
+to engage in mathematical thinking through solving challenging mathematical
+tasks.</p>
 <p></p>
-<h3><strong>Mathematical Olympiad Programme</strong>&nbsp;</h3>
-<p>For P5 and P6 students, the&nbsp;Mathematical Olympiad Programme&nbsp;exposes
-students to higher order thinking skills through mathematical problem solving
-that is usually beyond the primary school syllabus. At the end of the programme,
-students participate in Mathematics competitions to benchmark their mathematical
-ability against their peers at the cluster or national levels.</p>
-<div class="iframe-wrapper">
-<iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmoyqFCcFtKyxrV13EKNah9251NVeUEwG3nkOxiFmyVWtULENLADIzTklnf1xoaG-VC58MQQAtp_Jh/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
+<h3><strong>P1 and P2 Math Week</strong></h3>
+<p>The P1 and P2 Math Week provides opportunities for lower primary students
+to improve their mathematics learning through fun activities and challenges.
+It helps students see the real-world relevance of Mathematics in everyday
+life. Through hands-on activities and competitions, Math Week aims to foster
+a joy of learning in students, inspiring them to explore mathematics with
+curiosity and enthusiasm. As students work in groups, they also develop
+essential life skills such as teamwork and effective communication.</p>
+<p></p>
+<h3><strong>P3 and P4 Math Trails</strong></h3>
+<p>The Math Trails encourages critical thinking and teamwork as students
+apply math concepts to real-world situations, making learning fun and meaningful.
+In the P3 Math Trail, students explore a mock supermarket setup where they
+learn about budgeting and engage with concepts such as mass and volume
+through interactive learning stations. The P4 Math Trial takes students
+on a journey around the school as they use mathematical concepts and skills
+to solve problems within a real-life context.</p>
 <p></p>
