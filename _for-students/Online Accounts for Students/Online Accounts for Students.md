@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Online Accounts for Students
 ---
-<p>In Tampines North Primary School, we leverage on a wide range of ICT tools
-and platforms to enrich our learning experience. The use of ICT in the
-classrooms support collaboration, deepen understanding, and foster self-directed
-learning.</p>
+<p>In TNPS, we leverage on a wide range of ICT tools and platforms to enrich
+our learning experience. The use of ICT in the classrooms support collaboration,
+deepen understanding, and foster self-directed learning.</p>
 <p>This section provides an overview of the key platforms we use.</p>
 <p>Click on each platform to learn more. You can also find instructions on
 how to reset your own password.</p>
@@ -22,8 +21,6 @@ how to reset your own password.</p>
 <p><strong>Moo-O</strong>
 </p>
 <p><strong>KooBits</strong>
-</p>
-<p><strong>Young Scientist Badge Portal</strong>
 </p>
 <p><strong>eZhiShi 知识网</strong>
 </p>
