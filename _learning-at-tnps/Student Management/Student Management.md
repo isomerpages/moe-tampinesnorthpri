@@ -3,12 +3,31 @@ title: Student Management
 permalink: /departments/Student-Management/student-management/
 description: ""
 third_nav_title: Student Management
+variant: tiptap
 ---
-### **To develop students with self-discipline and strong values to learn and lead**
-
-
-In TNPS, we aim to develop students to have self-discipline and strong values to learn and lead.
-
-  
-
-Students need an orderly and disciplined environment to learn well. At the same time, a caring, encouraging and safe environment will allow students to learn from their mistakes and improve. Through student-led leadership programs, we aim to promote a culture of care in the school through their peers. On the other hand, a positive, proactive approach to discipline develops students’ readiness and motivation to learn, and enables them to feel safe both physically and psychologically. These two factors in turn create an environment conducive for the students’ learning and development. In TNPS, we focus on promoting positive student behaviour in support of learning and growth through the teaching of values and skills, and timely reinforcement through corrective guidance.
+<p>At TNPS, we believe students learn best in a safe, orderly and caring
+environment. We balance clear expectations with encouragement and support,
+helping students grow into responsible, respectful individuals.</p>
+<p>We take on a positive and proactive approach to discipline, focusing on
+building self-discipline, good character, and strong relationships. We
+guide students to reflect on their actions, learn from mistakes, and make
+better choices through care, corrective support, and the teaching of values
+and social-emotional skills.</p>
+<p>Disciplinary actions are not meant to punish, but to help students understand
+consequences, take responsibility, and make amends. We emphasise fairness
+and growth—restoring relationships through restitution, resolution, and
+reconciliation.</p>
+<p>In serious cases, we take firm action to protect the well-being of all
+students and staff. Our goal is always to support every child’s development
+in a safe and respectful school community.</p>
+<p>In enacting a positive and proactive approach to discipline in the school,
+we consider the three aspects.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SM.png">
+</div>
+<p>We work closely with parents and the wider school community to nurture
+a culture anchored on the school values – Integrity, Care, Respect, Resilience
+and Responsibility. Together, we can guide our children to become confident
+and values-driven learners, ready to thrive in school and beyond.
+<br>
+</p>
