@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
-      - Forms and Links/Forms and Links.md
-      - Forms and Links/.keep
       - Primary 1 (2025).md
       - Primary 2 (2025).md
       - Primary 3 (2025).md
       - Primary 4 (2025).md
       - Primary 5 (2025).md
       - Primary 6 (2025).md
+      - Forms and Links/.keep
+      - Forms and Links/Forms and Links.md
       - Parents Gateway.md
