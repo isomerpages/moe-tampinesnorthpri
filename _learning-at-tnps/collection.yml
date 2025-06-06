@@ -2,7 +2,6 @@ collections:
   learning-at-tnps:
     output: true
     order:
-      - Student Management.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Key Programmes.md
@@ -35,3 +34,4 @@ collections:
       - CCE/Sexuality Education.md
       - CCE/National Education.md
       - CCE/Education and Career Guidance (ECG).md
+      - Student Management.md
