@@ -26,6 +26,5 @@ aboard PG as announcements and consent forms will be disseminated through
 PG.</p>
 <p>Please download the PG app and sign in with your SingPass.</p>
 <p></p>
-<p>For more info, visit <a href="https://ask.gov.sg/parentsgateway" rel="noopener noreferrer nofollow" target="_blank">https://ask.gov.sg/parentsgateway .</a>
-</p>
+<p>For more info, visit <a href="https://ask.gov.sg/parentsgateway" rel="noopener noreferrer nofollow" target="_blank">https://ask.gov.sg/parentsgateway</a>.</p>
 <p></p>
