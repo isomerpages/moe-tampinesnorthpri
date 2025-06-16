@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Head of Departments</strong></h3>
+<h3><strong>Heads of Departments</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -224,7 +224,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Covering Assistant Year Head (P1 &amp; P2)</strong>
+<p><strong>Assistant Year Head (P1 &amp; P2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -250,7 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Covering Assistant Year Head (P3 &amp; P4)</strong>
+<p><strong>Assistant Year Head (P3 &amp; P4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

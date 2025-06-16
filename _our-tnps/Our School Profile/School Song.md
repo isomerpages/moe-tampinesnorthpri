@@ -13,7 +13,7 @@ variant: tiptap
 <br>To shine forth both near and far
 <br>Each of us will heed the call
 <br>To be a light for one and all
-<br>Steadfast and worthy we'll want to be A gleaming example for all to see.</p>
+<br>Steadfast and worthy we'll want to be a gleaming example for all to see.</p>
 <p>For our country we’ll do our best.
 <br>With shields up right we’ll stand the test.
 <br>With our mind and body, spirit and soul.
