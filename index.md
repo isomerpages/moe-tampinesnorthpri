@@ -16,7 +16,7 @@ sections:
           description: Follow for the latest updates!
           url: https://www.instagram.com/tnps_highlights/
   - textcards:
-      title: Term 3 2025 Timetable (Lower Primary)
+      title: Sem 2 2025 Timetable (Lower Primary)
       id: textcards
       cards:
         - title: P1 Timetable
@@ -28,7 +28,7 @@ sections:
           linktext: Learn more
           url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-2-2025/
   - textcards:
-      title: Term 3 2025 Timetable (Middle Primary)
+      title: Sem 2 2025 Timetable (Middle Primary)
       id: textcards
       cards:
         - title: P3 Timetable
@@ -40,7 +40,7 @@ sections:
           linktext: Learn more
           url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-4-2025/
   - textcards:
-      title: Term 3 2025 Timetable (Upper Primary)
+      title: Sem 2 2025 Timetable (Upper Primary)
       id: textcards
       cards:
         - title: P5 Timetable
