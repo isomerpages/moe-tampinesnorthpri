@@ -96,7 +96,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>Operations Support Staff</strong>
 </p>
 </td>
@@ -116,7 +116,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Rahman</p>
+<p>Mr Ramli Bin Satini</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Kim Choo</p>
 </td>
 </tr>
 </tbody>
