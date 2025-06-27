@@ -15,6 +15,15 @@ sections:
         - title: TNPS @ Instagram
           description: Follow for the latest updates!
           url: https://www.instagram.com/tnps_highlights/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: P1 Registration
+          date: 27 June 2025
+          announcement: For information on P1 Registration.
+          link_text: Click Here
+          link_url: https://www.tampinesnorthpri.moe.edu.sg/p1-registration/
   - textcards:
       title: Sem 2 2025 Timetable (Lower Primary)
       id: textcards
