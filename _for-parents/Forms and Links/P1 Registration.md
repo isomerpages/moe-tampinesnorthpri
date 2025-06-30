@@ -30,5 +30,5 @@ for.</p>
 <p>Living within 1km of a primary school does not qualify your child for
 Phase 1. Phase 1 is only for children whose older siblings are currently
 studying in the primary school.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">More information on P1 Registration is available here</a>
+<p><a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">More information on P1 Registration is available here</a>
 </p>
