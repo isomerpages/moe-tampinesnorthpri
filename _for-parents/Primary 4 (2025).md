@@ -4,7 +4,7 @@ permalink: /for-parents/parents-portal/primary-4-2025/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Term 2 2025 Timetable</strong></h4>
+<h4><strong>Semester 2 2025 Timetable</strong></h4>
 <p>Click <strong>'&gt;'</strong> to view the timetable for the next class.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAlzBwr5rQxbn6jpsLZEurnApLBu7NvBaUJgfn9Dn15iFwZ13SNPQLAn8v-o5Zk6w3mZBNafSDREq_/embed?start=false&amp;loop=false&amp;delayms=60000"></iframe>
