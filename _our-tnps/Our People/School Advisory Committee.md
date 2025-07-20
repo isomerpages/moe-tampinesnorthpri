@@ -58,7 +58,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Siti Masrura</p>
+<p>Dr Siti Mastura</p>
 </td>
 </tr>
 <tr>
