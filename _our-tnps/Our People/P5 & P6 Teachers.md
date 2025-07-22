@@ -217,11 +217,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liew Yuan Ting</p>
+<p>Mr Lim Kian Chye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liew_yuan_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yuan_ting@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
