@@ -195,10 +195,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Suriani Binte Sokran</p>
+<p>Mdm Salinah Bte Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suriani_sokran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suriani_sokran@schools.gov.sg</a>
+<p><a href="mailto:salinah_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">salinah_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -274,10 +274,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rafidah Binte Ridzuan</p>
+<p>Mdm Tee Ai Na</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rafidah_ridzuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafidah_ridzuan@schools.gov.sg</a>
+<p><a href="mailto:tee_ai_na_a@schools.gov.sg" rel="noopener nofollow" target="_blank">tee_ai_na_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
