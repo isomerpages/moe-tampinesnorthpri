@@ -144,7 +144,8 @@ variant: tiptap
 <p>Mrs Elaine Ng Yoke Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_yoke_lin_elaine_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yoke_lin_elaine_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
