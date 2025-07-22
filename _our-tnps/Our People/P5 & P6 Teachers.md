@@ -141,11 +141,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Zhixiang, Steven</p>
+<p>Mrs Elaine Ng Yoke Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_kam_seng_tommy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kam_seng_tommy@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
