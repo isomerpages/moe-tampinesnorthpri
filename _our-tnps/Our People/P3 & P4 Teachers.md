@@ -270,7 +270,8 @@ variant: tiptap
 <p>Ms Radiana Raza Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:radiana_raza_ali_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">radiana_raza_ali_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
