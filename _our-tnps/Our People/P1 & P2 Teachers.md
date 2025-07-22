@@ -36,7 +36,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>P1.2 <br></strong>
 </p>
 </td>
@@ -54,15 +54,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:see_guek_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">see_guek_mui@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nadrah Bte Abdul Khalim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nadrah_abdul_khalim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadrah_abdul_khalim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
