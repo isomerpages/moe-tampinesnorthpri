@@ -220,7 +220,8 @@ variant: tiptap
 <p>Mr Lim Kian Chye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_kian_chye_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kian_chye_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -293,4 +294,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="mailto:lim_kian_chye_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kian_chye_b@schools.gov.sg</a>
+</p>
