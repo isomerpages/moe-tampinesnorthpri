@@ -366,7 +366,8 @@ variant: tiptap
 <p>Ms Dalilah Bte Johar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Dalilah_johar_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dalilah_johar_A@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
