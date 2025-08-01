@@ -132,11 +132,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Zheng Hoong , Leonidas</p>
+<p>Ms Dawn Ma Xiao Xia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_zheng_hoong_leonidas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_zheng_hoong_leonidas@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -163,10 +162,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Hadijah Binte Mohammed</p>
+<p>Ms Bernice Tan Li Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_hadijah_mohammed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hadijah_mohammed@schools.gov.sg</a>
+<p><a href="mailto:bernice_tan_yi_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bernice_tan_yi_lin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -268,15 +267,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nursarah Binte Muhd Yazid</p>
+<p>Ms Radiana Raza Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nursarah_muhammad_yazid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nursarah_muhammad_yazid@schools.gov.sg</a>
+<p><a href="mailto:radiana_raza_ali_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">radiana_raza_ali_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>P4.3 </strong>
 <br>
 </p>
@@ -295,6 +294,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurul_ashiqin_saneb@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_ashiqin_saneb@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_li_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_li_c@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -355,10 +363,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms How Bi Ee</p>
+<p>Ms Dalilah Bte Johar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:how_bi_ee_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">how_bi_ee_a@schools.gov.sg</a>
+<p><a href="mailto:Dalilah_johar_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dalilah_johar_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -386,10 +394,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nadia Binte Moctar</p>
+<p>Mr James Hong De Neufeld</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadia_mochtar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_mochtar@schools.gov.sg</a>
+<p><a href="mailto:james_hong_de_neufeld_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_hong_de_neufeld_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
