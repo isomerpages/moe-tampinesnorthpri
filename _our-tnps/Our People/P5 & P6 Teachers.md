@@ -141,10 +141,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Zhixiang, Steven</p>
+<p>Mrs Elaine Ng Yoke Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_kam_seng_tommy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kam_seng_tommy@schools.gov.sg</a>
+<p><a href="mailto:ng_yoke_lin_elaine_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yoke_lin_elaine_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -218,10 +218,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liew Yuan Ting</p>
+<p>Mr Lim Kian Chye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liew_yuan_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yuan_ting@schools.gov.sg</a>
+<p><a href="mailto:lim_kian_chye_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kian_chye_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -295,4 +295,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="mailto:lim_kian_chye_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kian_chye_b@schools.gov.sg</a>
+</p>
