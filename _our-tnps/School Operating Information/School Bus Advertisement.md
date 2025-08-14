@@ -45,13 +45,11 @@ School</p>
 </li>
 <li>
 <p>Contact Person<strong>:</strong>&nbsp;Ms Amy Chua</p>
+<p></p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>How to get there?</strong>
 </p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Nearest MRT:</strong>&nbsp;Tampines MRT Station (EW2 - DT32)</p>
