@@ -6,9 +6,6 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_MF6A0565.jpg">
-</div>
 <h3><strong>School Leaders</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -45,6 +42,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Charmaine Tay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-principal (Administration)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kian Loo</p>
 </td>
 </tr>
 </tbody>
