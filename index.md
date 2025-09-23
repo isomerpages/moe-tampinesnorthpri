@@ -15,6 +15,15 @@ sections:
         - title: TNPS @ Instagram
           description: Follow for the latest updates!
           url: https://www.instagram.com/tnps_highlights/
+  - infopic:
+      title: HBL for P3 to P5
+      id: infopic
+      description: Pri 3 to Pri 5 students will be having Home-based Learning (HBL) on
+        25 Sep 2025 and 26 Sep 2025. Click on the link below for more details.
+      button: Home-Based Learning
+      url: https://www.tampinesnorthpri.moe.edu.sg/useful-links/students/home-based-learning/
+      image: /images/hbl_calendar.png
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
