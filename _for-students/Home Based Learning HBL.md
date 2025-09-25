@@ -23,7 +23,7 @@ Google Meet.</p>
 <p>🔹 <strong>Your HBL lessons</strong> will be ready on <strong>SLS by 7.30 am</strong> each
 day.
 <br>🔹 You should try to finish your lessons by <strong>5.00 pm</strong>.
-<br>🔹 Lesson instructions can also be found on the TNPS HBL site: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025tnpshbl</a>.</p>
+<br>🔹 Lesson instructions can also be found on the TNPS HBL site: <a href="https://go.gov.sg/2025tnpshbl" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025tnpshbl</a>.</p>
 <p>💻 <strong>Day 2 Check-In (Friday, 26 Sep)</strong>
 <br>On Friday, you will have a <strong>30-minute check-in session</strong> with
 your Form Teacher on <strong>Google Meet</strong>.
