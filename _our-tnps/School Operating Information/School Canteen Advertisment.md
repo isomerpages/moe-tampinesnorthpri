@@ -33,7 +33,7 @@ third_nav_title: School Operating Information
 <p>(Halal) Japanese/Korean Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 August 2025</p>
+<p>15 October 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
