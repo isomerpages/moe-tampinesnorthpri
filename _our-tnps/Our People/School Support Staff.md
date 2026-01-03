@@ -45,7 +45,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Corporate Support Officers</strong>
 </p>
 </td>
@@ -61,6 +61,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Premelatha Mohan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mandy Tiah</p>
 </td>
 </tr>
 <tr>
@@ -116,12 +121,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ramli Bin Satini</p>
+<p>Mdm Lim Kim Choo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Kim Choo</p>
+<p>Mdm Tan Hoon Peow</p>
 </td>
 </tr>
 </tbody>
@@ -135,11 +140,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AED (SC)</strong>
+<p><strong>School Counsellor</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joey Lee</p>
+<p>Mdm Catherine Toh</p>
 </td>
 </tr>
 <tr>
@@ -166,7 +171,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Khaliqah Bte Mohd Khalid</p>
+<p>Ms Nur Khaliqah Bte Mohd Khalid</p>
 </td>
 </tr>
 </tbody>
