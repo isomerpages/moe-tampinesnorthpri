@@ -103,7 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Physical Education  &amp; Aesthetics</strong>
+<p><strong>Physical Education &amp; Aesthetics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,7 +116,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Character &amp; Citizenship Education (CCE) </strong>
+<p><strong>Character &amp; Citizenship Education (CCE)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,7 +256,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Well-being</strong>
+<p><strong>Subject Head (Student Well-being)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -358,7 +358,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h3><strong>Senior Teachers</strong></h3>
+<h3><strong>Teacher Leaders</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
