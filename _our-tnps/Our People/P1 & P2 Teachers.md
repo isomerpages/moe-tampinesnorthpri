@@ -318,7 +318,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong San San Denyse</p>
+<p>Ms Ong San San, Denyse</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -339,7 +339,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Catherine Chua Jing Tong</p>
+<p>Ms Chua Jing Tong, Catherine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_jing_tong_catherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_jing_tong_catherine@schools.gov.sg</u></a>
@@ -454,7 +454,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hoy Kin Chung Edwin</p>
+<p>Mr Hoy Kin Chung, Edwin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:edwin_hoy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>edwin_hoy@schools.gov.sg</u></a>
