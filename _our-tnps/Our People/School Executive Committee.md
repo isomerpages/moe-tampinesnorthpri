@@ -81,7 +81,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Pei Fen, Geraldine</p>
+<p>Mrs Geraldine Ng Pei Fen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_pei_fen_geraldine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_fen_geraldine@schools.gov.sg</a>
@@ -94,7 +94,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheng Hwee Koon, Kate</p>
+<p>Mdm Kate Cheng Hwee Koon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheng_hwee_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_hwee_koon@schools.gov.sg</a>
@@ -120,7 +120,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ler Bee Pheng, Kezia</p>
+<p>Ms Kezia Ler Bee Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ler_bee_pheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ler_bee_pheng@schools.gov.sg</a>
@@ -159,7 +159,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yee Yuanlong, Edward</p>
+<p>Mr Edward Yee Yuanlong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yee_yuanlong_edward@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yee_yuanlong_edward@schools.gov.sg</a>
@@ -234,7 +234,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Zhixiang, Steven</p>
+<p>Mr Steven Goh Zhixiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_zhixiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhixiang@schools.gov.sg</a>
@@ -247,7 +247,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Yun Yun, Candy</p>
+<p>Mdm Candy Lim Yun Yun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yun_yun_candy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yun_yun_candy@schools.gov.sg</a>
@@ -260,7 +260,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Hui Ying, Kris</p>
+<p>Ms Kris Chan Hui Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_hui_ying_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_hui_ying_b@schools.gov.sg</a>
