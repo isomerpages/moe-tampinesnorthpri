@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Jun Yu, Kyle</p>
+<p>Mr Kyle Yeo Jun Yu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_jun_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_jun_yu@schools.gov.sg</u></a>
@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Lian Geok, Joey</p>
+<p>Mdm Joey Lim Lian Geok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -49,7 +49,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Wen Guang, Leon</p>
+<p>Mr Leon Lee Wen Guang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_wen_guang_leon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_wen_guang_leon@schools.gov.sg</u></a>
