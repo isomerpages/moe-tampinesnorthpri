@@ -191,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (English Language)</strong>
+<p><strong>Subject Head (English Language &amp; ALP)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,7 +256,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Student Well-being)</strong>
+<p><strong>Subject Head (Student Well-Being</strong>
+</p>
+<p><strong>&amp; Leadership)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
