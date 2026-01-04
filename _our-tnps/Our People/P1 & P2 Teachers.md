@@ -131,7 +131,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Eunice Loh Seow Juin</p>
+<p>Mrs Eunice Chew Seow Juin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_seow_juin_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh_seow_juin_eunice@schools.gov.sg</u></a>
@@ -253,7 +253,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joanne Loh-Teo Poh Teng</p>
+<p>Mdm Joanne Loh Poh Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh-teo_poh_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh-teo_poh_teng@schools.gov.sg</u></a>
@@ -423,7 +423,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jomaine Tang Chan Mei See</p>
+<p>Mrs Jomaine Tang Mei See</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_mei_see@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_mei_see@schools.gov.sg</u></a>
