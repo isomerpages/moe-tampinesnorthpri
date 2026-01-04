@@ -208,7 +208,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ashley Quek Ng Li Qin</p>
+<p>Mrs Ashley Quek Li Qin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ashley_ng_li_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ashley_ng_li_qin@schools.gov.sg</a>
@@ -372,7 +372,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Xin Hui, Phyllis</p>
+<p>Ms Phyllis Toh Xin Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_xin_hui_phyllis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_xin_hui_phyllis@schools.gov.sg</a>
@@ -385,7 +385,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chia Su Yunn, Angelina</p>
+<p>Mrs Angelina Chia Su Yunn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_su_yunn_angelina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_su_yunn_angelina@schools.gov.sg</a>
