@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Serene Lim Lee Choon Mei</p>
+<p>Mrs Serene Lim Choon Mei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_choon_mei_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_choon_mei_serene@schools.gov.sg</u></a>
@@ -249,7 +249,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ashley Quek Ng Li Qin</p>
+<p>Mrs Ashley Quek Li Qin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ashley_ng_li_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ashley_ng_li_qin@schools.gov.sg</u></a>
@@ -272,7 +272,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Angelina Chia Ang Su Yunn</p>
+<p>Mrs Angelina Chia Su Yunn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_su_yunn_angelina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_su_yunn_angelina@schools.gov.sg</u></a>
@@ -313,7 +313,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Kam Seng Tommy Noah</p>
+<p>Mr Tommy Noah Ho Kam Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_kam_seng_tommy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_kam_seng_tommy@schools.gov.sg</u></a>
