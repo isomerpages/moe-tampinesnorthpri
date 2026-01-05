@@ -10,7 +10,7 @@ third_nav_title: Online Accounts for Students
 Wi-Fi network.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The login details can be found in your Student Handbook.</p>
+<p>The username is your BC number.</p>
 </li>
 <li>
 <p>To reset your password, please inform your teacher.</p>
