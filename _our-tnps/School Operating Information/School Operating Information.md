@@ -146,8 +146,8 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Dismissal Timings</strong></h3>
-<p>The students are dismissed at 1.30 pm on Monday to Thursday and 12.45
-pm on Friday through the various gates:</p>
+<p>The students are dismissed at 1.30 pm on Monday to Friday through the
+various gates:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
