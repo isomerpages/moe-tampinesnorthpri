@@ -114,8 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vendor's Address</p>
-<p>(Retail Outlet)</p>
+<p>Vendor's Address (Retail Outlet)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>209 New Upper Changi Road #03-651 Singapore 460209</p>
