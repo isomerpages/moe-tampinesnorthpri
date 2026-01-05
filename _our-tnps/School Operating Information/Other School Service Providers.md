@@ -52,7 +52,8 @@ variant: tiptap
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>www.pacificbookstores.com</p>
+<p><a href="www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -76,27 +77,30 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>JEEP SING FASHION</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>MY UNIFORM SHOP</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Contact Number</p>
+<p>(Retail Outlet)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>+65 64563198</p>
+<p>+65 6276 6689</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Support Centre</p>
+<p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://bit.ly/JSFSUPPORT</p>
+<p><a href="mailto:myuniformshopasia@gmail.com" rel="noopener noreferrer nofollow" target="_blank">myuniformshopasia@gmail.com</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -104,26 +108,16 @@ variant: tiptap
 <p>Website (for online ordering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>www.jeepsinguniform.com</p>
+<p><a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Opening Hours</p>
+<p>Vendor's Address (Retail Outlet)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>For Purchase on school premises:</u>
-<br>Every Tuesday (During school term), 2.30-3.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vendor's Address</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blk 4012 Ang Mo Kio Ave 10</p>
-<p>#01-07/08/09 Tech place 1</p>
-<p>Singapore 569628</p>
+<p>209 New Upper Changi Road #03-651 Singapore 460209</p>
 </td>
 </tr>
 </tbody>

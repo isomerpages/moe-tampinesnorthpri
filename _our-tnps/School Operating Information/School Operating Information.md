@@ -24,24 +24,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday - Thursday
+<p>Monday - Friday
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 am to 1.30 pm
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 am to 12.45 pm
 <br>
 </p>
 </td>
