@@ -6,8 +6,38 @@ variant: tiptap
 third_nav_title: Forms and Links
 ---
 <h3><strong>TNPS Waitlist Application</strong></h3>
-<p>Waitlist Application Form: <a href="https://go.gov.sg/tnpswaitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tnpswaitlist</a>
+<p>Waitlist Application Form:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tnpswaitlist</a>
 </p>
+<p>Instructions:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>This application form is for Singapore Citizens and Singapore Permanent
+Residents only. For International Students, please seek admission via the
+MOE website. &nbsp;</p>
+</li>
+<li>
+<p>Applications with incomplete and incorrect information will not be considered.&nbsp;</p>
+</li>
+<li>
+<p>Applications is <u>not</u> on a first-come-first-served basis.&nbsp;</p>
+</li>
+<li>
+<p>The waitlist application is <u>valid for a period of 3 months only</u>.
+Please resubmit the waitlist application after the 3 months have lapse
+if you are still interested to be on our school's waitlist.</p>
+</li>
+<li>
+<p>Should there be multiple applications for the same child, the school will
+refer to the latest form submitted. &nbsp;</p>
+</li>
+<li>
+<p>The school will only contact the applicant if there is a vacancy for your
+child. &nbsp;</p>
+</li>
+<li>
+<p>The school may conduct a placement test, if required.</p>
+</li>
+</ol>
 <p></p>
 <h3><strong>MOE Financial Assistance Scheme (MOE FAS)</strong></h3>
 <p>More information on the eligibility and benefits of MOE FAS is available
