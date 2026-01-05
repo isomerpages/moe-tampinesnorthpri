@@ -256,9 +256,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Student Well-Being</strong>
-</p>
-<p><strong>&amp; Leadership)</strong>
+<p><strong>Subject Head (Student Well-Being &amp; Leadership)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
