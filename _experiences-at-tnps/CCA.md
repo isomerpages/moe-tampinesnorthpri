@@ -147,7 +147,7 @@ variant: tiptap
 <p>12-Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 9</p>
+<p>No CCA - only for selected students</p>
 </td>
 </tr>
 </tbody>
@@ -172,7 +172,7 @@ variant: tiptap
 <p>26-Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 10</p>
+<p>Session 9</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@ variant: tiptap
 <p>2-Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 11</p>
+<p>Session 10</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ variant: tiptap
 <p>9-Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 12</p>
+<p>Session 11</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ variant: tiptap
 <p>16-Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 13</p>
+<p>Session 12</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ variant: tiptap
 <p>23-Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 14</p>
+<p>Session 13</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +227,7 @@ variant: tiptap
 <p>30-Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 15</p>
+<p>Session 14</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +238,7 @@ variant: tiptap
 <p>7-May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 16</p>
+<p>Session 15</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@ variant: tiptap
 <p>14-May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 17</p>
+<p>Session 16</p>
 </td>
 </tr>
 <tr>
@@ -260,7 +260,7 @@ variant: tiptap
 <p>21-May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Session 18</p>
+<p>No CCA - only for selected students</p>
 </td>
 </tr>
 <tr>
