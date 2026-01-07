@@ -132,8 +132,9 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Student Support Staff</strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -146,32 +147,74 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Catherine Toh</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_mui_hua_catherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_mui_hua_catherine@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AED (LBS)</strong>
+<p><strong>SENO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Khaliqah Bte Mohd Khalid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_khaliqah_mohamed_khalid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khaliqah_mohamed_khalid@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SENO</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Maisarah Nabilah Binte Sa'azali</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:maisarah_nabilah_saazal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maisarah_nabilah_saazal@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AED (SWO)</strong>
+<p><strong>SWO</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Salina Aw Binte Fairuz</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:salina_aw_fairuz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">salina_aw_fairuz@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEN</strong>
+<p><strong>SENO (FAJT)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Khaliqah Bte Mohd Khalid</p>
+<p>Ms Krystin Aw Sok Hooi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Krystin_Aw_Sok_Hooi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Krystin_Aw_Sok_Hooi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SC (FAJT)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lily Mok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lily_mok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lily_mok@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
