@@ -313,7 +313,8 @@ variant: tiptap
 <p>Mdm Chua Geok Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Chua_geok_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_geok_shan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
