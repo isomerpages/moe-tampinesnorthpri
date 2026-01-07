@@ -6,8 +6,9 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3><strong>Executive and Administration Staff</strong></h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -20,6 +21,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Amy Chua Ying Lin</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chua_Ying_Lin_Amy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Ying_Lin_Amy@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -27,7 +32,23 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong &amp; Mr Chan</p>
+<p>Mr Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_kah_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kah_kheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:david_chan_kw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">david_chan_kw@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -38,10 +59,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Grace Tang</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Phyllis Law</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -52,20 +79,32 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tan Lee Yong</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Albert Phee Kien Hin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Premelatha Mohan</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Mandy Tiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -76,6 +115,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Subash</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -84,6 +126,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kesumawati bte Saimon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -94,10 +139,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Nurhilmi Bin Sa’ari</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Umairah Afiqah Binte Yusof</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -108,25 +159,40 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Nawawi Hassan</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Quek Teng Hin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Bee Ray</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Kim Choo</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Hoon Peow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
