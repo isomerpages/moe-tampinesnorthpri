@@ -22,6 +22,11 @@ sections:
         - title: Orientation for Incoming Primary 1s (2026)
           date: 20 November 2025
           announcement: Orientation for Incoming Primary 1s (2026)
-          link_text: Click Here
-          link_url: https://drive.google.com/file/d/19lcAWjPfyB-9eTJJazYBuLXDEl6SrWzC/view?usp=sharing
+          link_text: Click here for the slides used during the session.
+          link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-1-2026/
+        - title: P1 First Day of School
+          date: 02 January 2026
+          announcement: P1 First Day of School (2026)
+          link_text: Click here for the slides used during the session.
+          link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-1-2026/
 ---
