@@ -356,5 +356,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="mailto:lim_kian_chye_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kian_chye_b@schools.gov.sg</a>
-</p>
+<p></p>
