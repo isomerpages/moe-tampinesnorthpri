@@ -307,7 +307,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cheng Zong</p>
+<p>Mr Cheng Zhong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheng_zhong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheng_zhong@schools.gov.sg</u></a>
