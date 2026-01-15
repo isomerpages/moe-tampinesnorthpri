@@ -76,6 +76,15 @@ third_nav_title: Our People
 <p>Ms Grace Liew Hui Ru</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Thanaraj Govarthanan</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3></h3>
