@@ -13,7 +13,7 @@ of Singaporean students through the purposeful use of technology.</p>
 work collaboratively with their peers, the SLS aims to support them towards
 becoming responsible future-ready learners.</p>
 <h4><strong>How do I log in?</strong></h4>
-<p><strong>Website: <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a></strong>
+<p><strong>Website: </strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
 </p>
 <p>There are 2 ways you can login to SLS.</p>
 <ul data-tight="true" class="tight">
@@ -51,13 +51,11 @@ titled "Online Accounts for Students" in your Student Handbook.</p>
 <h4><strong>Account Management</strong></h4>
 <ul>
 <li>
-<p>The login details can be found in your Student Handbook.</p>
-</li>
-<li>
 <p>To reset your password for logging in with SLS, please click <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/" rel="noopener noreferrer nofollow" target="_blank">here</a> .</p>
 </li>
 <li>
-<p>To reset your password for logging in with MIMS, please inform your teacher.</p>
+<p>To reset your password for logging in with MIMS, please refer to the guide
+<a href="https://www.tampinesnorthpri.moe.edu.sg/student-icon-also-mims-account/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 </ul>
 <p></p>
