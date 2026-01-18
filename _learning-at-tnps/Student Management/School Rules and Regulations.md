@@ -79,5 +79,62 @@ theft, or damage.</p>
 <p><strong>Urgent Matters: </strong>If you need to contact your child urgently,
 please call the General Office.</p>
 </li>
+<li>
+<p><strong>Consequences: </strong>Any device used during curriculum hours
+will be confiscated. Confiscated devices must be personally collected by
+a parent/guardian from a staff member.</p>
+</li>
+</ul>
+<p><em>&nbsp;</em>
+</p>
+<p><em>Quick Note for Parents on Social Media: Please be reminded that your child must be at least 13 years old to register for and use apps such as WhatsApp, Instagram, and TikTok. To prevent social friction and maintain a positive school culture, students are not allowed to manage school-related WhatsApp chat groups.</em>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>4. Attire &amp; Grooming Essentials</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Uniform:</strong> Students are to wear the prescribed school uniform
+and modification to the school uniform is not allowed. Girls' pinafores
+must be at knee length.</p>
+</li>
+<li>
+<p><strong>Shoes &amp; Socks:</strong> Only white canvas shoes with plain
+white TNPS socks (covering the ankles) are allowed.</p>
+</li>
+<li>
+<p><strong>Hair:</strong> Hair must be short and neat. Long hair (girls) must
+be tied with black accessories. Boys must be clean-shaven at all times.
+Moustache and beards are not allowed.</p>
+</li>
+<li>
+<p><strong>Accessories:</strong> For safety reasons, students are prohibited
+from wearing jewellery and fashion accessories of any kind.</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>5. Student Safety &amp; Well-being</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Bullying:</strong> The school takes a <strong>Zero Tolerance Stance</strong> against
+all forms of bullying (physical, verbal, social, and cyber).</p>
+</li>
+<li>
+<p><strong>Reporting:</strong> Students are encouraged to report incidents
+immediately to a trusted adult (Form Teacher, Counsellor, or Discipline
+Master).</p>
+</li>
+<li>
+<p><strong>Prohibited Items:</strong> For safety, items such as weapons, smart
+devices (used inappropriately), and toys/gaming cards are strictly prohibited.</p>
+</li>
+<li>
+<p><strong>Visitors:</strong> To ensure safety of our students, all visitors
+must report to the General Office and are not allowed in the school premises
+during recess or lunch.</p>
+</li>
 </ul>
 <p></p>
