@@ -2,6 +2,7 @@ collections:
   learning-at-tnps:
     output: true
     order:
+      - School Rules and Regulations/School Rules and Regulations.md
       - School Rules and Regulations/Student Management.md
       - School Rules and Regulations/.keep
       - English Language/.keep
