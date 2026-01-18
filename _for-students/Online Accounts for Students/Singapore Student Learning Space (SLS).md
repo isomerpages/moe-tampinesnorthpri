@@ -24,7 +24,12 @@ becoming responsible future-ready learners.</p>
 <p>Login with MIMS.</p>
 </li>
 </ul>
-<p>You can use either one!</p>
+<p></p>
+<p>For <strong>P1 and P2 students</strong>, you are given your SLS Username
+and passwords. You will "<strong>Log in with SLS</strong>".</p>
+<p></p>
+<p>For <strong>P3 to P6 students</strong>, you are given your MIM accounts
+and passwords. You will "<strong>Log in with MIMS</strong>".</p>
 <p></p>
 <p><strong>If you are logging in with SLS,</strong>
 </p>
