@@ -3,6 +3,7 @@ title: Student Management
 permalink: /student-management/
 variant: tiptap
 description: ""
+third_nav_title: Student Management
 ---
 <p>At TNPS, we believe students learn best in a safe, orderly and caring
 environment. We balance clear expectations with encouragement and support,

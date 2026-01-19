@@ -69,3 +69,13 @@ miscellaneous fees and enrichment programmes organised by the school.</p>
 <p>Apply for e-GIRO here: <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
 </p>
 <p></p>
+<h3><strong>DigitalAccess@Home</strong></h3>
+<p>DigitalAccess@Home provides <strong>subsidised broadband and laptops/tablets</strong> to
+lower-income households to support their lifestyle needs, including work
+and social activities.</p>
+<p>Click <a href="https://www.youtube.com/watch?v=A8vGvbk7GhQ" rel="noopener nofollow" target="_blank">here</a> to
+watch a quick 3-min explainer video.</p>
+<p>More information on the eligibility and how to apply is available here:
+<a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">IMDA | Digital Access System - Infocomm Media Development Authority</a>
+</p>
+<p></p>
