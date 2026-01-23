@@ -11,5 +11,5 @@ covered for the year for the various subjects by clicking on the links
 below.</p>
 <p></p>
 <h4><strong>Parent Engagement Session</strong></h4>
-<p></p>
-<p></p>
+<p><a href="/files/P5_Parent_Engagement_Slides___SL_and_YH_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Parent Engagement on 16 Jan 2026</a>
+</p>
