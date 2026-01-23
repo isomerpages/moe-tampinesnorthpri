@@ -10,5 +10,6 @@ variant: tiptap
 covered for the year for the various subjects by clicking on the links
 below.</p>
 <h4><strong>Parents Engagement Session</strong></h4>
-<p></p>
+<p><a href="/files/P6_Parent_Engagement_Slides___SL_and_YH_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Parent Engagement on 16 Jan 2026</a>
+</p>
 <p></p>
