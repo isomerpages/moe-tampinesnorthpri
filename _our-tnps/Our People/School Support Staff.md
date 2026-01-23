@@ -207,7 +207,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Counsellor</strong>
+<p><strong>Senior School Counsellor</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
