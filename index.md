@@ -30,9 +30,9 @@ sections:
           link_text: Click here to view the photos taken on the first day of school
             featuring our Primary 1 students and their fathers.
           link_url: https://www.tampinesnorthpri.moe.edu.sg/dads-tnps/
-        - title: Orientation for Incoming Primary 1s (2026)
-          date: 20 November 2025
-          announcement: Orientation for Incoming Primary 1s (2026)
+        - title: P5 Parent Engagement Session on 16 Jan
+          date: 16 January 2026
+          announcement: P5 Parent Engagement Session on 16 Jan
           link_text: Click here for the slides used during the session.
-          link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-1-2026/
+          link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-5-2026/
 ---
