@@ -15,4 +15,7 @@ below.</p>
 <h4><strong>P6 Timetable</strong></h4>
 <p><a href="https://docs.google.com/presentation/d/1ntDSIUA1m0-KCOb35gUXjgN5PAqIE_KCQA_r6KTB8CE/edit?usp=sharing" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGvINZmsi1Fw_cwCnHpRmQpfK5aiFA4D107uK-2sThdBJHJW1j-s7-Q7VadSCwpF3VOrdd8TK0gDhf/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
