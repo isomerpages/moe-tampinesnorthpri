@@ -29,15 +29,9 @@ sections:
           announcement: P5 Parent Engagement Session on 16 Jan
           link_text: Click here for the slides used during the session.
           link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-5-2026/
-        - title: P1 First Day of School
-          date: 02 January 2026
-          announcement: P1 First Day of School (2026)
-          link_text: Click here for the slides used during the session.
+        - title: Pri 1 Timetable
+          date: 27 January 2026
+          announcement: The timetable for the Primary 1 classes are now available.
+          link_text: Click here to view the timetable.
           link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-1-2026/
-        - title: Dads@TNPS with the P1s (2026)
-          date: 02 January 2026
-          announcement: Dads@TNPS with the P1s (2026)
-          link_text: Click here to view the photos taken on the first day of school
-            featuring our Primary 1 students and their fathers.
-          link_url: https://www.tampinesnorthpri.moe.edu.sg/dads-tnps/
 ---
