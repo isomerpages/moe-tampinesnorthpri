@@ -12,4 +12,7 @@ below.</p>
 <h4><strong>Parents Engagement Session</strong></h4>
 <p><a href="/files/P6_Parent_Engagement_Slides___SL_and_YH_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Parent Engagement on 16 Jan 2026</a>
 </p>
+<h4><strong>P6 Timetable</strong></h4>
+<p><a href="https://docs.google.com/presentation/d/1ntDSIUA1m0-KCOb35gUXjgN5PAqIE_KCQA_r6KTB8CE/edit?usp=sharing" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
 <p></p>
