@@ -10,6 +10,7 @@ variant: tiptap
 covered for the year for the various subjects by clicking on the links
 below.</p>
 <h4><strong>P3 Timetable</strong></h4>
-<p><a href="https://docs.google.com/presentation/d/1zPwUxc5CbhBwnJHoHaFNtPyecZUBMA5Zr_VM-4EEH9s/edit?usp=sharing" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkobh_CwnLe6B6WaKn9HrXFxRXPEdhyy8OKosgZ4r28rDOkTHLLe8QpqTOo0FNNIPvIOF5LVDu_pPe/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
