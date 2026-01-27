@@ -29,9 +29,4 @@ sections:
           announcement: P5 Parent Engagement Session on 16 Jan
           link_text: Click here for the slides used during the session.
           link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-5-2026/
-        - title: Pri 1 Timetable
-          date: 27 January 2026
-          announcement: The timetable for the Primary 1 classes are now available.
-          link_text: Click here to view the timetable.
-          link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-1-2026/
 ---
