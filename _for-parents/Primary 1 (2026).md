@@ -18,3 +18,7 @@ below.</p>
 <p><a href="/files/P1_First_Day_of_School_2_Jan_2026.pdf" rel="noopener nofollow" target="_blank">Slides used during briefing in hall</a>
 </p>
 <p></p>
+<h4><strong>P1 Timetable</strong></h4>
+<p><a href="https://docs.google.com/presentation/d/1kwusvSVFbYNhPf_0qEfVo89BmS9nxGpQIuR5DsDk-zg/edit?slide=id.g3bdeb09fb41_0_52#slide=id.g3bdeb09fb41_0_52" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
+<p></p>
