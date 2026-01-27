@@ -13,3 +13,8 @@ below.</p>
 <h4><strong>Parent Engagement Session</strong></h4>
 <p><a href="/files/P5_Parent_Engagement_Slides___SL_and_YH_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Parent Engagement on 16 Jan 2026</a>
 </p>
+<p></p>
+<h4><strong>P4 Timetable</strong></h4>
+<p><a href="https://docs.google.com/presentation/d/1oKlqe8xvulSLHLTtcOGWdygiGZgUocEy/edit?usp=sharing&amp;ouid=104311986296717667362&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
+<p></p>
