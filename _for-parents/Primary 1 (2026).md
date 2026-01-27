@@ -4,7 +4,7 @@ permalink: /for-parents/parents-portal/primary-1-2026/
 description: ""
 variant: tiptap
 ---
-<h4><strong>P1 Timetable</strong></h4>
+<h4><strong>Primary 1 Timetable</strong></h4>
 <p><strong>(Click on the &gt; button to go to the next class.)</strong>
 </p>
 <div class="iframe-wrapper">
