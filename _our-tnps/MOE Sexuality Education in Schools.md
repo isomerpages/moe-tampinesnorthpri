@@ -52,7 +52,7 @@ ones.</p>
 <p><em>You may click </em><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a><em> for more information on MOE Sexuality Education.</em>
 </p>
 <p></p>
-<h3><strong>Overview of Tampines North Primary School’s Sexuality Education Programme for 2025</strong></h3>
+<h3><strong>Overview of Tampines North Primary School’s Sexuality Education Programme for 2026</strong></h3>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -85,8 +85,8 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
-<h4>At Tampines North Primary School, the following Sexuality Education lessons will be taught in 2025:</h4>
-<p><strong>2025 Sexuality Education Lessons in CCE&nbsp;</strong>
+<h4>At Tampines North Primary School, the following Sexuality Education lessons will be taught in 2026:</h4>
+<p><strong>2026 Sexuality Education Lessons in CCE&nbsp;</strong>
 </p>
 <p><strong>Primary 5</strong>
 </p>
@@ -137,7 +137,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 4</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +181,7 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE&nbsp;</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE&nbsp;</strong>
 </p>
 <p><strong>Primary 6</strong>
 </p>
@@ -233,7 +233,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
