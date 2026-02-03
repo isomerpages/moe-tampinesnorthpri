@@ -29,14 +29,18 @@ sections:
           announcement: P5 Parent Engagement Session on 16 Jan
           link_text: Click here for the slides used during the session.
           link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-5-2026/
-  - infopic:
-      title: Arif Budiman Malay Language Teachers’ Award 2026
-      id: infopic
-      image: /images/2__AGAB_2026_Poster.jpg
-      alt: Image alt text
-  - infopic:
-      title: The Most Inspiring Tamil Teachers’ Award 2026
-      id: infopic
-      image: /images/2__MITT_2026_Poster.jpg
-      alt: Image alt text
+        - title: "Call for nominations: Arif Budiman Malay Language Teacher Award 2026"
+          date: 03 February 2026
+          announcement: This award recognises outstanding Malay Language teachers who have
+            made significant contributions to the teaching and learning of the
+            Malay Language in our schools.
+          link_text: To nominate, please click here.
+          link_url: https://form.gov.sg/697185dd28bcc2bc1247e1b5
+        - title: "Call for Nominations: Most Inspiring Tamil Teacher 2026"
+          date: 03 February 2026
+          announcement: This award recognises outstanding Tamil language teachers who have
+            made significant contributions to the teaching and learning of Tamil
+            language in our schools.
+          link_text: To nominate, please click here.
+          link_url: https://form.gov.sg/694a59ece5750b966c889121
 ---
