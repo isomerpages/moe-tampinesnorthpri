@@ -157,7 +157,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 4</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 4</p>
 </td>
 </tr>
 </tbody>
@@ -250,7 +250,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 3</p>
 </td>
 </tr>
 </tbody>
