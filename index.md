@@ -19,16 +19,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: P6 Parent Engagement Session
-          date: 16 January 2026
-          announcement: P6 Parent Engagement Session on 16 Jan
-          link_text: Click here for the slides used during the session.
-          link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-6-2026/
-        - title: P5 Parent Engagement Session
-          date: 16 January 2026
-          announcement: P5 Parent Engagement Session on 16 Jan
-          link_text: Click here for the slides used during the session.
-          link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-5-2026/
+        - title: "Call for nominations: The Distinguished Chinese Language Teachers
+            Awards"
+          date: 23 February 2026
+          announcement: This award aim to give due recognition to deserving Chinese
+            language teachers who have demonstrated exemplary efforts towards
+            the teaching of Chinese language and culture over the past year.
+          link_text: To nominate, please click here.
+          link_url: https://zb.sg/dclta2026
         - title: "Call for nominations: Arif Budiman Malay Language Teacher Award 2026"
           date: 03 February 2026
           announcement: This award recognises outstanding Malay Language teachers who have
@@ -43,4 +41,14 @@ sections:
             language in our schools.
           link_text: To nominate, please click here.
           link_url: https://form.gov.sg/694a59ece5750b966c889121
+        - title: P6 Parent Engagement Session
+          date: 16 January 2026
+          announcement: P6 Parent Engagement Session on 16 Jan
+          link_text: Click here for the slides used during the session.
+          link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-6-2026/
+        - title: P5 Parent Engagement Session
+          date: 16 January 2026
+          announcement: P5 Parent Engagement Session on 16 Jan
+          link_text: Click here for the slides used during the session.
+          link_url: https://www.tampinesnorthpri.moe.edu.sg/for-parents/parents-portal/primary-5-2026/
 ---
