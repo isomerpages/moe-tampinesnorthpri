@@ -64,7 +64,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Izhar</p>
+<p>Mr Muhammad Izhar Bin Abdul Rahman</p>
 </td>
 </tr>
 <tr>
