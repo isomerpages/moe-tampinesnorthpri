@@ -16,3 +16,8 @@ variant: tiptap
 <p>Please refer to the Scheme of Work (SOW) outlining the learning to be
 covered for the year for the various subjects by clicking on the links
 below.</p>
+<p></p>
+<h4><strong>Parents Engagement Session</strong></h4>
+<p><a href="https://drive.google.com/file/d/1cCmPkkgrJCNyC_AU26dqoKfX4LX86N83/view" rel="noopener nofollow" target="_blank">P4 Parents Engagement slides</a>
+</p>
+<p></p>
