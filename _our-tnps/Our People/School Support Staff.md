@@ -72,7 +72,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Corporate Support Officers</strong>
 </p>
 </td>
@@ -94,14 +94,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Premelatha Mohan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Mandy Tiah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -152,7 +144,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Operations Support Staff</strong>
 </p>
 </td>
@@ -174,14 +166,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Bee Ray</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Kim Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
