@@ -10,7 +10,7 @@ Insurance through the online claim portal at <a href="https://studentgpa.incomeg
 </p>
 <p></p>
 <p>Click <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">here </a>for
-the 2025 Product Factsheet.</p>
+the 2026 Product Factsheet.</p>
 <p></p>
 <p></p>
 <p>Information on claims, FAQs and other details pertaining to the MOE GPA
