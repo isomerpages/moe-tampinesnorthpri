@@ -19,6 +19,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Photos from Prize Giving Day 2026
+          date: 13 March 2026
+          announcement: All event photos can be found at go.gov.sg/pgd2026photos. Relive
+            the special moments with us!   (Please note that the photos will be
+            removed from 18 April 2026 onwards.)
+          link_text: go.gov.sg/pgd2026photos
+          link_url: go.gov.sg/pgd2026photos
         - title: "Call for nominations: The Distinguished Chinese Language Teachers
             Awards"
           date: 23 February 2026
