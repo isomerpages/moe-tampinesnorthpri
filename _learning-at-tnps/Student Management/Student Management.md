@@ -344,7 +344,7 @@ of these trusted adults:</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/pic4.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/pic4.jpg">
 </div>
 <p>&nbsp;</p>
 <p></p>
