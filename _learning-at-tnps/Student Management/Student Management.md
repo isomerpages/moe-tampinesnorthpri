@@ -205,7 +205,7 @@ platform/service provider. <strong>Do not forward or share the content.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pic1.jpg">
 </div>
 <p></p>
 </li>
@@ -314,7 +314,7 @@ big inside us. It's important to have a plan for how to handle these moments.</p
 <p>Here are some strategies you can use when you feel a negative emotion
 coming on:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture3.png">
 </div>
 <p>Remember: Everyone needs help sometimes. Using these strategies is a sign
 of being strong and smart! If a feeling is too big to handle, the best
@@ -344,10 +344,13 @@ of these trusted adults:</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/pic4.jpg">
 </div>
 <p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Disciplinary_Measures__Infographic_.jpg">
+</div>
 <p><strong>&nbsp;</strong>
 <br>
 </p>
