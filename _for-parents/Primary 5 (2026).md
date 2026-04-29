@@ -24,15 +24,15 @@ below.</p>
 </p>
 <p><a href="/files/2026_P5_Science_SOW_Outline.pdf" rel="noopener nofollow" target="_blank">Science</a>
 </p>
-<p><a href="/files/SOW_Outline_2026_P5_CL_MT.pdf" rel="noopener nofollow" target="_blank">Chinese Language</a>
+<p><a href="/files/SOW_Outline_2026_P5_CL_MT.pdf" rel="noopener nofollow" target="_blank">Standard Chinese Language</a>
 </p>
 <p><a href="/files/SOW_Outline_2026_P5_HCL_MT.pdf" rel="noopener nofollow" target="_blank">Higher Chinese Language</a>
 </p>
-<p><a href="/files/SOW_Outline_2026_P5_ML.pdf" rel="noopener nofollow" target="_blank">Malay Language</a>
+<p><a href="/files/SOW_Outline_2026_P5_ML.pdf" rel="noopener nofollow" target="_blank">Standard Malay Language</a>
 </p>
 <p><a href="/files/SOW_Outline_2026_P5HML.pdf" rel="noopener nofollow" target="_blank">Higher Malay Language</a>
 </p>
-<p><a href="/files/SOW_Outline_TL_P5.pdf" rel="noopener nofollow" target="_blank">Tamil Language</a>
+<p><a href="/files/SOW_Outline_TL_P5.pdf" rel="noopener nofollow" target="_blank">Standard Tamil Language</a>
 </p>
 <p><a href="/files/SOW_Outline_TL_P5_Foundation.pdf" rel="noopener nofollow" target="_blank">Foundation Tamil Language</a>
 </p>
