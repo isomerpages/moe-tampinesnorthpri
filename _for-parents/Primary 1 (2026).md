@@ -18,6 +18,9 @@ covered for the year for the various subjects by clicking on the links
 below.</p>
 <p><a href="/files/2026_P1_EL_SOW_Outline.pdf" rel="noopener nofollow" target="_blank">English</a>
 </p>
+<p><a href="/files/MA_SOW_Outline_2026_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
+</p>
+<p></p>
 <h4><strong>P1 Orientation (11 Nov 2025)</strong></h4>
 <p><a href="/files/TNPS_P1_Orientation.pdf" rel="noopener nofollow" target="_blank">Slides used during briefing in hall</a>
 </p>
@@ -25,4 +28,5 @@ below.</p>
 <h4><strong>First Day of School (2 Jan 2026)</strong></h4>
 <p><a href="/files/P1_First_Day_of_School_2_Jan_2026.pdf" rel="noopener nofollow" target="_blank">Slides used during briefing in hall</a>
 </p>
+<p></p>
 <p></p>
