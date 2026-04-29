@@ -16,6 +16,22 @@ variant: tiptap
 <p>Please refer to the Scheme of Work (SOW) outlining the learning to be
 covered for the year for the various subjects by clicking on the links
 below.</p>
+<p><a href="/files/2026_P1_EL_SOW_Outline.pdf" rel="noopener nofollow" target="_blank">English Language</a>
+</p>
+<p><a href="/files/MA_SOW_Outline_2026_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
+</p>
+<p><a href="/files/SOW_Outline_2026_P1_CL_MT.pdf" rel="noopener nofollow" target="_blank">Chinese Language</a>
+</p>
+<p><a href="/files/SOW_Outline_2026_P1_ML.pdf" rel="noopener nofollow" target="_blank">Malay Language</a>
+</p>
+<p><a href="/files/SOW_Outline_TL_P1.pdf" rel="noopener nofollow" target="_blank">Tamil Language</a>
+</p>
+<p><a href="/files/PE_SOW_Outline_2026_P1.pdf" rel="noopener nofollow" target="_blank">PE</a>
+</p>
+<p><a href="/files/Art_SOW_Outline_2026_P1.pdf" rel="noopener nofollow" target="_blank">Art</a>
+</p>
+<p><a href="/files/Music_SOW_Outline_2026_P1.pdf" rel="noopener nofollow" target="_blank">Music</a>
+</p>
 <p></p>
 <h4><strong>P1 Orientation (11 Nov 2025)</strong></h4>
 <p><a href="/files/TNPS_P1_Orientation.pdf" rel="noopener nofollow" target="_blank">Slides used during briefing in hall</a>
@@ -24,4 +40,5 @@ below.</p>
 <h4><strong>First Day of School (2 Jan 2026)</strong></h4>
 <p><a href="/files/P1_First_Day_of_School_2_Jan_2026.pdf" rel="noopener nofollow" target="_blank">Slides used during briefing in hall</a>
 </p>
+<p></p>
 <p></p>

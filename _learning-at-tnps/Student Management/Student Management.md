@@ -30,7 +30,7 @@ a culture anchored on the school values – Integrity, Care, Respect, Resilience
 and Responsibility. Together, we can guide our children to become confident
 and values-driven learners, ready to thrive in school and beyond.</p>
 <p></p>
-<p><strong>Bullying</strong>
+<p><strong><u>Bullying</u></strong>
 </p>
 <p><strong>Zero Tolerance Against Bullying: Keeping Our School Safe and Kind</strong>
 </p>
@@ -53,7 +53,7 @@ unhappiness, or worry.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Insensitive: Failing to consider
 or respect another person's feelings.</p>
 <p>&nbsp;</p>
-<p><strong>What is Bullying?</strong>
+<p><strong><u>What is Bullying?</u></strong>
 </p>
 <p>Bullying is a repeated pattern of behaviour where a student or group intentionally
 targets others to cause distress. It can be cyber, physical, social/relational
@@ -114,7 +114,7 @@ person.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>Cyber Bullying</strong>
+<p><strong><u>Cyber Bullying</u></strong>
 </p>
 <p>Common forms of cyber bullying include:</p>
 <ul data-tight="true" class="tight">
@@ -156,7 +156,7 @@ bystander), it is important to speak up! Do not handle it alone or with
 your friends, and do not retaliate. <strong>Getting help is a sign of strength.</strong>
 </p>
 <p>Reporting Channels for Students:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Tell a Trusted Adult IMMEDIATELY:</p>
 <ul data-tight="true" class="tight">
@@ -185,23 +185,25 @@ and where possible, block the bully and report the post/user to the online
 platform/service provider. <strong>Do not forward or share the content.</strong>&nbsp;</p>
 <p></p>
 <p></p>
-<p>Helpful Numbers</p>
-<p>ü&nbsp; <strong>Tinkle Friend (Hotline for Children)</strong>
+<p><strong><u>Helpful Numbers</u></strong>
 </p>
-<p><strong>&nbsp;&nbsp; </strong>Tel: 1800 274 4788</p>
-<p>ü&nbsp; <strong>Help123 Cyber Wellness Hotline</strong>
+<p><strong>Tinkle Friend (Hotline for Children)</strong>
+</p>
+<p>Tel: 1800 274 4788</p>
+<p><strong>Help123 Cyber Wellness Hotline</strong>
 </p>
 <p>Tel: 1800 612 3123</p>
-<p>ü&nbsp; <strong>TOUCHline by Touch</strong>
+<p><strong>TOUCHline by Touch</strong>
 </p>
-<p><strong>&nbsp;&nbsp; </strong>Tel: 1800 377-2252</p>
+<p>Tel: 1800 377-2252</p>
 <p>&nbsp;</p>
-<p>Helpful Websites</p>
-<p>ü&nbsp; <strong>eCounselling Centre (</strong><a href="http://ec2.sg" rel="noopener noreferrer nofollow" target="_blank">http://ec2.sg</a><strong>)</strong>
+<p><strong><u>Helpful Websites</u></strong>
 </p>
-<p>ü&nbsp; <strong>metoyou Cyber Counselling (</strong><a href="http://metoyou.org.sg" rel="noopener noreferrer nofollow" target="_blank">http://metoyou.org.sg</a><strong>)</strong>
+<p><strong>eCounselling Centre (</strong><a href="http://ec2.sg" rel="noopener noreferrer nofollow" target="_blank">http://ec2.sg</a><strong>)</strong>
 </p>
-<p>ü&nbsp; <strong>Help123 Cyber Wellness Online (</strong><a href="http://www.help123.sg" rel="noopener noreferrer nofollow" target="_blank">www.help123.sg</a><strong>)</strong>
+<p><strong>metoyou Cyber Counselling (</strong><a href="http://metoyou.org.sg" rel="noopener noreferrer nofollow" target="_blank">http://metoyou.org.sg</a><strong>)</strong>
+</p>
+<p><strong>Help123 Cyber Wellness Online (</strong><a href="http://www.help123.sg" rel="noopener noreferrer nofollow" target="_blank">www.help123.sg</a><strong>)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -209,8 +211,8 @@ platform/service provider. <strong>Do not forward or share the content.</strong>
 </div>
 <p></p>
 </li>
-</ol>
-<p><strong>Partnership with Parents</strong>
+</ul>
+<p><strong><u>Partnership with Parents</u></strong>
 </p>
 <p>Parents are our most critical partners in instilling positive values.
 We seek your support to:</p>
@@ -233,7 +235,7 @@ disciplinary and educative actions.</p>
 </li>
 </ul>
 <p></p>
-<p>&nbsp;<strong>Student Wellbeing</strong>
+<p><strong><u>Student Wellbeing</u></strong>
 </p>
 <p><strong>Happy, Healthy, and Ready to Learn!</strong>
 </p>
@@ -321,7 +323,7 @@ of being strong and smart! If a feeling is too big to handle, the best
 thing to do is to talk to a trusted adult (a teacher, school counsellor,
 or parent). We are always here to help you feel better.</p>
 <p>&nbsp;</p>
-<p><strong>Who Can Help Me?</strong>
+<p><strong><u>Who Can Help Me?</u></strong>
 </p>
 <p>Remember, you are never alone! If you need support, you can talk to any
 of these trusted adults:</p>
