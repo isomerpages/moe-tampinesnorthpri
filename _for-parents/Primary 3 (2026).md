@@ -32,6 +32,12 @@ below.</p>
 </p>
 <p><a href="/files/SOW_Outline_TL_P3.pdf" rel="noopener nofollow" target="_blank">Tamil Language</a>
 </p>
+<p><a href="/files/PE_SOW_Outline_2026_P3.pdf" rel="noopener nofollow" target="_blank">PE</a>
+</p>
+<p><a href="/files/Art_SOW_Outline_2026_P3.pdf" rel="noopener nofollow" target="_blank">Art</a>
+</p>
+<p><a href="/files/Music_SOW_Outline_2026_P3.pdf" rel="noopener nofollow" target="_blank">Music</a>
+</p>
 <p></p>
 <h4><strong>P3 Parents Engagement</strong></h4>
 <p><a href="https://drive.google.com/file/d/12WL8dneEBvWnU30KS0fgCom2rvnh63jv/view" rel="noopener nofollow" target="_blank">P3 Parents Engagement slides</a>
