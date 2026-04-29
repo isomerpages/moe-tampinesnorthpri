@@ -16,7 +16,7 @@ variant: tiptap
 <p>Please refer to the Scheme of Work (SOW) outlining the learning to be
 covered for the year for the various subjects by clicking on the links
 below.</p>
-<p><a href="/files/2026_P1_EL_SOW_Outline.pdf" rel="noopener nofollow" target="_blank">English</a>
+<p><a href="/files/2026_P1_EL_SOW_Outline.pdf" rel="noopener nofollow" target="_blank">English Language</a>
 </p>
 <p><a href="/files/MA_SOW_Outline_2026_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
 </p>
