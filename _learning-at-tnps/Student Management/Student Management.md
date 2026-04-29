@@ -156,7 +156,7 @@ bystander), it is important to speak up! Do not handle it alone or with
 your friends, and do not retaliate. <strong>Getting help is a sign of strength.</strong>
 </p>
 <p>Reporting Channels for Students:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Tell a Trusted Adult IMMEDIATELY:</p>
 <ul data-tight="true" class="tight">
@@ -185,23 +185,25 @@ and where possible, block the bully and report the post/user to the online
 platform/service provider. <strong>Do not forward or share the content.</strong>&nbsp;</p>
 <p></p>
 <p></p>
-<p>Helpful Numbers</p>
-<p>ü&nbsp; <strong>Tinkle Friend (Hotline for Children)</strong>
+<p><strong><u>Helpful Numbers</u></strong>
 </p>
-<p><strong>&nbsp;&nbsp; </strong>Tel: 1800 274 4788</p>
-<p>ü&nbsp; <strong>Help123 Cyber Wellness Hotline</strong>
+<p><strong>Tinkle Friend (Hotline for Children)</strong>
+</p>
+<p>Tel: 1800 274 4788</p>
+<p><strong>Help123 Cyber Wellness Hotline</strong>
 </p>
 <p>Tel: 1800 612 3123</p>
-<p>ü&nbsp; <strong>TOUCHline by Touch</strong>
+<p><strong>TOUCHline by Touch</strong>
 </p>
-<p><strong>&nbsp;&nbsp; </strong>Tel: 1800 377-2252</p>
+<p>Tel: 1800 377-2252</p>
 <p>&nbsp;</p>
-<p>Helpful Websites</p>
-<p>ü&nbsp; <strong>eCounselling Centre (</strong><a href="http://ec2.sg" rel="noopener noreferrer nofollow" target="_blank">http://ec2.sg</a><strong>)</strong>
+<p><strong><u>Helpful Websites</u></strong>
 </p>
-<p>ü&nbsp; <strong>metoyou Cyber Counselling (</strong><a href="http://metoyou.org.sg" rel="noopener noreferrer nofollow" target="_blank">http://metoyou.org.sg</a><strong>)</strong>
+<p><strong>eCounselling Centre (</strong><a href="http://ec2.sg" rel="noopener noreferrer nofollow" target="_blank">http://ec2.sg</a><strong>)</strong>
 </p>
-<p>ü&nbsp; <strong>Help123 Cyber Wellness Online (</strong><a href="http://www.help123.sg" rel="noopener noreferrer nofollow" target="_blank">www.help123.sg</a><strong>)</strong>
+<p><strong>metoyou Cyber Counselling (</strong><a href="http://metoyou.org.sg" rel="noopener noreferrer nofollow" target="_blank">http://metoyou.org.sg</a><strong>)</strong>
+</p>
+<p><strong>Help123 Cyber Wellness Online (</strong><a href="http://www.help123.sg" rel="noopener noreferrer nofollow" target="_blank">www.help123.sg</a><strong>)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -209,7 +211,7 @@ platform/service provider. <strong>Do not forward or share the content.</strong>
 </div>
 <p></p>
 </li>
-</ol>
+</ul>
 <p><strong>Partnership with Parents</strong>
 </p>
 <p>Parents are our most critical partners in instilling positive values.
