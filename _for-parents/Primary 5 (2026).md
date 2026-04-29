@@ -16,7 +16,32 @@ variant: tiptap
 <p>Please refer to the Scheme of Work (SOW) outlining the learning to be
 covered for the year for the various subjects by clicking on the links
 below.</p>
-<p></p>
+<p><a href="/files/2026_P5_EL_SOW_Outline.pdf" rel="noopener nofollow" target="_blank">English Language</a>
+</p>
+<p><a href="/files/SOW_Outline_2026_P5_SMA.pdf" rel="noopener nofollow" target="_blank">Standard Mathematics</a>
+</p>
+<p><a href="/files/SOW_Outline_2026_P5FMA.pdf" rel="noopener nofollow" target="_blank">Foundation Mathematics</a>
+</p>
+<p><a href="/files/2026_P5_Science_SOW_Outline.pdf" rel="noopener nofollow" target="_blank">Science</a>
+</p>
+<p><a href="/files/SOW_Outline_2026_P5_CL_MT.pdf" rel="noopener nofollow" target="_blank">Chinese Language</a>
+</p>
+<p><a href="/files/SOW_Outline_2026_P5_HCL_MT.pdf" rel="noopener nofollow" target="_blank">Higher Chinese Language</a>
+</p>
+<p><a href="/files/SOW_Outline_2026_P5_ML.pdf" rel="noopener nofollow" target="_blank">Malay Language</a>
+</p>
+<p><a href="/files/SOW_Outline_2026_P5HML.pdf" rel="noopener nofollow" target="_blank">Higher Malay Language</a>
+</p>
+<p><a href="/files/SOW_Outline_TL_P5.pdf" rel="noopener nofollow" target="_blank">Tamil Language</a>
+</p>
+<p><a href="/files/SOW_Outline_TL_P5_Foundation.pdf" rel="noopener nofollow" target="_blank">Foundation Tamil Language</a>
+</p>
+<p><a href="/files/PE_SOW_Outline_2026_P5.pdf" rel="noopener nofollow" target="_blank">PE</a>
+</p>
+<p><a href="/files/Art_SOW_Outline_2026_P5.pdf" rel="noopener nofollow" target="_blank">Art</a>
+</p>
+<p><a href="/files/Music_SOW_Outline_2026_P5.pdf" rel="noopener nofollow" target="_blank">Music</a>
+</p>
 <h4><strong>Parent Engagement Session</strong></h4>
 <p><a href="/files/P5_Parent_Engagement_Slides___SL_and_YH_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Parent Engagement on 16 Jan 2026</a>
 </p>
