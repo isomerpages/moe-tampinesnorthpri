@@ -20,6 +20,18 @@ below.</p>
 </p>
 <p><a href="/files/MA_SOW_Outline_2026_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
 </p>
+<p><a href="/files/SOW_Outline_2026_P1_CL_MT.pdf" rel="noopener nofollow" target="_blank">Chinese Language</a>
+</p>
+<p><a href="/files/SOW_Outline_2026_P1_ML.pdf" rel="noopener nofollow" target="_blank">Malay Language</a>
+</p>
+<p><a href="/files/SOW_Outline_TL_P1.pdf" rel="noopener nofollow" target="_blank">Tamil Language</a>
+</p>
+<p><a href="/files/PE_SOW_Outline_2026_P1.pdf" rel="noopener nofollow" target="_blank">PE</a>
+</p>
+<p><a href="/files/Art_SOW_Outline_2026_P1.pdf" rel="noopener nofollow" target="_blank">Art</a>
+</p>
+<p><a href="/files/Music_SOW_Outline_2026_P1.pdf" rel="noopener nofollow" target="_blank">Music</a>
+</p>
 <p></p>
 <h4><strong>P1 Orientation (11 Nov 2025)</strong></h4>
 <p><a href="/files/TNPS_P1_Orientation.pdf" rel="noopener nofollow" target="_blank">Slides used during briefing in hall</a>
