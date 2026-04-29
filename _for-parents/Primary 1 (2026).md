@@ -16,7 +16,8 @@ variant: tiptap
 <p>Please refer to the Scheme of Work (SOW) outlining the learning to be
 covered for the year for the various subjects by clicking on the links
 below.</p>
-<p></p>
+<p><a href="/files/2026_P1_EL_SOW_Outline.pdf" rel="noopener nofollow" target="_blank">English</a>
+</p>
 <h4><strong>P1 Orientation (11 Nov 2025)</strong></h4>
 <p><a href="/files/TNPS_P1_Orientation.pdf" rel="noopener nofollow" target="_blank">Slides used during briefing in hall</a>
 </p>
