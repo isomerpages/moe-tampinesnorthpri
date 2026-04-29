@@ -16,7 +16,22 @@ variant: tiptap
 <p>Please refer to the Scheme of Work (SOW) outlining the learning to be
 covered for the year for the various subjects by clicking on the links
 below.</p>
-<p></p>
+<p><a href="/files/2026_P2_EL_SOW_Outline.pdf" rel="noopener nofollow" target="_blank">English Language</a>
+</p>
+<p><a href="/files/MA_SOW_Outline_2026_P2.pdf" rel="noopener nofollow" target="_blank">Mathematics</a>
+</p>
+<p><a href="/files/SOW_Outline_2026_P2_CL_MT.pdf" rel="noopener nofollow" target="_blank">Chinese Language</a>
+</p>
+<p><a href="/files/SOW_Outline_2026_P2_ML.pdf" rel="noopener nofollow" target="_blank">Malay Language</a>
+</p>
+<p><a href="/files/SOW_Outline_TL_P2.pdf" rel="noopener nofollow" target="_blank">Tamil Language</a>
+</p>
+<p><a href="/files/PE_SOW_Outline_2026_P2.pdf" rel="noopener nofollow" target="_blank">PE</a>
+</p>
+<p><a href="/files/Art_SOW_Outline_2026_P2.pdf" rel="noopener nofollow" target="_blank">Art</a>
+</p>
+<p><a href="/files/Music_SOW_Outline_2026_P2.pdf" rel="noopener nofollow" target="_blank">Music</a>
+</p>
 <h4><strong>P2 Parents Engagement</strong></h4>
 <p><a href="https://drive.google.com/file/d/1vND4rxFvVGNhFAMeKh6LCC1SgHqM4gpZ/view?usp=drive_link" rel="noopener nofollow" target="_blank">P2 Parents Engagement Slides</a>
 </p>
