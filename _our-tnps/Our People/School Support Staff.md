@@ -204,27 +204,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SENO</strong>
+<p><strong>SC</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Khaliqah Bte Mohd Khalid</p>
+<p>Ms Lily Mok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_khaliqah_mohamed_khalid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khaliqah_mohamed_khalid@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SENO</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Maisarah Nabilah Binte Sa'azali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:maisarah_nabilah_saazal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maisarah_nabilah_saazal@schools.gov.sg</a>
+<p><a href="mailto:lily_mok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lily_mok@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -242,10 +229,28 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>SENO (FAJT)</strong>
+<td rowspan="5" colspan="1">
+<p><strong>SENO</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Maisarah Nabilah Binte Sa'azali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:maisarah_nabilah_saazal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maisarah_nabilah_saazal@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Khaliqah Bte Mohd Khalid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_khaliqah_mohamed_khalid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khaliqah_mohamed_khalid@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Krystin Aw Sok Hooi</p>
 </td>
@@ -256,14 +261,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SC (FAJT)</strong>
+<p>Ms Wee Lay Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Wee_Lay_Hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wee_Lay_Hwee@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lily Mok</p>
+<p>Ms Jayanthi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lily_mok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lily_mok@schools.gov.sg</a>
+<p><a href="mailto:Jayanthi_Gunasagaran_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jayanthi_Gunasagaran_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
