@@ -33,7 +33,7 @@ third_nav_title: School Operating Information
 <p>Chicken Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2026</p>
+<p>31 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
