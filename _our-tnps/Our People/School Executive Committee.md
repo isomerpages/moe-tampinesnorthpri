@@ -120,10 +120,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kezia Ler Bee Pheng</p>
+<p>Mrs Angelina Chia Su Yunn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ler_bee_pheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ler_bee_pheng@schools.gov.sg</a>
+<p><a href="mailto:ang_su_yunn_angelina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_su_yunn_angelina@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -155,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Management (covering)</strong>
+<p><strong>Student Management </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -377,19 +377,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_xin_hui_phyllis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_xin_hui_phyllis@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Lead Teacher (Art)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Angelina Chia Su Yunn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_su_yunn_angelina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_su_yunn_angelina@schools.gov.sg</a>
 </p>
 </td>
 </tr>
