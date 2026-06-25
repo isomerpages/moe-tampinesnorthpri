@@ -204,7 +204,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SC</strong>
+<p><strong>School Counsellor</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SWO</strong>
+<p><strong>Senior Student Welfare Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,8 +229,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
-<p><strong>SENO</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Senior SEN Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,6 +243,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SEN Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Nur Khaliqah Bte Mohd Khalid</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,6 +255,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>SEN Officer</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ms Krystin Aw Sok Hooi</p>
 </td>
@@ -261,6 +269,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SEN Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Wee Lay Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,10 +282,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SEN Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Jayanthi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Jayanthi_Gunasagaran_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jayanthi_Gunasagaran_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SEN Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Juslyn Chan Shih Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:juslyn_chan_shih_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juslyn_chan_shih_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
