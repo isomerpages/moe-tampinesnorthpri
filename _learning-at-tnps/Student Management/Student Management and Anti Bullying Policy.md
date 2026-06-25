@@ -1,5 +1,5 @@
 ---
-title: Student Management
+title: Student Management and Anti Bullying Policy
 permalink: /student-management/
 variant: tiptap
 description: ""
