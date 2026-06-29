@@ -44,7 +44,8 @@ variant: tiptap
 <p>Email Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sales@pacificbookstores.com</p>
+<p><a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -52,8 +53,7 @@ variant: tiptap
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -62,8 +62,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><u>On-site (On school premises)</u>
-<br>Mon-Thurs: 8.30am-11.30am, 2.30pm-3.30pm</p>
-<p>Fri: 8.30am-11.30am, 1.30pm-3.30pm</p>
+<br>Mon, Wed to Fri: 8.30am-11.30am, 2.30pm-3.30pm</p>
+<p>Tue: 8.30am-11.30am, 2.30pm-3.00pm</p>
+<p>&nbsp;</p>
+<p>Parents or guardians may enter the school after 2.30pm to make purchases
+for their child.</p>
 </td>
 </tr>
 </tbody>
@@ -144,6 +147,6 @@ link or QR Code below. <strong><a href="https://bigheartstudentcare.com/interest
 </div>
 <h4><strong>Corporate Video</strong><br></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Do4hSWR8s4o"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Do4hSWR8s4o"></iframe>
 </div>
 <p></p>
