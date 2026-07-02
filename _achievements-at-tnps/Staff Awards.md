@@ -4,19 +4,22 @@ permalink: /achievements/staff-awards/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Awards_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OCA1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Awards_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OCA2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Awards_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OCA3.png">
 </div>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A3.png">
+</div>
 <p></p>
