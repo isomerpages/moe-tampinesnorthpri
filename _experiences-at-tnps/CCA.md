@@ -4,30 +4,27 @@ permalink: /cca/ccas/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_main_1.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_main_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_main_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_main_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_main_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca4.jpg">
 </div>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca6.jpg">
+</div>
 <p><strong>2026 Semester 1 CCA Dates</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
