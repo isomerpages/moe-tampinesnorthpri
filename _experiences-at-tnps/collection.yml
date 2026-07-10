@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA.md
+      - CCA   Clubs & Societies/CCA Clubs & Societies.md
       - CCA   Clubs & Societies/.keep
       - CCA   Performing Arts/.keep
       - CCA   Performing Arts/Angklung Kulintang Ensemble.md
