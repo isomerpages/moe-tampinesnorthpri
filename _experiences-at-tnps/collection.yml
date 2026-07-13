@@ -3,21 +3,23 @@ collections:
     output: true
     order:
       - CCA.md
+      - CCA   Clubs & Societies/CCA Clubs & Societies.md
       - CCA   Clubs & Societies/.keep
-      - CCA   Clubs & Societies/Art Club.md
-      - CCA   Clubs & Societies/Infocomm Club.md
+      - CCA   Performing Arts/CCA Performing Arts.md
       - CCA   Performing Arts/.keep
       - CCA   Performing Arts/Angklung Kulintang Ensemble.md
       - CCA   Performing Arts/Indian Dance.md
       - CCA   Performing Arts/Malay Dance.md
       - CCA   Performing Arts/Modern Dance.md
       - CCA   Performing Arts/Show Choir.md
+      - CCA   Sports/CCA Sports.md
       - CCA   Sports/.keep
       - CCA   Sports/Badminton.md
       - CCA   Sports/Basketball.md
       - CCA   Sports/Floorball.md
       - CCA   Sports/Football.md
       - CCA   Sports/Wushu.md
+      - CCA   Uniformed Groups/Uniformed Groups.md
       - CCA   Uniformed Groups/.keep
       - CCA   Uniformed Groups/Scouts.md
       - CCA   Uniformed Groups/Brownies.md
