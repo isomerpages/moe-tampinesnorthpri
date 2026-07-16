@@ -260,45 +260,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Krystin Aw Sok Hooi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Krystin_Aw_Sok_Hooi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Krystin_Aw_Sok_Hooi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SEN Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wee Lay Hwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Wee_Lay_Hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wee_Lay_Hwee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SEN Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jayanthi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Jayanthi_Gunasagaran_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jayanthi_Gunasagaran_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SEN Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Juslyn Chan Shih Yun</p>
 </td>
 <td rowspan="1" colspan="1">
