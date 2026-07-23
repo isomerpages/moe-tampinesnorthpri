@@ -28,6 +28,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Noel Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Noel_Goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Noel_Goh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Operation Manager</strong>
 </p>
 </td>
@@ -106,6 +118,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Subash</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kuar Hwa Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
