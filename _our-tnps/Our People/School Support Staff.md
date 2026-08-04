@@ -218,7 +218,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Catherine Toh</p>
+<p>Dr Catherine Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_mui_hua_catherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_mui_hua_catherine@schools.gov.sg</a>
