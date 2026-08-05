@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: Forms and Links
 ---
 <h3><strong>TNPS Waitlist Application</strong></h3>
-<p>Waitlist Application Form:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tnpswaitlist</a>
+<p>Waitlist Application Form:&nbsp;<a href="https://go.gov.sg/tnpswaitlist" rel="noopener nofollow" target="_blank"> https://go.gov.sg/tnpswaitlist</a>
 </p>
 <p>Instructions:</p>
 <ol data-tight="true" class="tight">
