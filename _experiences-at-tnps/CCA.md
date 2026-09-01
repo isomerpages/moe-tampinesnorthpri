@@ -273,6 +273,261 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>&nbsp;<strong>Term 3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Session 17</p>
+<p>CCAs for P4 and P5 students only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Session 18</p>
+<p>First session for P3 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Session 19</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Session 20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Session 21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Session 22</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No CCA - </strong>PSLE Oral Day 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Session 23 (No CCA for Malay Dance and Show Choir)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No CCA - </strong>P5 Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No CCA </strong>– Teacher’s Day</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Term 4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No CCA </strong>– Prep for PSLE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No CCA </strong>– PSLE Written</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No CCA </strong>– Children’s Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Session 24 (No CCA for Malay Dance and Show Choir)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Session 25 – Last session</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>CCA Timing</strong>
 </p>
 <table style="minWidth: 50px">
