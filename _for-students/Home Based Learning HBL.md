@@ -5,46 +5,107 @@ description: ""
 variant: tiptap
 ---
 <h4>📢 <strong>Announcement for P3–P5 Students</strong></h4>
-<p>P3 to P5 will be having <strong>Home-Based Learning (HBL)</strong> on <strong>Thursday, 25 September 2025</strong> and <strong>Friday, 26 September 2025</strong>.
-On these two days, you do <strong>not</strong> need to come to school.</p>
+<p><strong><u>Home-Based Learning 2026</u></strong>
+<br><strong>📢 Announcement for P3–P5 Students</strong>
+</p>
+<p>Primary 3 to Primary 5 students will be having Home-Based Learning (HBL)
+according to the schedule below:</p>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Home-Based Learning (HBL) Days</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday, 24 September 2026 and Friday, 25 September 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday, 28 September 2026 and Tuesday, 29 September 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday, 24 September 2026 and Friday, 25 September 2026</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>On your HBL Day(s), you do not need to come to school. You will complete
+your learning from home.</p>
+<p>&nbsp;</p>
 <p>HBL is part of your learning to help you:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Learn on your own</strong> and be more independent.</p>
+<p>Learn independently and take greater ownership of your learning.</p>
 </li>
 <li>
-<p>Get used to using <strong>online learning platforms</strong> like SLS and
-Google Meet.</p>
+<p>Become familiar with using online learning platforms such as SLS and Google
+Meet.</p>
 </li>
 <li>
-<p>Practise good digital habits.</p>
+<p>Practise good digital habits and manage your learning responsibly.</p>
 </li>
 </ul>
-<p>🔹 <strong>Your HBL lessons</strong> will be ready on <strong>SLS by 7.30 am</strong> each
-day.
-<br>🔹 You should try to finish your lessons by <strong>5.00 pm</strong>.
-<br>🔹 Lesson instructions can also be found on the TNPS HBL site: <a href="https://go.gov.sg/2025tnpshbl" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025tnpshbl</a>.</p>
-<p>💻 <strong>Day 2 Check-In (Friday, 26 Sep)</strong>
-<br>On Friday, you will have a <strong>30-minute check-in session</strong> with
-your Form Teacher on <strong>Google Meet</strong>.
-<br>This session is for your teacher to check on your <strong>well-being</strong> and
-to answer any <strong>questions</strong> you may have about HBL.</p>
-<p>Please join at your level’s time:</p>
+<p>&nbsp;</p>
+<p>🔹 Your HBL lessons will be ready <strong><u>on SLS by 7.30 am</u></strong> on
+your HBL Day.
+<br>🔹 You should try to complete your assigned lessons by 5.00 pm.
+<br>🔹 Lesson instructions and other important HBL information can also be
+found on the TNPS HBL Site: <a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/2026tnpshbl</a>.</p>
+<p>&nbsp;</p>
+<p>💻 <strong>Check-In with Your Form Teacher (HBL Day 2 Only)</strong>
+</p>
+<p>On Day 2 of HBL, you will have a <strong>30-minute check-in session</strong> with
+your Form Teacher on <strong>Google Meet via SLS</strong>.</p>
+<p>The session allows your Form Teacher to check on your well-being, see
+how you are managing your HBL, and answer any questions you may have.</p>
+<p>&nbsp;</p>
+<p><strong>Please join the Google Meet session at your level's assigned date and time:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>P3</strong> – 9.00 am</p>
+<p>P3 – 8.30 am, on Friday, 25 September 2026 &nbsp;&nbsp;</p>
 </li>
 <li>
-<p><strong>P4</strong> – 10.00 am</p>
+<p>P4 – 8.30 am, on Tuesday, 29 September 2026</p>
 </li>
 <li>
-<p><strong>P5</strong> – 11.00 am</p>
+<p>P5 – 9.00 am, on Friday, 25 September 2026 &nbsp;</p>
 </li>
 </ul>
-<p>👉 Click <a href="https://drive.google.com/file/d/1Qv1uVnz4vbwef5RP_6FOq5b96H-EyMXN/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
-watch a short video on how to join the Google Meet session. (You have also
-watched this video in class.)</p>
-<p>📌 <strong>Note:</strong> P1 and P2 students will still come to school as
-usual on both days.</p>
-<p>P6 will be having their PSLE Written Exams.</p>
+<p>&nbsp;</p>
+<p>You have watched a video in class on how to join the Google Meet session.
+You may also refer to the video again <a href="https://drive.google.com/file/d/1Qv1uVnz4vbwef5RP_6FOq5b96H-EyMXN/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> if
+you need help joining the session.</p>
+<p><strong>📌 For P1 and P2 students: Lessons will continue as per normal in school on all HBL Days.</strong>
+</p>
+<p><strong>📌 For P6 students: You will be sitting for your PSLE Written Examinations during this period.</strong>
+</p>
+<p>&nbsp;</p>
+<p>Remember: Plan your time well, complete your lessons, and reach out to
+your teachers if you need help. Have a productive HBL Day!</p>
 <p>&nbsp;</p>
