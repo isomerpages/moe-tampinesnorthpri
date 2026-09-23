@@ -72,7 +72,8 @@ Meet.</p>
 your HBL Day.
 <br>🔹 You should try to complete your assigned lessons by 5.00 pm.
 <br>🔹 Lesson instructions and other important HBL information can also be
-found on the TNPS HBL Site: <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/2026tnpshbl</a>.</p>
+found on the TNPS HBL Site: <a href="" rel="noopener nofollow" target="_blank"> go.gov.sg/2026tnpshbl</a>
+</p>
 <p></p>
 <p></p>
 <p>💻 <strong>Check-In with Your Form Teacher (HBL Day 2 Only)</strong>
