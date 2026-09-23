@@ -19,6 +19,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Home-Based Learning (HBL) for P3 to P5 Students
+          date: 20 September 2026
+          announcement: As part of our annual Home-Based Learning (HBL) Exercise, all
+            P3-P5 students will be having their HBL. You may find more
+            information on the HBL schedule as well as lesson instructions and
+            resources on the TNPS HBL Google Site (link below).
+          link_text: TNPS HBL Google Site
+          link_url: go.gov.sg/2026tnpshbl
         - title: Photos from Prize Giving Day 2026
           date: 13 March 2026
           announcement: All event photos can be found at go.gov.sg/pgd2026photos. Relive
