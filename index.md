@@ -26,7 +26,7 @@ sections:
             information on the HBL schedule as well as lesson instructions and
             resources on the TNPS HBL Google Site (link below).
           link_text: TNPS HBL Google Site
-          link_url: go.gov.sg/2026tnpshbl
+          link_url: https://sites.google.com/moe.edu.sg/2026tnpshbl/home
         - title: Photos from Prize Giving Day 2026
           date: 13 March 2026
           announcement: All event photos can be found at go.gov.sg/pgd2026photos. Relive
