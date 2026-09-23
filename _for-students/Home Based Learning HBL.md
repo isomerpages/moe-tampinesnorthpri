@@ -72,11 +72,10 @@ Meet.</p>
 your HBL Day.
 <br>🔹 You should try to complete your assigned lessons by 5.00 pm.
 <br>🔹 Lesson instructions and other important HBL information can also be
-found on the TNPS HBL Site: <a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/2026tnpshbl</a>.</p>
+found on the <a href="https://sites.google.com/moe.edu.sg/2026tnpshbl/home" rel="noopener nofollow" target="_blank">TNPS HBL Google Site</a>.</p>
 <p></p>
 <p></p>
-<p>💻 <strong>Check-In with Your Form Teacher (HBL Day 2 Only)</strong>
-</p>
+<h4>💻 <strong>Check-In with Your Form Teacher (HBL Day 2 Only)</strong></h4>
 <p>On Day 2 of HBL, you will have a <strong>30-minute check-in session</strong> with
 your Form Teacher on <strong>Google Meet via SLS</strong>.</p>
 <p>The session allows your Form Teacher to check on your well-being, see
